@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,Gender,Age,Product,Category,SubCategory,Brand,Quantity,UnitPrice,Discount,DiscountAmount,Tax,ShippingCost,TotalAmount,PaymentMethod,OrderChannel,City,State,Region,DeliveryDays,ReturnStatus,Rating,Status
+ORD00001,16-Jul-25,CUST883,Rahul,Female,35,Headphones,Electronics,Headphones,Sony,2,24446,5,2444.6,8360.53,310,55117.93,Net Banking,Website,Mumbai,Maharashtra,West,1,No Return,1,Delivered
+ORD00002,14-May-25,CUST657,Neha,Male,45,Keyboard,Electronics,Keyboard,Sony,2,18047,20,7218.8,5197.54,363,34435.74,Cash on Delivery,Website,Pune,Maharashtra,West,4,No Return,1,Returned
+ORD00003,28-Aug-25,CUST546,Arjun,Female,29,Shoes,Fashion,Shoes,Boat,2,15876,5,1587.6,5429.59,156,35749.99,UPI,Website,Chandigarh,Punjab,North,3,No Return,4,Cancelled
+ORD00004,12-Jul-25,CUST355,Priya,Female,18,Keyboard,Electronics,Keyboard,Dell,4,22930,15,13758,14033.16,264,92259.16,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,10,No Return,2,Delivered
+ORD00005,29-Sep-25,CUST595,Vikas,Male,22,Backpack,Accessories,Backpack,HP,3,28947,10,8684.1,14068.24,398,92623.14,Net Banking,Mobile App,Patiala,Punjab,North,6,No Return,2,Delivered
+ORD00006,05-Feb-26,CUST587,Sneha,Male,45,Laptop,Electronics,Laptop,Lenovo,5,5222,10,2611,4229.82,392,28120.82,Net Banking,Mobile App,Jaipur,Rajasthan,North,6,No Return,3,Delivered
+ORD00007,18-Dec-25,CUST842,Amit,Female,42,Headphones,Electronics,Headphones,Dell,3,47976,10,14392.8,23316.34,272,153123.54,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,7,Returned,1,Returned
+ORD00008,04-May-25,CUST666,Arjun,Male,28,Keyboard,Electronics,Keyboard,HP,1,15216,10,1521.6,2464.99,366,16525.39,Card,Website,Bangalore,Karnataka,South,3,No Return,4,Returned
+ORD00009,01-May-25,CUST794,Karan,Male,52,Camera,Electronics,Camera,Lenovo,3,39902,0,0,21547.08,82,141335.08,UPI,Website,Bangalore,Karnataka,South,8,No Return,4,Shipped
+ORD00010,25-Jul-25,CUST126,Karan,Female,32,Phone,Electronics,Phone,Sony,5,20474,5,5118.5,17505.27,217,114973.77,Card,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,5,Shipped
+ORD00011,24-Jun-25,CUST244,Amit,Male,22,Watch,Fashion,Watch,Dell,5,33495,0,0,30145.5,336,197956.5,Card,Website,Bangalore,Karnataka,South,10,No Return,4,Returned
+ORD00012,11-Jan-26,CUST221,Arjun,Female,58,Headphones,Electronics,Headphones,Samsung,5,28508,0,0,25657.2,8,168205.2,Net Banking,Website,Delhi,Delhi,North,4,Returned,1,Returned
+ORD00013,09-Nov-25,CUST100,Vikas,Female,25,Phone,Electronics,Phone,HP,3,25199,10,7559.7,12246.71,373,80657.01,UPI,Mobile App,Lucknow,Uttar Pradesh,North,6,No Return,4,Returned
+ORD00014,30-Oct-25,CUST256,Anjali,Female,22,Shoes,Fashion,Shoes,Dell,3,528,5,79.2,270.86,489,2264.66,Card,Mobile App,Jaipur,Rajasthan,North,7,Returned,5,Delivered
+ORD00015,13-Mar-26,CUST217,Riya,Male,19,Headphones,Electronics,Headphones,Nike,2,4978,10,995.6,1612.87,228,10801.27,Net Banking,Mobile App,Jaipur,Rajasthan,North,8,Returned,3,Shipped
+ORD00016,10-Dec-25,CUST814,Anjali,Male,51,Laptop,Electronics,Laptop,Samsung,5,46989,10,23494.5,38061.09,201,249712.59,UPI,Website,Bangalore,Karnataka,South,9,Returned,4,Delivered
+ORD00017,31-May-25,CUST829,Riya,Female,31,Backpack,Accessories,Backpack,HP,1,48667,5,2433.35,8322.06,58,54613.71,Card,Mobile App,Bangalore,Karnataka,South,1,Returned,2,Shipped
+ORD00018,07-May-25,CUST196,Vikas,Female,31,Phone,Electronics,Phone,Boat,3,33636,10,10090.8,16347.1,272,107436.3,Card,Website,Jaipur,Rajasthan,North,1,No Return,3,Delivered
+ORD00019,26-Nov-25,CUST776,Vikas,Male,55,Shoes,Fashion,Shoes,Boat,3,40213,15,18095.85,18457.77,371,121371.92,Net Banking,Website,Chandigarh,Punjab,North,6,Returned,4,Returned
+ORD00020,26-Aug-25,CUST822,Riya,Female,36,Shoes,Fashion,Shoes,Samsung,4,7214,5,1442.8,4934.38,443,32790.58,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,9,No Return,5,Returned
+ORD00021,28-Dec-25,CUST383,Riya,Male,54,Headphones,Electronics,Headphones,Apple,2,33517,0,0,12066.12,341,79441.12,Card,Mobile App,Jaipur,Rajasthan,North,5,Returned,3,Cancelled
+ORD00022,23-Dec-25,CUST330,Priya,Female,45,Backpack,Accessories,Backpack,Samsung,1,29256,15,4388.4,4476.17,37,29380.77,Card,Mobile App,Lucknow,Uttar Pradesh,North,9,No Return,4,Cancelled
+ORD00023,26-Feb-26,CUST478,Vikas,Female,31,Keyboard,Electronics,Keyboard,HP,1,36299,10,3629.9,5880.44,385,38934.54,UPI,Website,Pune,Maharashtra,West,1,No Return,1,Cancelled
+ORD00024,30-Sep-25,CUST158,Amit,Male,56,Laptop,Electronics,Laptop,Boat,3,24675,15,11103.75,11325.82,294,74541.07,Card,Mobile App,Lucknow,Uttar Pradesh,North,4,No Return,4,Delivered
+ORD00025,26-Mar-26,CUST442,Anjali,Female,30,Tablet,Electronics,Tablet,Apple,5,1082,20,1082,779.04,274,5381.04,Cash on Delivery,Website,Mumbai,Maharashtra,West,2,No Return,2,Shipped
+ORD00026,27-Jan-26,CUST924,Sneha,Male,48,Headphones,Electronics,Headphones,Samsung,2,971,20,388.4,279.65,249,2082.25,Card,Mobile App,Mumbai,Maharashtra,West,7,No Return,2,Delivered
+ORD00027,04-Apr-26,CUST380,Riya,Female,43,Mouse,Electronics,Mouse,Boat,2,12340,10,2468,3998.16,380,26590.16,UPI,Mobile App,Jaipur,Rajasthan,North,3,No Return,1,Delivered
+ORD00028,12-Aug-25,CUST512,Arjun,Female,44,Phone,Electronics,Phone,Apple,4,3291,5,658.2,2251.04,242,14998.84,Net Banking,Mobile App,Jaipur,Rajasthan,North,1,No Return,3,Returned
+ORD00029,14-Jun-25,CUST349,Rahul,Male,19,Tablet,Electronics,Tablet,Apple,3,44392,0,0,23971.68,464,157611.68,Net Banking,Website,Pune,Maharashtra,West,9,Returned,2,Cancelled
+ORD00030,13-Dec-25,CUST583,Riya,Male,59,Phone,Electronics,Phone,HP,2,40547,20,16218.8,11677.54,177,76729.74,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,2,Returned,3,Cancelled
+ORD00031,10-Oct-25,CUST279,Karan,Female,60,Headphones,Electronics,Headphones,Boat,5,31394,0,0,28254.6,446,185670.6,Cash on Delivery,Website,Bangalore,Karnataka,South,3,No Return,2,Cancelled
+ORD00032,15-Feb-26,CUST354,Karan,Female,57,Camera,Electronics,Camera,Noise,2,35379,0,0,12736.44,53,83547.44,UPI,Mobile App,Pune,Maharashtra,West,4,No Return,4,Cancelled
+ORD00033,30-May-25,CUST837,Karan,Female,54,Shoes,Fashion,Shoes,Dell,1,35566,20,7113.2,5121.5,467,34041.3,Cash on Delivery,Website,Bangalore,Karnataka,South,5,No Return,2,Delivered
+ORD00034,05-Aug-25,CUST450,Vikas,Male,47,Camera,Electronics,Camera,Noise,1,20264,15,3039.6,3100.39,365,20689.79,Net Banking,Website,Delhi,Delhi,North,10,Returned,2,Shipped
+ORD00035,21-Nov-25,CUST697,Priya,Male,37,Keyboard,Electronics,Keyboard,Apple,3,32124,5,4818.6,16479.61,285,108318.01,Net Banking,Website,Delhi,Delhi,North,9,No Return,2,Shipped
+ORD00036,04-Jan-26,CUST292,Karan,Female,53,Shoes,Fashion,Shoes,Noise,5,18427,5,4606.75,15755.08,210,103493.33,UPI,Website,Bangalore,Karnataka,South,9,Returned,2,Returned
+ORD00037,13-Jun-25,CUST537,Rahul,Male,57,Watch,Fashion,Watch,Nike,5,43320,10,21660,35089.2,103,230132.2,UPI,Mobile App,Jaipur,Rajasthan,North,5,No Return,5,Returned
+ORD00038,11-Sep-25,CUST800,Riya,Female,52,Headphones,Electronics,Headphones,Noise,2,2134,0,0,768.24,266,5302.24,Card,Mobile App,Mumbai,Maharashtra,West,10,No Return,2,Cancelled
+ORD00039,13-Sep-25,CUST563,Amit,Female,50,Shoes,Fashion,Shoes,Samsung,2,46564,0,0,16763.04,299,110190.04,UPI,Website,Pune,Maharashtra,West,10,No Return,3,Cancelled
+ORD00040,08-Apr-26,CUST723,Vikas,Female,50,Keyboard,Electronics,Keyboard,HP,1,18376,15,2756.4,2811.53,486,18917.13,Net Banking,Website,Patiala,Punjab,North,4,No Return,2,Shipped
+ORD00041,29-Apr-25,CUST427,Priya,Female,31,Laptop,Electronics,Laptop,Apple,4,27754,20,22203.2,15986.3,275,105074.1,Cash on Delivery,Website,Jaipur,Rajasthan,North,9,No Return,3,Cancelled
+ORD00042,08-Feb-26,CUST496,Anjali,Female,48,Shoes,Fashion,Shoes,Dell,1,13832,5,691.6,2365.27,391,15896.67,UPI,Website,Chandigarh,Punjab,North,7,No Return,2,Delivered
+ORD00043,19-Nov-25,CUST930,Priya,Male,57,Mouse,Electronics,Mouse,Nike,2,48320,0,0,17395.2,415,114450.2,Card,Website,Chandigarh,Punjab,North,1,Returned,4,Delivered
+ORD00044,28-Dec-25,CUST320,Arjun,Male,35,Camera,Electronics,Camera,Samsung,1,2598,5,129.9,444.26,414,3326.36,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,7,Returned,2,Shipped
+ORD00045,31-May-25,CUST558,Rahul,Female,27,Keyboard,Electronics,Keyboard,Boat,4,46065,10,18426,29850.12,96,195780.12,UPI,Mobile App,Chandigarh,Punjab,North,5,Returned,1,Shipped
+ORD00046,18-Jun-25,CUST991,Vikas,Male,57,Watch,Fashion,Watch,Sony,2,33957,15,10187.1,10390.84,493,68610.74,Card,Mobile App,Mumbai,Maharashtra,West,9,No Return,1,Delivered
+ORD00047,04-Sep-25,CUST863,Anjali,Male,31,Phone,Electronics,Phone,Boat,4,34160,10,13664,22135.68,174,145285.68,UPI,Mobile App,Pune,Maharashtra,West,6,No Return,3,Returned
+ORD00048,28-Aug-25,CUST846,Priya,Male,37,Phone,Electronics,Phone,HP,2,18482,15,5544.6,5655.49,78,37152.89,Net Banking,Website,Lucknow,Uttar Pradesh,North,5,No Return,3,Shipped
+ORD00049,20-Sep-25,CUST434,Neha,Male,55,Keyboard,Electronics,Keyboard,Samsung,2,40666,10,8133.2,13175.78,334,86708.58,Cash on Delivery,Mobile App,Patiala,Punjab,North,8,Returned,5,Returned
+ORD00050,22-Jun-25,CUST837,Amit,Male,42,Laptop,Electronics,Laptop,Apple,4,2535,5,507,1733.94,49,11415.94,UPI,Website,Jaipur,Rajasthan,North,3,Returned,1,Delivered
+ORD00051,31-Aug-25,CUST678,Vikas,Female,35,Camera,Electronics,Camera,Noise,3,41574,20,24944.4,17959.97,206,117943.57,Cash on Delivery,Website,Mumbai,Maharashtra,West,10,No Return,3,Returned
+ORD00052,25-Jul-25,CUST809,Neha,Male,28,Laptop,Electronics,Laptop,Samsung,3,33177,5,4976.55,17019.8,56,111630.25,Card,Mobile App,Mumbai,Maharashtra,West,3,Returned,3,Cancelled
+ORD00053,28-Dec-25,CUST615,Neha,Male,47,Laptop,Electronics,Laptop,Noise,5,1762,20,1762,1268.64,27,8343.64,Net Banking,Mobile App,Chandigarh,Punjab,North,4,No Return,3,Returned
+ORD00054,22-Sep-25,CUST986,Sneha,Male,47,Phone,Electronics,Phone,Dell,2,16428,20,6571.2,4731.26,94,31110.06,Cash on Delivery,Mobile App,Delhi,Delhi,North,1,No Return,4,Delivered
+ORD00055,06-Mar-26,CUST622,Arjun,Female,27,Phone,Electronics,Phone,Nike,3,17615,0,0,9512.1,128,62485.1,Net Banking,Website,Patiala,Punjab,North,5,No Return,4,Cancelled
+ORD00056,11-Jun-25,CUST279,Amit,Female,50,Watch,Fashion,Watch,Sony,2,18078,10,3615.6,5857.27,92,38489.67,Net Banking,Mobile App,Jaipur,Rajasthan,North,9,No Return,2,Returned
+ORD00057,22-Jul-25,CUST665,Priya,Male,33,Camera,Electronics,Camera,Samsung,1,4209,20,841.8,606.1,108,4081.3,Net Banking,Website,Jaipur,Rajasthan,North,8,No Return,5,Shipped
+ORD00058,09-Jun-25,CUST777,Vikas,Female,20,Camera,Electronics,Camera,Adidas,5,32244,5,8061,27568.62,248,180975.62,Net Banking,Website,Pune,Maharashtra,West,6,No Return,2,Cancelled
+ORD00059,15-Jan-26,CUST228,Neha,Male,40,Backpack,Accessories,Backpack,Noise,2,17758,10,3551.6,5753.59,218,37935.99,Cash on Delivery,Mobile App,Pune,Maharashtra,West,9,Returned,4,Cancelled
+ORD00060,10-Jan-26,CUST993,Anjali,Male,26,Mouse,Electronics,Mouse,Samsung,3,49447,0,0,26701.38,5,175047.38,Net Banking,Website,Jaipur,Rajasthan,North,3,No Return,1,Cancelled
+ORD00061,06-Dec-25,CUST778,Anjali,Female,55,Phone,Electronics,Phone,Boat,4,44629,0,0,32132.88,182,210830.88,Card,Website,Lucknow,Uttar Pradesh,North,6,Returned,2,Returned
+ORD00062,27-Sep-25,CUST287,Priya,Female,43,Tablet,Electronics,Tablet,HP,2,35049,10,7009.8,11355.88,249,74693.08,Net Banking,Website,Mumbai,Maharashtra,West,1,Returned,1,Cancelled
+ORD00063,12-Aug-25,CUST955,Arjun,Male,49,Keyboard,Electronics,Keyboard,Sony,4,15260,5,3052,10437.84,466,68891.84,UPI,Website,Mumbai,Maharashtra,West,2,Returned,2,Delivered
+ORD00064,13-Mar-26,CUST551,Amit,Female,24,Mouse,Electronics,Mouse,Apple,4,45316,15,27189.6,27733.39,203,182010.79,Net Banking,Website,Lucknow,Uttar Pradesh,North,5,No Return,4,Delivered
+ORD00065,24-May-25,CUST193,Sneha,Male,34,Laptop,Electronics,Laptop,Lenovo,3,1028,5,154.2,527.36,194,3651.16,Card,Mobile App,Pune,Maharashtra,West,2,Returned,2,Cancelled
+ORD00066,17-Aug-25,CUST783,Neha,Male,56,Keyboard,Electronics,Keyboard,Lenovo,1,32156,10,3215.6,5209.27,312,34461.67,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,9,No Return,4,Returned
+ORD00067,28-Dec-25,CUST284,Amit,Male,23,Mouse,Electronics,Mouse,Sony,1,33064,0,0,5951.52,426,39441.52,Net Banking,Website,Chandigarh,Punjab,North,9,No Return,4,Cancelled
+ORD00068,18-Sep-25,CUST714,Amit,Female,36,Shoes,Fashion,Shoes,Dell,1,1059,0,0,190.62,48,1297.62,UPI,Mobile App,Lucknow,Uttar Pradesh,North,5,No Return,2,Returned
+ORD00069,09-Sep-25,CUST307,Arjun,Female,30,Watch,Fashion,Watch,Apple,4,7089,20,5671.2,4083.26,403,27171.06,Net Banking,Mobile App,Delhi,Delhi,North,9,Returned,2,Delivered
+ORD00070,05-Sep-25,CUST979,Vikas,Female,55,Tablet,Electronics,Tablet,Adidas,4,11996,5,2399.2,8205.26,466,54256.06,Cash on Delivery,Website,Chandigarh,Punjab,North,4,Returned,4,Returned
+ORD00071,08-Jul-25,CUST660,Karan,Male,19,Shoes,Fashion,Shoes,Dell,1,15786,20,3157.2,2273.18,268,15169.98,Cash on Delivery,Website,Patiala,Punjab,North,10,No Return,5,Delivered
+ORD00072,08-Feb-26,CUST948,Sneha,Male,26,Backpack,Accessories,Backpack,HP,1,16943,15,2541.45,2592.28,242,17235.83,Card,Website,Bangalore,Karnataka,South,5,No Return,2,Delivered
+ORD00073,14-Nov-25,CUST325,Arjun,Female,31,Shoes,Fashion,Shoes,Apple,3,810,10,243,393.66,202,2782.66,Cash on Delivery,Website,Mumbai,Maharashtra,West,6,No Return,5,Cancelled
+ORD00074,23-Oct-25,CUST456,Rahul,Male,26,Camera,Electronics,Camera,Dell,3,22771,15,10246.95,10451.89,196,68713.94,Card,Website,Mumbai,Maharashtra,West,1,Returned,2,Returned
+ORD00075,12-Jan-26,CUST838,Vikas,Male,27,Mouse,Electronics,Mouse,Lenovo,1,49814,15,7472.1,7621.54,331,50294.44,Cash on Delivery,Mobile App,Delhi,Delhi,North,10,Returned,4,Returned
+ORD00076,04-Aug-25,CUST806,Rahul,Female,24,Shoes,Fashion,Shoes,Lenovo,2,17710,20,7084,5100.48,267,33703.48,Net Banking,Website,Pune,Maharashtra,West,1,No Return,1,Cancelled
+ORD00077,13-Oct-25,CUST580,Anjali,Female,45,Keyboard,Electronics,Keyboard,HP,5,24572,10,12286,19903.32,152,130629.32,Card,Website,Lucknow,Uttar Pradesh,North,5,Returned,5,Shipped
+ORD00078,10-Aug-25,CUST731,Vikas,Female,47,Keyboard,Electronics,Keyboard,Dell,3,49144,15,22114.8,22557.1,324,148198.3,Cash on Delivery,Website,Delhi,Delhi,North,2,Returned,4,Cancelled
+ORD00079,09-Jul-25,CUST687,Sneha,Female,56,Laptop,Electronics,Laptop,HP,3,38503,15,17326.35,17672.88,380,116235.53,Net Banking,Mobile App,Jaipur,Rajasthan,North,7,No Return,5,Returned
+ORD00080,27-May-25,CUST231,Sneha,Female,28,Camera,Electronics,Camera,Apple,5,39230,20,39230,28245.6,225,185390.6,Card,Website,Chandigarh,Punjab,North,4,Returned,2,Shipped
+ORD00081,04-Nov-25,CUST890,Priya,Female,43,Watch,Fashion,Watch,Dell,5,2002,5,500.5,1711.71,358,11579.21,UPI,Website,Mumbai,Maharashtra,West,3,No Return,4,Cancelled
+ORD00082,17-Aug-25,CUST861,Riya,Male,19,Keyboard,Electronics,Keyboard,Adidas,2,44220,15,13266,13531.32,258,88963.32,UPI,Mobile App,Pune,Maharashtra,West,7,Returned,2,Returned
+ORD00083,19-Jul-25,CUST490,Karan,Female,39,Camera,Electronics,Camera,Noise,1,41458,10,4145.8,6716.2,255,44283.4,UPI,Website,Bangalore,Karnataka,South,9,Returned,2,Returned
+ORD00084,02-Apr-26,CUST335,Rahul,Male,28,Tablet,Electronics,Tablet,Samsung,4,15002,20,12001.6,8641.15,259,56906.55,Net Banking,Mobile App,Bangalore,Karnataka,South,1,No Return,3,Shipped
+ORD00085,08-Sep-25,CUST122,Karan,Male,29,Camera,Electronics,Camera,Sony,3,27664,10,8299.2,13444.7,52,88189.5,UPI,Website,Chandigarh,Punjab,North,4,Returned,3,Cancelled
+ORD00086,01-Jun-25,CUST596,Rahul,Female,23,Laptop,Electronics,Laptop,Boat,1,23710,5,1185.5,4054.41,33,26611.91,Card,Mobile App,Pune,Maharashtra,West,1,No Return,1,Cancelled
+ORD00087,14-Apr-25,CUST253,Priya,Female,50,Tablet,Electronics,Tablet,Dell,5,2722,5,680.5,2327.31,444,15700.81,Cash on Delivery,Website,Pune,Maharashtra,West,3,Returned,1,Cancelled
+ORD00088,08-Feb-26,CUST231,Vikas,Male,53,Laptop,Electronics,Laptop,Apple,3,26078,10,7823.4,12673.91,236,83320.51,Cash on Delivery,Website,Pune,Maharashtra,West,5,Returned,5,Cancelled
+ORD00089,31-Jan-26,CUST261,Priya,Female,56,Headphones,Electronics,Headphones,Lenovo,3,15789,15,7105.05,7247.15,301,47810.1,Card,Website,Delhi,Delhi,North,4,No Return,3,Returned
+ORD00090,07-Nov-25,CUST992,Rahul,Female,32,Mouse,Electronics,Mouse,Apple,2,23965,20,9586,6901.92,167,45412.92,Card,Mobile App,Jaipur,Rajasthan,North,1,Returned,1,Returned
+ORD00091,28-Aug-25,CUST689,Sneha,Male,34,Watch,Fashion,Watch,HP,1,29036,10,2903.6,4703.83,336,31172.23,Cash on Delivery,Mobile App,Delhi,Delhi,North,7,Returned,2,Delivered
+ORD00092,29-Jul-25,CUST468,Vikas,Female,55,Camera,Electronics,Camera,Adidas,4,24259,20,19407.2,13973.18,445,92046.98,Cash on Delivery,Mobile App,Pune,Maharashtra,West,1,No Return,5,Shipped
+ORD00093,27-Jul-25,CUST532,Rahul,Male,55,Headphones,Electronics,Headphones,Boat,4,27999,0,0,20159.28,169,132324.28,Net Banking,Mobile App,Bangalore,Karnataka,South,8,Returned,2,Shipped
+ORD00094,27-Jul-25,CUST256,Vikas,Female,54,Tablet,Electronics,Tablet,Sony,5,44136,10,22068,35750.16,127,234489.16,Cash on Delivery,Website,Pune,Maharashtra,West,8,No Return,5,Returned
+ORD00095,09-Jan-26,CUST264,Riya,Male,55,Camera,Electronics,Camera,Boat,5,34596,15,25947,26465.94,316,173814.94,UPI,Mobile App,Mumbai,Maharashtra,West,7,No Return,1,Returned
+ORD00096,15-Apr-25,CUST664,Amit,Female,51,Camera,Electronics,Camera,Dell,1,30323,15,4548.45,4639.42,45,30458.97,Card,Mobile App,Pune,Maharashtra,West,1,Returned,4,Cancelled
+ORD00097,10-Dec-25,CUST168,Vikas,Female,27,Mouse,Electronics,Mouse,Samsung,4,14331,0,0,10318.32,41,67683.32,Card,Website,Lucknow,Uttar Pradesh,North,1,Returned,4,Delivered
+ORD00098,04-Jun-25,CUST631,Arjun,Female,24,Shoes,Fashion,Shoes,Apple,3,3679,10,1103.7,1787.99,262,11983.29,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,4,Returned,1,Delivered
+ORD00099,13-Jun-25,CUST643,Karan,Female,56,Laptop,Electronics,Laptop,Lenovo,3,25123,20,15073.8,10853.14,393,71541.34,Net Banking,Website,Bangalore,Karnataka,South,10,Returned,5,Delivered
+ORD00100,22-Aug-25,CUST540,Priya,Male,41,Watch,Fashion,Watch,Samsung,4,46566,10,18626.4,30174.77,402,198214.37,UPI,Website,Chandigarh,Punjab,North,7,Returned,4,Delivered
+ORD00101,05-Sep-25,CUST796,Arjun,Female,60,Tablet,Electronics,Tablet,Dell,1,42289,20,8457.8,6089.62,250,40170.82,Cash on Delivery,Mobile App,Delhi,Delhi,North,1,No Return,2,Returned
+ORD00102,27-Mar-26,CUST371,Karan,Female,31,Shoes,Fashion,Shoes,Lenovo,5,4012,0,0,3610.8,329,23999.8,Card,Mobile App,Bangalore,Karnataka,South,8,Returned,4,Delivered
+ORD00103,16-May-25,CUST769,Priya,Female,52,Laptop,Electronics,Laptop,Noise,2,30405,0,0,10945.8,301,72056.8,Net Banking,Mobile App,Jaipur,Rajasthan,North,8,No Return,5,Cancelled
+ORD00104,01-Jan-26,CUST785,Anjali,Female,23,Phone,Electronics,Phone,Samsung,4,19141,20,15312.8,11025.22,482,72758.42,Card,Website,Delhi,Delhi,North,5,Returned,4,Returned
+ORD00105,06-Mar-26,CUST968,Arjun,Male,22,Backpack,Accessories,Backpack,Lenovo,4,19962,5,3992.4,13654.01,104,89613.61,Cash on Delivery,Website,Pune,Maharashtra,West,7,Returned,5,Returned
+ORD00106,18-Apr-25,CUST430,Sneha,Female,46,Backpack,Accessories,Backpack,Dell,5,30045,0,0,27040.5,295,177560.5,Cash on Delivery,Mobile App,Patiala,Punjab,North,9,No Return,2,Shipped
+ORD00107,19-Nov-25,CUST756,Karan,Female,33,Headphones,Electronics,Headphones,Noise,1,30617,0,0,5511.06,291,36419.06,Net Banking,Website,Mumbai,Maharashtra,West,9,Returned,5,Cancelled
+ORD00108,18-Jul-25,CUST755,Sneha,Male,29,Tablet,Electronics,Tablet,Boat,1,36884,5,1844.2,6307.16,88,41434.96,Cash on Delivery,Mobile App,Patiala,Punjab,North,2,Returned,2,Shipped
+ORD00109,18-Oct-25,CUST588,Anjali,Male,35,Watch,Fashion,Watch,Apple,2,44392,10,8878.4,14383.01,36,94324.61,Card,Website,Mumbai,Maharashtra,West,4,Returned,3,Returned
+ORD00110,20-Oct-25,CUST680,Riya,Female,49,Backpack,Accessories,Backpack,Boat,2,45616,15,13684.8,13958.5,173,91678.7,Net Banking,Mobile App,Bangalore,Karnataka,South,4,Returned,5,Cancelled
+ORD00111,05-Oct-25,CUST923,Arjun,Male,25,Phone,Electronics,Phone,Samsung,4,13466,15,8079.6,8241.19,298,54323.59,Card,Mobile App,Lucknow,Uttar Pradesh,North,6,No Return,5,Cancelled
+ORD00112,17-Jan-26,CUST454,Arjun,Female,53,Keyboard,Electronics,Keyboard,Sony,3,10297,5,1544.55,5282.36,382,35010.81,UPI,Mobile App,Jaipur,Rajasthan,North,4,No Return,1,Returned
+ORD00113,07-Jul-25,CUST221,Neha,Female,38,Mouse,Electronics,Mouse,Samsung,2,20743,20,8297.2,5973.98,397,39559.78,UPI,Website,Mumbai,Maharashtra,West,8,No Return,1,Delivered
+ORD00114,02-Dec-25,CUST299,Neha,Male,56,Mouse,Electronics,Mouse,Apple,3,45793,0,0,24728.22,20,162127.22,UPI,Website,Pune,Maharashtra,West,5,No Return,5,Delivered
+ORD00115,22-Nov-25,CUST447,Karan,Female,24,Backpack,Accessories,Backpack,Dell,5,39903,20,39903,28730.16,492,188834.16,Card,Mobile App,Patiala,Punjab,North,2,Returned,5,Returned
+ORD00116,14-Mar-26,CUST732,Arjun,Male,58,Headphones,Electronics,Headphones,Boat,3,22776,0,0,12299.04,94,80721.04,UPI,Mobile App,Jaipur,Rajasthan,North,6,No Return,1,Delivered
+ORD00117,01-Jun-25,CUST185,Riya,Male,30,Tablet,Electronics,Tablet,Apple,5,18787,20,18787,13526.64,101,88775.64,Card,Mobile App,Pune,Maharashtra,West,4,Returned,5,Delivered
+ORD00118,26-Jun-25,CUST728,Neha,Female,28,Headphones,Electronics,Headphones,Sony,1,956,20,191.2,137.66,446,1348.46,Cash on Delivery,Mobile App,Pune,Maharashtra,West,3,Returned,2,Returned
+ORD00119,27-Feb-26,CUST221,Anjali,Male,20,Phone,Electronics,Phone,Lenovo,5,28102,5,7025.5,24027.21,281,157792.71,Card,Website,Patiala,Punjab,North,5,No Return,3,Delivered
+ORD00120,24-Nov-25,CUST201,Amit,Female,29,Tablet,Electronics,Tablet,Noise,4,2455,5,491,1679.22,255,11263.22,UPI,Mobile App,Patiala,Punjab,North,4,No Return,4,Delivered
+ORD00121,11-Dec-25,CUST978,Amit,Female,39,Backpack,Accessories,Backpack,Apple,2,14902,20,5960.8,4291.78,348,28482.98,Card,Mobile App,Jaipur,Rajasthan,North,8,No Return,1,Cancelled
+ORD00122,29-Aug-25,CUST939,Karan,Female,30,Shoes,Fashion,Shoes,Noise,2,13003,5,1300.3,4447.03,199,29351.73,Net Banking,Mobile App,Pune,Maharashtra,West,1,Returned,5,Delivered
+ORD00123,07-Sep-25,CUST385,Arjun,Male,44,Laptop,Electronics,Laptop,Lenovo,5,7255,5,1813.75,6203.02,388,41052.28,Cash on Delivery,Website,Chandigarh,Punjab,North,10,Returned,2,Cancelled
+ORD00124,28-Aug-25,CUST978,Riya,Female,39,Watch,Fashion,Watch,Nike,1,31663,5,1583.15,5414.37,166,35660.22,Card,Website,Chandigarh,Punjab,North,1,Returned,2,Returned
+ORD00125,01-Aug-25,CUST323,Vikas,Female,40,Watch,Fashion,Watch,Boat,2,48930,10,9786,15853.32,400,104327.32,Card,Mobile App,Jaipur,Rajasthan,North,10,No Return,1,Cancelled
+ORD00126,26-Feb-26,CUST813,Arjun,Male,42,Mouse,Electronics,Mouse,Apple,4,11876,20,9500.8,6840.58,31,44874.78,Card,Website,Mumbai,Maharashtra,West,3,No Return,3,Returned
+ORD00127,26-Dec-25,CUST709,Vikas,Female,18,Shoes,Fashion,Shoes,Samsung,3,6898,10,2069.4,3352.43,417,22394.03,Card,Website,Jaipur,Rajasthan,North,4,No Return,2,Delivered
+ORD00128,02-Apr-26,CUST865,Arjun,Male,33,Phone,Electronics,Phone,HP,5,27664,0,0,24897.6,18,163235.6,Net Banking,Mobile App,Delhi,Delhi,North,10,Returned,3,Returned
+ORD00129,30-Aug-25,CUST339,Rahul,Male,25,Laptop,Electronics,Laptop,Apple,5,31878,5,7969.5,27255.69,288,178964.19,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,4,Returned
+ORD00130,28-Dec-25,CUST389,Karan,Female,40,Mouse,Electronics,Mouse,Nike,2,33074,10,6614.8,10715.98,377,70626.18,Net Banking,Website,Delhi,Delhi,North,4,Returned,3,Delivered
+ORD00131,31-Mar-26,CUST455,Anjali,Female,29,Tablet,Electronics,Tablet,Samsung,1,24321,10,2432.1,3940,350,26178.9,Cash on Delivery,Mobile App,Delhi,Delhi,North,3,Returned,5,Delivered
+ORD00132,23-May-25,CUST831,Anjali,Female,45,Laptop,Electronics,Laptop,Noise,4,42895,15,25737,26251.74,98,172192.74,Card,Website,Lucknow,Uttar Pradesh,North,9,Returned,1,Shipped
+ORD00133,05-Feb-26,CUST726,Rahul,Female,58,Keyboard,Electronics,Keyboard,Apple,5,48980,0,0,44082,96,289078,Card,Website,Jaipur,Rajasthan,North,5,Returned,2,Returned
+ORD00134,14-Jul-25,CUST979,Arjun,Male,33,Tablet,Electronics,Tablet,Noise,1,49527,0,0,8914.86,456,58897.86,UPI,Website,Pune,Maharashtra,West,5,Returned,5,Returned
+ORD00135,24-Apr-25,CUST262,Sneha,Female,55,Tablet,Electronics,Tablet,Samsung,4,24297,5,4859.4,16619.15,167,109114.75,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,5,No Return,1,Delivered
+ORD00136,16-May-25,CUST905,Amit,Male,57,Laptop,Electronics,Laptop,Nike,5,47683,5,11920.75,40768.96,420,267683.21,Net Banking,Website,Delhi,Delhi,North,4,Returned,4,Delivered
+ORD00137,10-Sep-25,CUST630,Priya,Male,59,Keyboard,Electronics,Keyboard,Adidas,3,48486,0,0,26182.44,460,172100.44,UPI,Website,Bangalore,Karnataka,South,6,No Return,2,Cancelled
+ORD00138,06-Jul-25,CUST336,Amit,Male,18,Laptop,Electronics,Laptop,Dell,4,35587,10,14234.8,23060.38,243,151416.58,Card,Website,Patiala,Punjab,North,3,No Return,4,Shipped
+ORD00139,01-Aug-25,CUST813,Rahul,Male,47,Camera,Electronics,Camera,Noise,5,38537,20,38537,27746.64,428,182322.64,UPI,Mobile App,Bangalore,Karnataka,South,8,No Return,1,Shipped
+ORD00140,30-Dec-25,CUST631,Neha,Female,18,Camera,Electronics,Camera,Apple,5,2675,15,2006.25,2046.38,318,13733.12,Net Banking,Website,Pune,Maharashtra,West,3,Returned,1,Cancelled
+ORD00141,29-Apr-25,CUST688,Amit,Male,43,Backpack,Accessories,Backpack,Noise,3,31905,5,4785.75,16367.26,396,107692.51,Card,Mobile App,Patiala,Punjab,North,2,Returned,5,Cancelled
+ORD00142,31-Jul-25,CUST100,Rahul,Male,60,Camera,Electronics,Camera,Adidas,1,37253,5,1862.65,6370.26,234,41994.61,Cash on Delivery,Website,Jaipur,Rajasthan,North,4,No Return,1,Delivered
+ORD00143,11-Oct-25,CUST905,Amit,Female,24,Laptop,Electronics,Laptop,Nike,1,7447,20,1489.4,1072.37,383,7412.97,Net Banking,Website,Delhi,Delhi,North,6,No Return,5,Shipped
+ORD00144,23-Jun-25,CUST345,Rahul,Female,27,Phone,Electronics,Phone,Nike,3,2465,5,369.75,1264.54,407,8696.8,Net Banking,Mobile App,Patiala,Punjab,North,5,Returned,5,Returned
+ORD00145,19-Jul-25,CUST280,Amit,Male,52,Phone,Electronics,Phone,Lenovo,2,43125,10,8625,13972.5,153,91750.5,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,2,Returned
+ORD00146,09-May-25,CUST463,Sneha,Male,48,Camera,Electronics,Camera,Apple,2,25854,15,7756.2,7911.32,26,51889.12,UPI,Mobile App,Patiala,Punjab,North,1,Returned,5,Cancelled
+ORD00147,09-Oct-25,CUST400,Amit,Male,24,Keyboard,Electronics,Keyboard,Boat,4,24413,0,0,17577.36,0,115229.36,UPI,Mobile App,Mumbai,Maharashtra,West,2,No Return,1,Shipped
+ORD00148,17-Oct-25,CUST204,Riya,Male,59,Mouse,Electronics,Mouse,HP,2,8194,5,819.4,2802.35,178,18548.95,Net Banking,Mobile App,Delhi,Delhi,North,2,Returned,3,Cancelled
+ORD00149,02-Jun-25,CUST237,Neha,Male,31,Phone,Electronics,Phone,Lenovo,2,23798,5,2379.8,8138.92,62,53417.12,Cash on Delivery,Mobile App,Pune,Maharashtra,West,2,Returned,5,Cancelled
+ORD00150,03-Sep-25,CUST635,Priya,Female,50,Shoes,Fashion,Shoes,Dell,1,26351,5,1317.55,4506.02,205,29744.47,Cash on Delivery,Mobile App,Delhi,Delhi,North,9,Returned,1,Delivered
+ORD00151,21-Aug-25,CUST742,Neha,Female,40,Tablet,Electronics,Tablet,Lenovo,2,32644,0,0,11751.84,413,77452.84,Card,Website,Pune,Maharashtra,West,7,No Return,4,Cancelled
+ORD00152,25-Apr-25,CUST493,Vikas,Female,34,Tablet,Electronics,Tablet,Sony,5,13792,0,0,12412.8,437,81809.8,UPI,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,4,Delivered
+ORD00153,20-Jun-25,CUST596,Karan,Male,31,Laptop,Electronics,Laptop,Apple,5,12497,15,9372.75,9560.2,71,62743.46,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,10,Returned,5,Delivered
+ORD00154,09-Oct-25,CUST437,Anjali,Female,51,Shoes,Fashion,Shoes,Boat,5,46090,5,11522.5,39406.95,212,258546.45,UPI,Mobile App,Bangalore,Karnataka,South,6,No Return,2,Cancelled
+ORD00155,13-Nov-25,CUST774,Neha,Female,34,Phone,Electronics,Phone,Adidas,5,5689,10,2844.5,4608.09,96,30304.59,UPI,Website,Patiala,Punjab,North,6,Returned,1,Cancelled
+ORD00156,08-Apr-26,CUST652,Sneha,Female,39,Shoes,Fashion,Shoes,Lenovo,1,37843,0,0,6811.74,134,44788.74,Cash on Delivery,Website,Bangalore,Karnataka,South,8,No Return,3,Shipped
+ORD00157,11-Feb-26,CUST395,Neha,Male,26,Mouse,Electronics,Mouse,Boat,2,11265,20,4506,3244.32,220,21488.32,UPI,Mobile App,Bangalore,Karnataka,South,4,Returned,2,Cancelled
+ORD00158,15-Jul-25,CUST116,Neha,Female,28,Laptop,Electronics,Laptop,Lenovo,2,3628,20,1451.2,1044.86,45,6894.66,Card,Website,Delhi,Delhi,North,2,Returned,1,Delivered
+ORD00159,21-Jan-26,CUST707,Amit,Male,35,Laptop,Electronics,Laptop,Dell,2,7118,10,1423.6,2306.23,140,15258.63,Card,Mobile App,Pune,Maharashtra,West,10,No Return,3,Shipped
+ORD00160,04-Jun-25,CUST330,Anjali,Male,48,Phone,Electronics,Phone,Dell,2,31726,15,9517.8,9708.16,13,63655.36,Card,Mobile App,Mumbai,Maharashtra,West,1,No Return,5,Cancelled
+ORD00161,05-Oct-25,CUST275,Karan,Female,24,Mouse,Electronics,Mouse,HP,4,42298,20,33838.4,24363.65,262,159979.25,Cash on Delivery,Mobile App,Patiala,Punjab,North,8,No Return,5,Delivered
+ORD00162,19-Oct-25,CUST133,Priya,Male,30,Keyboard,Electronics,Keyboard,Nike,4,43897,15,26338.2,26864.96,108,176222.76,Cash on Delivery,Mobile App,Patiala,Punjab,North,8,No Return,3,Cancelled
+ORD00163,23-Sep-25,CUST905,Rahul,Female,19,Watch,Fashion,Watch,Nike,2,48486,0,0,17454.96,267,114693.96,Cash on Delivery,Website,Bangalore,Karnataka,South,1,No Return,5,Delivered
+ORD00164,22-Jul-25,CUST196,Amit,Female,37,Watch,Fashion,Watch,Lenovo,3,11761,15,5292.45,5398.3,14,35402.85,Net Banking,Mobile App,Chandigarh,Punjab,North,5,No Return,1,Delivered
+ORD00165,10-Dec-25,CUST169,Sneha,Male,19,Camera,Electronics,Camera,Samsung,1,34466,5,1723.3,5893.69,50,38686.39,Card,Website,Lucknow,Uttar Pradesh,North,1,No Return,3,Delivered
+ORD00166,17-Oct-25,CUST774,Vikas,Female,57,Watch,Fashion,Watch,Sony,3,42623,20,25573.8,18413.14,20,120728.34,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,1,Returned,1,Shipped
+ORD00167,06-Feb-26,CUST715,Karan,Female,45,Shoes,Fashion,Shoes,Noise,2,35830,10,7166,11608.92,133,76235.92,UPI,Website,Chandigarh,Punjab,North,8,Returned,1,Delivered
+ORD00168,29-Jun-25,CUST634,Anjali,Female,37,Watch,Fashion,Watch,Sony,1,40523,0,0,7294.14,302,48119.14,Card,Mobile App,Patiala,Punjab,North,9,No Return,5,Returned
+ORD00169,04-Mar-26,CUST198,Amit,Male,24,Keyboard,Electronics,Keyboard,Adidas,4,11352,0,0,8173.44,161,53742.44,Cash on Delivery,Website,Mumbai,Maharashtra,West,6,No Return,1,Cancelled
+ORD00170,26-Oct-25,CUST119,Rahul,Male,18,Backpack,Accessories,Backpack,Sony,4,42955,0,0,30927.6,41,202788.6,Cash on Delivery,Mobile App,Pune,Maharashtra,West,9,No Return,3,Returned
+ORD00171,01-Oct-25,CUST117,Anjali,Female,59,Shoes,Fashion,Shoes,Nike,3,40789,10,12236.7,19823.45,488,130441.75,Card,Website,Chandigarh,Punjab,North,3,No Return,1,Returned
+ORD00172,27-Jul-25,CUST260,Vikas,Female,56,Headphones,Electronics,Headphones,Sony,5,39991,5,9997.75,34192.31,328,224477.55,Net Banking,Mobile App,Delhi,Delhi,North,10,Returned,4,Cancelled
+ORD00173,18-Dec-25,CUST689,Karan,Male,41,Keyboard,Electronics,Keyboard,Adidas,3,22410,10,6723,10891.26,365,71763.26,Cash on Delivery,Mobile App,Delhi,Delhi,North,1,Returned,1,Returned
+ORD00174,08-Oct-25,CUST343,Amit,Female,18,Phone,Electronics,Phone,Boat,4,3086,10,1234.4,1999.73,247,13356.33,Net Banking,Mobile App,Mumbai,Maharashtra,West,4,Returned,5,Cancelled
+ORD00175,30-Jul-25,CUST273,Arjun,Male,53,Headphones,Electronics,Headphones,Dell,3,39476,20,23685.6,17053.63,78,111874.03,Card,Mobile App,Delhi,Delhi,North,5,Returned,2,Returned
+ORD00176,25-Sep-25,CUST899,Arjun,Female,31,Keyboard,Electronics,Keyboard,Boat,1,31021,15,4653.15,4746.21,39,31153.06,Card,Website,Patiala,Punjab,North,8,Returned,4,Delivered
+ORD00177,04-Jul-25,CUST737,Sneha,Male,46,Laptop,Electronics,Laptop,Adidas,1,581,0,0,104.58,19,704.58,Card,Website,Delhi,Delhi,North,4,Returned,2,Shipped
+ORD00178,05-Feb-26,CUST387,Riya,Female,23,Tablet,Electronics,Tablet,Samsung,3,36753,10,11025.9,17861.96,200,117295.06,UPI,Website,Lucknow,Uttar Pradesh,North,9,No Return,3,Cancelled
+ORD00179,20-Dec-25,CUST825,Rahul,Male,30,Mouse,Electronics,Mouse,Lenovo,3,34859,5,5228.85,17882.67,482,117712.82,UPI,Website,Patiala,Punjab,North,6,Returned,1,Returned
+ORD00180,20-Mar-26,CUST930,Anjali,Male,38,Backpack,Accessories,Backpack,Noise,3,27908,15,12558.6,12809.77,250,84225.17,Cash on Delivery,Website,Patiala,Punjab,North,9,Returned,5,Delivered
+ORD00181,06-Jan-26,CUST588,Anjali,Male,29,Mouse,Electronics,Mouse,HP,3,47658,0,0,25735.32,240,168949.32,Cash on Delivery,Website,Patiala,Punjab,North,4,No Return,2,Cancelled
+ORD00182,24-Oct-25,CUST374,Karan,Male,56,Headphones,Electronics,Headphones,Dell,4,2329,0,0,1676.88,348,11340.88,UPI,Website,Chandigarh,Punjab,North,1,No Return,2,Delivered
+ORD00183,14-Nov-25,CUST172,Karan,Male,42,Headphones,Electronics,Headphones,Adidas,2,10674,20,4269.6,3074.11,316,20468.51,Net Banking,Website,Pune,Maharashtra,West,5,No Return,1,Shipped
+ORD00184,10-Sep-25,CUST922,Anjali,Female,37,Mouse,Electronics,Mouse,Dell,4,9797,15,5878.2,5995.76,457,39762.56,Card,Website,Chandigarh,Punjab,North,3,Returned,5,Shipped
+ORD00185,29-Nov-25,CUST755,Amit,Male,46,Laptop,Electronics,Laptop,Sony,3,44724,5,6708.6,22943.41,76,150482.81,Card,Website,Delhi,Delhi,North,7,Returned,2,Shipped
+ORD00186,22-Feb-26,CUST130,Amit,Female,33,Keyboard,Electronics,Keyboard,Noise,2,41199,20,16479.6,11865.31,317,78100.71,UPI,Mobile App,Pune,Maharashtra,West,2,No Return,3,Delivered
+ORD00187,11-Jul-25,CUST635,Sneha,Male,37,Phone,Electronics,Phone,Lenovo,5,41589,0,0,37430.1,194,245569.1,Net Banking,Mobile App,Patiala,Punjab,North,10,No Return,1,Delivered
+ORD00188,15-Feb-26,CUST542,Neha,Male,50,Mouse,Electronics,Mouse,Noise,3,38807,5,5821.05,19907.99,361,130868.94,Cash on Delivery,Website,Pune,Maharashtra,West,10,Returned,5,Returned
+ORD00189,02-Jul-25,CUST301,Priya,Male,32,Headphones,Electronics,Headphones,HP,1,6099,0,0,1097.82,238,7434.82,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,2,Delivered
+ORD00190,29-Sep-25,CUST210,Anjali,Female,25,Shoes,Fashion,Shoes,Adidas,1,22901,0,0,4122.18,141,27164.18,UPI,Website,Lucknow,Uttar Pradesh,North,4,Returned,3,Delivered
+ORD00191,03-Dec-25,CUST908,Priya,Female,58,Keyboard,Electronics,Keyboard,Boat,2,15512,20,6204.8,4467.46,484,29770.66,Card,Mobile App,Mumbai,Maharashtra,West,8,Returned,1,Returned
+ORD00192,01-May-25,CUST584,Rahul,Male,58,Phone,Electronics,Phone,Dell,3,15329,15,6898.05,7036.01,288,46412.96,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,4,No Return,5,Shipped
+ORD00193,06-Jun-25,CUST912,Rahul,Male,57,Shoes,Fashion,Shoes,Sony,1,10386,10,1038.6,1682.53,35,11064.93,Card,Mobile App,Patiala,Punjab,North,10,Returned,4,Delivered
+ORD00194,25-May-25,CUST248,Riya,Male,24,Camera,Electronics,Camera,Apple,1,35438,20,7087.6,5103.07,457,33910.47,Net Banking,Website,Chandigarh,Punjab,North,10,No Return,1,Returned
+ORD00195,16-Dec-25,CUST509,Rahul,Female,56,Shoes,Fashion,Shoes,Dell,2,44534,15,13360.2,13627.4,3,89338.2,Cash on Delivery,Website,Delhi,Delhi,North,5,No Return,2,Returned
+ORD00196,14-Dec-25,CUST642,Riya,Female,50,Mouse,Electronics,Mouse,Dell,3,34485,20,20691,14897.52,283,97944.52,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,6,No Return,5,Cancelled
+ORD00197,18-Mar-26,CUST315,Rahul,Female,29,Tablet,Electronics,Tablet,Nike,5,2512,5,628,2147.76,234,14313.76,UPI,Website,Mumbai,Maharashtra,West,5,No Return,2,Delivered
+ORD00198,01-Jun-25,CUST105,Sneha,Male,33,Laptop,Electronics,Laptop,Samsung,5,17388,0,0,15649.2,308,102897.2,UPI,Mobile App,Bangalore,Karnataka,South,7,Returned,5,Delivered
+ORD00199,18-Oct-25,CUST273,Arjun,Male,57,Mouse,Electronics,Mouse,Boat,2,2519,0,0,906.84,204,6148.84,Card,Website,Bangalore,Karnataka,South,8,No Return,3,Shipped
+ORD00200,04-Aug-25,CUST651,Rahul,Male,51,Headphones,Electronics,Headphones,Adidas,3,16183,10,4854.9,7864.94,2,51561.04,Net Banking,Mobile App,Mumbai,Maharashtra,West,6,Returned,2,Returned
+ORD00201,24-Jul-25,CUST584,Neha,Female,18,Mouse,Electronics,Mouse,Boat,1,10602,5,530.1,1812.94,367,12251.84,Net Banking,Website,Lucknow,Uttar Pradesh,North,2,No Return,1,Cancelled
+ORD00202,11-Sep-25,CUST499,Vikas,Female,21,Mouse,Electronics,Mouse,Apple,4,7961,10,3184.4,5158.73,317,34135.33,Net Banking,Website,Pune,Maharashtra,West,4,Returned,5,Shipped
+ORD00203,19-Feb-26,CUST550,Vikas,Female,19,Shoes,Fashion,Shoes,Sony,1,12794,0,0,2302.92,244,15340.92,Net Banking,Mobile App,Mumbai,Maharashtra,West,6,No Return,3,Shipped
+ORD00204,29-May-25,CUST480,Riya,Female,35,Camera,Electronics,Camera,Apple,4,22668,5,4533.6,15504.91,15,101658.31,Card,Mobile App,Delhi,Delhi,North,8,No Return,5,Returned
+ORD00205,09-Jan-26,CUST402,Priya,Female,41,Headphones,Electronics,Headphones,Nike,3,5734,20,3440.4,2477.09,0,16238.69,Card,Mobile App,Patiala,Punjab,North,5,Returned,3,Cancelled
+ORD00206,26-Sep-25,CUST684,Arjun,Female,59,Mouse,Electronics,Mouse,Samsung,4,30869,0,0,22225.68,282,145983.68,Card,Website,Bangalore,Karnataka,South,7,No Return,4,Shipped
+ORD00207,20-May-25,CUST510,Vikas,Female,49,Backpack,Accessories,Backpack,Sony,1,7798,10,779.8,1263.28,371,8652.48,Card,Mobile App,Patiala,Punjab,North,6,No Return,3,Cancelled
+ORD00208,12-Sep-25,CUST801,Amit,Male,49,Mouse,Electronics,Mouse,Samsung,2,41986,5,4198.6,14359.21,169,94301.61,Card,Mobile App,Patiala,Punjab,North,6,Returned,5,Shipped
+ORD00209,29-Dec-25,CUST132,Vikas,Female,26,Tablet,Electronics,Tablet,Apple,1,31155,5,1557.75,5327.51,11,34935.75,UPI,Website,Lucknow,Uttar Pradesh,North,1,Returned,5,Delivered
+ORD00210,28-Jun-25,CUST861,Vikas,Male,53,Camera,Electronics,Camera,Noise,4,41074,20,32859.2,23658.62,115,155210.42,Cash on Delivery,Website,Delhi,Delhi,North,1,No Return,1,Returned
+ORD00211,22-Dec-25,CUST485,Sneha,Female,50,Camera,Electronics,Camera,Noise,1,47164,20,9432.8,6791.62,27,44549.82,Net Banking,Mobile App,Mumbai,Maharashtra,West,3,Returned,3,Shipped
+ORD00212,10-Dec-25,CUST845,Sneha,Female,35,Shoes,Fashion,Shoes,Lenovo,4,12596,15,7557.6,7708.75,445,50980.15,Cash on Delivery,Website,Chandigarh,Punjab,North,8,No Return,3,Cancelled
+ORD00213,05-Mar-26,CUST164,Neha,Male,35,Tablet,Electronics,Tablet,Dell,3,17489,20,10493.4,7555.25,241,49769.85,Card,Website,Bangalore,Karnataka,South,8,Returned,4,Shipped
+ORD00214,03-Feb-26,CUST737,Arjun,Male,54,Keyboard,Electronics,Keyboard,Apple,2,8534,0,0,3072.24,230,20370.24,Net Banking,Mobile App,Mumbai,Maharashtra,West,6,No Return,3,Cancelled
+ORD00215,15-Dec-25,CUST155,Anjali,Female,48,Watch,Fashion,Watch,Apple,4,22679,0,0,16328.88,412,107456.88,UPI,Mobile App,Jaipur,Rajasthan,North,4,No Return,5,Returned
+ORD00216,26-Jun-25,CUST786,Karan,Male,29,Phone,Electronics,Phone,HP,3,10780,15,4851,4948.02,12,32449.02,Card,Mobile App,Bangalore,Karnataka,South,6,No Return,2,Delivered
+ORD00217,03-May-25,CUST870,Arjun,Female,22,Watch,Fashion,Watch,Adidas,1,41995,15,6299.25,6425.23,363,42483.99,Net Banking,Website,Mumbai,Maharashtra,West,10,No Return,3,Shipped
+ORD00218,23-May-25,CUST984,Vikas,Female,51,Keyboard,Electronics,Keyboard,Samsung,1,2778,15,416.7,425.03,387,3173.33,Card,Mobile App,Bangalore,Karnataka,South,9,No Return,5,Delivered
+ORD00219,28-Jun-25,CUST500,Amit,Male,27,Backpack,Accessories,Backpack,HP,3,35468,5,5320.2,18195.08,238,119516.88,UPI,Mobile App,Lucknow,Uttar Pradesh,North,4,Returned,1,Shipped
+ORD00220,29-Nov-25,CUST188,Karan,Female,50,Camera,Electronics,Camera,HP,2,32959,20,13183.6,9492.19,266,62492.59,UPI,Mobile App,Delhi,Delhi,North,8,Returned,5,Cancelled
+ORD00221,22-Nov-25,CUST969,Sneha,Female,53,Phone,Electronics,Phone,HP,4,31028,15,18616.8,18989.14,443,124927.34,Card,Mobile App,Pune,Maharashtra,West,1,Returned,3,Shipped
+ORD00222,12-Nov-25,CUST348,Neha,Male,54,Tablet,Electronics,Tablet,Dell,4,19158,15,11494.8,11724.7,319,77180.9,UPI,Website,Bangalore,Karnataka,South,4,Returned,2,Shipped
+ORD00223,14-May-25,CUST897,Anjali,Male,57,Phone,Electronics,Phone,Sony,1,25847,10,2584.7,4187.21,496,27945.51,UPI,Website,Bangalore,Karnataka,South,9,Returned,1,Cancelled
+ORD00224,12-Dec-25,CUST382,Amit,Male,44,Backpack,Accessories,Backpack,Adidas,2,27899,5,2789.9,9541.46,245,62794.56,UPI,Website,Chandigarh,Punjab,North,6,Returned,2,Delivered
+ORD00225,14-Nov-25,CUST507,Priya,Male,32,Headphones,Electronics,Headphones,Noise,5,4763,20,4763,3429.36,197,22678.36,Card,Website,Jaipur,Rajasthan,North,6,Returned,1,Cancelled
+ORD00226,15-Oct-25,CUST531,Priya,Male,18,Headphones,Electronics,Headphones,Apple,2,26643,0,0,9591.48,210,63087.48,Cash on Delivery,Website,Mumbai,Maharashtra,West,3,No Return,2,Shipped
+ORD00227,07-Sep-25,CUST528,Anjali,Male,41,Phone,Electronics,Phone,Dell,2,15860,20,6344,4567.68,237,30180.68,Net Banking,Mobile App,Pune,Maharashtra,West,9,Returned,4,Delivered
+ORD00228,05-Feb-26,CUST799,Rahul,Male,56,Camera,Electronics,Camera,Nike,5,7974,5,1993.5,6817.77,291,44985.27,Card,Mobile App,Pune,Maharashtra,West,4,No Return,2,Delivered
+ORD00229,15-Feb-26,CUST311,Sneha,Female,35,Backpack,Accessories,Backpack,Adidas,3,41035,20,24621,17727.12,486,116697.12,Net Banking,Mobile App,Delhi,Delhi,North,9,Returned,1,Shipped
+ORD00230,25-May-25,CUST907,Rahul,Female,23,Headphones,Electronics,Headphones,Adidas,5,13190,0,0,11871,493,78314,Cash on Delivery,Website,Pune,Maharashtra,West,10,Returned,3,Shipped
+ORD00231,05-Apr-26,CUST934,Arjun,Male,19,Tablet,Electronics,Tablet,Boat,3,35079,20,21047.4,15154.13,50,99393.73,UPI,Mobile App,Patiala,Punjab,North,8,No Return,3,Cancelled
+ORD00232,28-Aug-25,CUST922,Priya,Female,43,Laptop,Electronics,Laptop,Dell,4,19650,0,0,14148,372,93120,Card,Mobile App,Delhi,Delhi,North,3,No Return,4,Cancelled
+ORD00233,05-Jan-26,CUST860,Amit,Male,23,Backpack,Accessories,Backpack,HP,3,7283,0,0,3932.82,89,25870.82,Card,Website,Jaipur,Rajasthan,North,5,No Return,4,Returned
+ORD00234,08-Jul-25,CUST265,Amit,Female,47,Tablet,Electronics,Tablet,Nike,2,18597,0,0,6694.92,194,44082.92,Net Banking,Website,Pune,Maharashtra,West,6,Returned,1,Delivered
+ORD00235,04-Jun-25,CUST201,Amit,Male,41,Watch,Fashion,Watch,Apple,1,17820,20,3564,2566.08,383,17205.08,Card,Mobile App,Pune,Maharashtra,West,8,No Return,5,Cancelled
+ORD00236,30-Sep-25,CUST313,Priya,Female,58,Watch,Fashion,Watch,Sony,5,29380,10,14690,23797.8,177,156184.8,Card,Mobile App,Pune,Maharashtra,West,10,Returned,1,Delivered
+ORD00237,30-Oct-25,CUST218,Karan,Male,55,Headphones,Electronics,Headphones,Nike,5,48636,20,48636,35017.92,254,229815.92,Cash on Delivery,Website,Chandigarh,Punjab,North,3,No Return,2,Delivered
+ORD00238,11-Mar-26,CUST385,Arjun,Female,40,Headphones,Electronics,Headphones,Samsung,3,4058,0,0,2191.32,130,14495.32,Net Banking,Mobile App,Chandigarh,Punjab,North,4,No Return,5,Shipped
+ORD00239,17-Feb-26,CUST260,Sneha,Male,50,Camera,Electronics,Camera,Adidas,2,16518,15,4955.4,5054.51,326,33461.11,Net Banking,Website,Pune,Maharashtra,West,1,Returned,1,Returned
+ORD00240,30-May-25,CUST652,Sneha,Male,42,Watch,Fashion,Watch,HP,2,42034,20,16813.6,12105.79,55,79415.19,Net Banking,Mobile App,Jaipur,Rajasthan,North,6,Returned,1,Cancelled
+ORD00241,12-Nov-25,CUST997,Amit,Female,43,Shoes,Fashion,Shoes,Nike,2,40255,0,0,14491.8,415,95416.8,Card,Website,Patiala,Punjab,North,6,No Return,3,Shipped
+ORD00242,25-May-25,CUST611,Priya,Male,41,Headphones,Electronics,Headphones,Noise,2,16819,10,3363.8,5449.36,185,35908.56,Net Banking,Mobile App,Pune,Maharashtra,West,9,Returned,1,Shipped
+ORD00243,12-Jan-26,CUST885,Arjun,Male,36,Headphones,Electronics,Headphones,Samsung,5,17749,0,0,15974.1,215,104934.1,Cash on Delivery,Website,Jaipur,Rajasthan,North,9,No Return,1,Cancelled
+ORD00244,12-Jul-25,CUST146,Sneha,Female,59,Watch,Fashion,Watch,Boat,1,17819,15,2672.85,2726.31,350,18222.46,Card,Mobile App,Lucknow,Uttar Pradesh,North,4,Returned,3,Shipped
+ORD00245,04-Aug-25,CUST955,Vikas,Male,30,Keyboard,Electronics,Keyboard,Adidas,3,34354,5,5153.1,17623.6,57,115589.5,Card,Mobile App,Delhi,Delhi,North,3,Returned,3,Cancelled
+ORD00246,03-Mar-26,CUST541,Sneha,Female,52,Headphones,Electronics,Headphones,Adidas,3,20946,20,12567.6,9048.67,113,59432.07,Net Banking,Website,Chandigarh,Punjab,North,10,Returned,3,Shipped
+ORD00247,11-Jun-25,CUST161,Riya,Male,22,Laptop,Electronics,Laptop,HP,5,46655,20,46655,33591.6,138,220349.6,UPI,Website,Chandigarh,Punjab,North,9,No Return,3,Shipped
+ORD00248,12-Dec-25,CUST982,Riya,Male,36,Watch,Fashion,Watch,Apple,4,3168,20,2534.4,1824.77,447,12409.37,UPI,Mobile App,Pune,Maharashtra,West,9,Returned,3,Shipped
+ORD00249,31-Jul-25,CUST564,Sneha,Female,38,Phone,Electronics,Phone,Apple,3,13647,20,8188.2,5895.5,193,38841.3,Cash on Delivery,Mobile App,Pune,Maharashtra,West,9,No Return,5,Shipped
+ORD00250,01-Oct-25,CUST433,Arjun,Female,49,Phone,Electronics,Phone,Lenovo,3,10903,0,0,5887.62,412,39008.62,Card,Website,Lucknow,Uttar Pradesh,North,8,No Return,5,Shipped
+ORD00251,05-Sep-25,CUST671,Karan,Male,21,Phone,Electronics,Phone,Noise,4,12320,15,7392,7539.84,154,49581.84,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,5,Shipped
+ORD00252,16-Aug-25,CUST768,Rahul,Male,37,Watch,Fashion,Watch,Noise,1,14063,10,1406.3,2278.21,103,15037.91,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,2,Returned,1,Shipped
+ORD00253,12-Feb-26,CUST865,Anjali,Male,45,Tablet,Electronics,Tablet,Apple,3,38458,0,0,20767.32,484,136625.32,Card,Mobile App,Pune,Maharashtra,West,4,No Return,1,Shipped
+ORD00254,13-May-25,CUST629,Amit,Male,40,Mouse,Electronics,Mouse,Lenovo,3,2136,0,0,1153.44,388,7949.44,UPI,Mobile App,Bangalore,Karnataka,South,9,No Return,5,Returned
+ORD00255,10-Aug-25,CUST717,Sneha,Male,50,Shoes,Fashion,Shoes,Sony,4,6313,20,5050.4,3636.29,1,23838.89,UPI,Website,Lucknow,Uttar Pradesh,North,2,No Return,1,Cancelled
+ORD00256,09-Apr-26,CUST102,Priya,Male,46,Tablet,Electronics,Tablet,Lenovo,4,26827,5,5365.4,18349.67,70,120362.27,UPI,Website,Bangalore,Karnataka,South,5,No Return,2,Shipped
+ORD00257,07-Aug-25,CUST579,Karan,Female,44,Watch,Fashion,Watch,Lenovo,4,20044,10,8017.6,12988.51,449,85595.91,Cash on Delivery,Mobile App,Delhi,Delhi,North,4,Returned,5,Cancelled
+ORD00258,04-Oct-25,CUST505,Anjali,Female,60,Mouse,Electronics,Mouse,Adidas,5,2751,20,2751,1980.72,347,13331.72,Net Banking,Website,Bangalore,Karnataka,South,5,No Return,5,Delivered
+ORD00259,10-Dec-25,CUST841,Arjun,Female,28,Headphones,Electronics,Headphones,Noise,4,5599,20,4479.2,3225.02,479,21620.82,Net Banking,Website,Bangalore,Karnataka,South,4,Returned,5,Shipped
+ORD00260,07-Oct-25,CUST247,Priya,Male,42,Shoes,Fashion,Shoes,Adidas,1,13659,20,2731.8,1966.9,370,13264.1,UPI,Mobile App,Pune,Maharashtra,West,2,No Return,1,Shipped
+ORD00261,12-Jan-26,CUST916,Anjali,Female,41,Phone,Electronics,Phone,Apple,3,35927,15,16167.15,16490.49,110,108214.34,Cash on Delivery,Website,Chandigarh,Punjab,North,1,No Return,2,Delivered
+ORD00262,01-Aug-25,CUST137,Rahul,Female,51,Shoes,Fashion,Shoes,Apple,2,8718,5,871.8,2981.56,320,19865.76,UPI,Website,Chandigarh,Punjab,North,9,No Return,3,Cancelled
+ORD00263,13-Oct-25,CUST655,Karan,Female,50,Phone,Electronics,Phone,Noise,4,10032,5,2006.4,6861.89,42,45025.49,Net Banking,Website,Patiala,Punjab,North,3,No Return,3,Returned
+ORD00264,11-Jan-26,CUST566,Neha,Male,59,Camera,Electronics,Camera,Sony,4,9542,20,7633.6,5496.19,372,36402.59,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,10,Returned,3,Shipped
+ORD00265,18-Dec-25,CUST813,Riya,Female,41,Laptop,Electronics,Laptop,Noise,1,9992,10,999.2,1618.7,323,10934.5,Net Banking,Mobile App,Delhi,Delhi,North,10,Returned,4,Cancelled
+ORD00266,10-Oct-25,CUST111,Anjali,Male,25,Backpack,Accessories,Backpack,Nike,2,2594,5,259.4,887.15,259,6074.75,Card,Website,Jaipur,Rajasthan,North,10,Returned,5,Returned
+ORD00267,09-Apr-26,CUST919,Amit,Male,27,Shoes,Fashion,Shoes,Lenovo,3,33711,15,15169.95,15473.35,84,101520.4,Net Banking,Website,Bangalore,Karnataka,South,6,Returned,5,Delivered
+ORD00268,13-Jun-25,CUST583,Vikas,Female,41,Phone,Electronics,Phone,Dell,5,28384,20,28384,20436.48,302,134274.48,Net Banking,Mobile App,Jaipur,Rajasthan,North,7,No Return,3,Returned
+ORD00269,11-Mar-26,CUST708,Karan,Male,29,Shoes,Fashion,Shoes,HP,3,35019,15,15758.55,16073.72,151,105523.17,Card,Mobile App,Delhi,Delhi,North,3,No Return,5,Cancelled
+ORD00270,23-May-25,CUST178,Anjali,Male,59,Headphones,Electronics,Headphones,Sony,3,19289,10,5786.7,9374.45,261,61715.75,Net Banking,Website,Pune,Maharashtra,West,4,No Return,3,Delivered
+ORD00271,24-Dec-25,CUST737,Vikas,Female,44,Watch,Fashion,Watch,Dell,4,47723,10,19089.2,30924.5,497,203224.3,Card,Mobile App,Mumbai,Maharashtra,West,8,No Return,1,Delivered
+ORD00272,10-Dec-25,CUST343,Arjun,Female,44,Keyboard,Electronics,Keyboard,Boat,5,36579,5,9144.75,31275.04,326,205351.29,Card,Mobile App,Lucknow,Uttar Pradesh,North,4,No Return,4,Cancelled
+ORD00273,04-Mar-26,CUST187,Priya,Male,28,Headphones,Electronics,Headphones,Noise,2,30501,10,6100.2,9882.32,215,64999.12,UPI,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,2,Returned
+ORD00274,08-Sep-25,CUST626,Neha,Female,19,Keyboard,Electronics,Keyboard,Lenovo,3,35905,20,21543,15510.96,69,101751.96,Card,Mobile App,Bangalore,Karnataka,South,6,No Return,4,Returned
+ORD00275,02-Aug-25,CUST776,Riya,Male,38,Mouse,Electronics,Mouse,Boat,3,16019,10,4805.7,7785.23,9,51045.53,Card,Mobile App,Bangalore,Karnataka,South,4,No Return,4,Cancelled
+ORD00276,08-Aug-25,CUST981,Karan,Female,22,Phone,Electronics,Phone,Boat,4,19232,10,7692.8,12462.34,295,81992.54,UPI,Mobile App,Mumbai,Maharashtra,West,6,No Return,5,Cancelled
+ORD00277,17-Nov-25,CUST425,Arjun,Female,57,Laptop,Electronics,Laptop,Samsung,3,26220,5,3933,13450.86,337,88514.86,Card,Website,Pune,Maharashtra,West,9,Returned,5,Returned
+ORD00278,03-Aug-25,CUST196,Sneha,Male,60,Headphones,Electronics,Headphones,Noise,2,8816,20,3526.4,2539.01,394,17038.61,Cash on Delivery,Website,Pune,Maharashtra,West,5,No Return,4,Returned
+ORD00279,26-Apr-25,CUST741,Amit,Male,32,Mouse,Electronics,Mouse,HP,1,21091,10,2109.1,3416.74,177,22575.64,UPI,Mobile App,Lucknow,Uttar Pradesh,North,1,Returned,1,Delivered
+ORD00280,10-Jan-26,CUST997,Arjun,Female,19,Phone,Electronics,Phone,HP,2,46647,0,0,16792.92,477,110563.92,Net Banking,Website,Delhi,Delhi,North,6,No Return,2,Cancelled
+ORD00281,20-Jan-26,CUST112,Amit,Male,57,Headphones,Electronics,Headphones,Boat,1,46084,10,4608.4,7465.61,166,49107.21,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,4,Returned,3,Cancelled
+ORD00282,03-Apr-26,CUST422,Riya,Female,27,Camera,Electronics,Camera,Boat,2,13526,0,0,4869.36,286,32207.36,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,5,Delivered
+ORD00283,08-Sep-25,CUST228,Sneha,Female,23,Phone,Electronics,Phone,Noise,2,24594,15,7378.2,7525.76,423,49758.56,Net Banking,Website,Lucknow,Uttar Pradesh,North,5,Returned,3,Cancelled
+ORD00284,12-Mar-26,CUST243,Vikas,Male,48,Laptop,Electronics,Laptop,Boat,1,8792,20,1758.4,1266.05,83,8382.65,Net Banking,Website,Pune,Maharashtra,West,3,Returned,2,Cancelled
+ORD00285,22-Jun-25,CUST455,Amit,Female,44,Phone,Electronics,Phone,Lenovo,2,39070,0,0,14065.2,255,92460.2,Net Banking,Mobile App,Mumbai,Maharashtra,West,9,Returned,5,Cancelled
+ORD00286,10-Mar-26,CUST360,Neha,Male,29,Laptop,Electronics,Laptop,Sony,2,4186,15,1255.8,1280.92,320,8717.12,Card,Mobile App,Delhi,Delhi,North,2,Returned,4,Delivered
+ORD00287,14-Jul-25,CUST789,Amit,Male,39,Tablet,Electronics,Tablet,Apple,3,27724,0,0,14970.96,412,98554.96,Cash on Delivery,Mobile App,Delhi,Delhi,North,7,No Return,4,Cancelled
+ORD00288,08-Jun-25,CUST460,Arjun,Male,22,Shoes,Fashion,Shoes,Dell,2,25863,15,7758.9,7914.08,282,52163.18,Cash on Delivery,Website,Patiala,Punjab,North,7,No Return,4,Returned
+ORD00289,22-Mar-26,CUST266,Arjun,Male,45,Laptop,Electronics,Laptop,Lenovo,3,5942,5,891.3,3048.25,248,20230.95,Card,Website,Patiala,Punjab,North,8,Returned,2,Cancelled
+ORD00290,10-May-25,CUST795,Anjali,Male,54,Keyboard,Electronics,Keyboard,Boat,2,5637,20,2254.8,1623.46,105,10747.66,Cash on Delivery,Website,Delhi,Delhi,North,7,No Return,5,Shipped
+ORD00291,12-Apr-25,CUST337,Neha,Male,48,Camera,Electronics,Camera,Apple,3,11265,15,5069.25,5170.64,234,34130.39,UPI,Mobile App,Pune,Maharashtra,West,6,No Return,1,Shipped
+ORD00292,11-Jul-25,CUST874,Priya,Male,31,Keyboard,Electronics,Keyboard,Samsung,3,1419,10,425.7,689.63,407,4927.93,UPI,Mobile App,Jaipur,Rajasthan,North,8,No Return,5,Cancelled
+ORD00293,14-Jan-26,CUST936,Arjun,Male,48,Shoes,Fashion,Shoes,Sony,4,14676,5,2935.2,10038.38,318,66125.18,UPI,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,4,Delivered
+ORD00294,16-Dec-25,CUST341,Arjun,Female,48,Shoes,Fashion,Shoes,Adidas,1,31678,10,3167.8,5131.84,175,33817.04,UPI,Website,Patiala,Punjab,North,2,Returned,5,Shipped
+ORD00295,31-Dec-25,CUST947,Karan,Male,32,Shoes,Fashion,Shoes,Noise,4,11363,10,4545.2,7363.22,249,48519.02,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,9,No Return,2,Returned
+ORD00296,30-Aug-25,CUST793,Vikas,Male,40,Shoes,Fashion,Shoes,Noise,5,27019,0,0,24317.1,462,159874.1,Cash on Delivery,Website,Delhi,Delhi,North,6,Returned,4,Returned
+ORD00297,02-Jan-26,CUST890,Vikas,Male,22,Keyboard,Electronics,Keyboard,Dell,3,20219,15,9098.55,9280.52,212,61050.97,Card,Mobile App,Bangalore,Karnataka,South,6,No Return,4,Shipped
+ORD00298,24-Apr-25,CUST308,Anjali,Male,49,Mouse,Electronics,Mouse,Lenovo,4,17648,20,14118.4,10165.25,6,66644.85,UPI,Mobile App,Jaipur,Rajasthan,North,3,Returned,3,Shipped
+ORD00299,04-Jan-26,CUST899,Amit,Female,54,Tablet,Electronics,Tablet,Apple,5,2574,10,1287,2084.94,263,13930.94,Card,Mobile App,Jaipur,Rajasthan,North,9,No Return,5,Shipped
+ORD00300,16-Jun-25,CUST637,Riya,Male,51,Watch,Fashion,Watch,Noise,1,41491,5,2074.55,7094.96,267,46778.41,Card,Website,Bangalore,Karnataka,South,9,Returned,1,Shipped
+ORD00301,27-Jan-26,CUST353,Vikas,Female,50,Keyboard,Electronics,Keyboard,Sony,1,34811,0,0,6265.98,256,41332.98,Cash on Delivery,Website,Patiala,Punjab,North,2,Returned,2,Returned
+ORD00302,23-Mar-26,CUST453,Arjun,Male,46,Headphones,Electronics,Headphones,Samsung,2,42244,10,8448.8,13687.06,25,89751.26,UPI,Website,Delhi,Delhi,North,8,Returned,1,Returned
+ORD00303,03-Aug-25,CUST119,Anjali,Male,34,Laptop,Electronics,Laptop,Samsung,3,27252,20,16351.2,11772.86,470,77647.66,Cash on Delivery,Website,Mumbai,Maharashtra,West,4,Returned,4,Cancelled
+ORD00304,05-Aug-25,CUST144,Vikas,Male,42,Phone,Electronics,Phone,Samsung,5,33762,0,0,30385.8,363,199558.8,Net Banking,Mobile App,Mumbai,Maharashtra,West,9,No Return,1,Cancelled
+ORD00305,03-Jun-25,CUST457,Anjali,Male,42,Camera,Electronics,Camera,Apple,2,22031,0,0,7931.16,84,52077.16,Net Banking,Website,Bangalore,Karnataka,South,1,No Return,4,Returned
+ORD00306,27-Jun-25,CUST753,Arjun,Male,50,Shoes,Fashion,Shoes,Apple,2,19288,5,1928.8,6596.5,389,43632.7,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,2,Cancelled
+ORD00307,27-Aug-25,CUST705,Anjali,Male,41,Laptop,Electronics,Laptop,Boat,3,4554,0,0,2459.16,402,16523.16,UPI,Website,Jaipur,Rajasthan,North,3,No Return,3,Shipped
+ORD00308,03-Mar-26,CUST989,Sneha,Female,40,Mouse,Electronics,Mouse,Adidas,1,15911,0,0,2863.98,246,19020.98,Card,Website,Delhi,Delhi,North,7,Returned,3,Delivered
+ORD00309,26-Mar-26,CUST565,Neha,Female,48,Headphones,Electronics,Headphones,Dell,4,43550,10,17420,28220.4,291,185291.4,UPI,Mobile App,Delhi,Delhi,North,5,No Return,2,Delivered
+ORD00310,24-Oct-25,CUST325,Priya,Male,60,Tablet,Electronics,Tablet,Lenovo,3,22416,0,0,12104.64,410,79762.64,UPI,Website,Chandigarh,Punjab,North,9,Returned,3,Returned
+ORD00311,04-May-25,CUST742,Rahul,Female,23,Shoes,Fashion,Shoes,Adidas,4,29172,15,17503.2,17853.26,97,117135.06,UPI,Mobile App,Pune,Maharashtra,West,4,Returned,2,Shipped
+ORD00312,25-Jul-25,CUST795,Amit,Female,35,Tablet,Electronics,Tablet,Sony,5,44748,15,33561,34232.22,34,224445.22,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,1,No Return,2,Shipped
+ORD00313,02-Nov-25,CUST970,Anjali,Male,42,Watch,Fashion,Watch,Dell,5,23381,5,5845.25,19990.76,214,131264.51,UPI,Website,Jaipur,Rajasthan,North,3,Returned,4,Cancelled
+ORD00314,30-Jul-25,CUST184,Amit,Female,44,Shoes,Fashion,Shoes,Samsung,3,21630,15,9733.5,9928.17,379,65463.67,UPI,Mobile App,Pune,Maharashtra,West,3,Returned,2,Shipped
+ORD00315,30-Sep-25,CUST894,Arjun,Male,40,Camera,Electronics,Camera,Adidas,2,41791,20,16716.4,12035.81,371,79272.41,Cash on Delivery,Website,Chandigarh,Punjab,North,7,Returned,2,Returned
+ORD00316,17-May-25,CUST663,Anjali,Male,40,Camera,Electronics,Camera,Noise,2,5799,5,579.9,1983.26,221,13222.36,UPI,Website,Chandigarh,Punjab,North,5,No Return,1,Returned
+ORD00317,31-Aug-25,CUST510,Priya,Female,26,Shoes,Fashion,Shoes,Noise,2,23634,5,2363.4,8082.83,450,53437.43,UPI,Mobile App,Bangalore,Karnataka,South,9,Returned,2,Returned
+ORD00318,02-Nov-25,CUST358,Amit,Male,51,Mouse,Electronics,Mouse,Samsung,3,21565,15,9704.25,9898.33,46,64935.08,Card,Website,Bangalore,Karnataka,South,10,No Return,2,Delivered
+ORD00319,01-Aug-25,CUST603,Anjali,Female,49,Headphones,Electronics,Headphones,Sony,5,41024,20,41024,29537.28,262,193895.28,Net Banking,Mobile App,Bangalore,Karnataka,South,5,Returned,4,Shipped
+ORD00320,12-Aug-25,CUST234,Arjun,Male,37,Tablet,Electronics,Tablet,Sony,2,49704,20,19881.6,14314.75,174,94015.15,Cash on Delivery,Website,Bangalore,Karnataka,South,8,Returned,3,Shipped
+ORD00321,23-Aug-25,CUST370,Anjali,Female,38,Laptop,Electronics,Laptop,Apple,1,7179,15,1076.85,1098.39,459,7659.54,Net Banking,Website,Mumbai,Maharashtra,West,7,No Return,5,Shipped
+ORD00322,19-May-25,CUST720,Priya,Male,55,Camera,Electronics,Camera,Boat,1,48043,5,2402.15,8215.35,151,54007.2,UPI,Mobile App,Lucknow,Uttar Pradesh,North,3,No Return,3,Shipped
+ORD00323,22-Sep-25,CUST508,Arjun,Male,49,Shoes,Fashion,Shoes,Noise,5,49415,0,0,44473.5,97,291645.5,Card,Website,Patiala,Punjab,North,3,Returned,2,Cancelled
+ORD00324,27-Dec-25,CUST943,Vikas,Male,34,Phone,Electronics,Phone,Adidas,3,19786,10,5935.8,9616,78,63116.2,Net Banking,Website,Mumbai,Maharashtra,West,1,No Return,4,Delivered
+ORD00325,09-Nov-25,CUST323,Karan,Female,26,Keyboard,Electronics,Keyboard,Boat,5,30964,20,30964,22294.08,420,146570.08,Net Banking,Website,Chandigarh,Punjab,North,7,No Return,4,Returned
+ORD00326,22-Mar-26,CUST846,Karan,Female,58,Headphones,Electronics,Headphones,Nike,4,49969,5,9993.8,34178.8,218,224279,Card,Website,Pune,Maharashtra,West,9,Returned,1,Delivered
+ORD00327,20-Mar-26,CUST186,Neha,Male,33,Watch,Fashion,Watch,Sony,2,42028,15,12608.4,12860.57,190,84498.17,UPI,Website,Chandigarh,Punjab,North,7,Returned,2,Cancelled
+ORD00328,31-Jul-25,CUST337,Rahul,Female,59,Headphones,Electronics,Headphones,Nike,3,40430,20,24258,17465.76,15,114512.76,Net Banking,Website,Bangalore,Karnataka,South,6,No Return,4,Shipped
+ORD00329,15-Dec-25,CUST203,Priya,Female,60,Keyboard,Electronics,Keyboard,Noise,5,34114,0,0,30702.6,3,201275.6,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,7,Returned,1,Returned
+ORD00330,22-Jan-26,CUST372,Sneha,Male,20,Backpack,Accessories,Backpack,Lenovo,2,23052,20,9220.8,6638.98,141,43663.18,UPI,Website,Mumbai,Maharashtra,West,2,No Return,4,Delivered
+ORD00331,23-Jun-25,CUST444,Neha,Male,30,Phone,Electronics,Phone,Dell,5,26141,0,0,23526.9,51,154282.9,Card,Mobile App,Delhi,Delhi,North,10,No Return,1,Delivered
+ORD00332,05-Jan-26,CUST455,Riya,Male,23,Camera,Electronics,Camera,Sony,3,3051,15,1372.95,1400.41,107,9287.46,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,5,Shipped
+ORD00333,25-Sep-25,CUST278,Rahul,Female,27,Phone,Electronics,Phone,Sony,1,48655,0,0,8757.9,391,57803.9,Card,Mobile App,Patiala,Punjab,North,1,No Return,3,Cancelled
+ORD00334,26-Jun-25,CUST520,Riya,Female,57,Camera,Electronics,Camera,Noise,4,1414,20,1131.2,814.46,128,5467.26,UPI,Website,Pune,Maharashtra,West,10,No Return,3,Returned
+ORD00335,16-Apr-25,CUST678,Arjun,Female,53,Keyboard,Electronics,Keyboard,Dell,2,48474,10,9694.8,15705.58,419,103377.78,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,6,Returned,3,Delivered
+ORD00336,30-Mar-26,CUST631,Sneha,Female,60,Phone,Electronics,Phone,Dell,2,4505,15,1351.5,1378.53,135,9172.03,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,8,No Return,1,Returned
+ORD00337,29-Dec-25,CUST976,Neha,Male,35,Camera,Electronics,Camera,Sony,2,24276,0,0,8739.36,242,57533.36,Card,Website,Mumbai,Maharashtra,West,5,Returned,3,Shipped
+ORD00338,17-Aug-25,CUST579,Karan,Male,60,Shoes,Fashion,Shoes,Sony,3,2724,15,1225.8,1250.32,21,8217.52,Cash on Delivery,Website,Bangalore,Karnataka,South,2,Returned,2,Delivered
+ORD00339,28-Dec-25,CUST712,Vikas,Female,36,Headphones,Electronics,Headphones,Apple,4,37327,15,22396.2,22844.12,36,149791.92,Card,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,4,Returned
+ORD00340,19-Feb-26,CUST421,Anjali,Female,28,Camera,Electronics,Camera,Nike,5,26465,5,6616.25,22627.58,473,148809.33,Net Banking,Mobile App,Mumbai,Maharashtra,West,1,No Return,5,Cancelled
+ORD00341,23-Mar-26,CUST272,Arjun,Male,37,Backpack,Accessories,Backpack,HP,2,27129,15,8138.7,8301.47,47,54467.77,Card,Website,Lucknow,Uttar Pradesh,North,3,No Return,4,Cancelled
+ORD00342,10-Jul-25,CUST610,Riya,Male,44,Tablet,Electronics,Tablet,HP,2,37005,0,0,13321.8,458,87789.8,Net Banking,Website,Mumbai,Maharashtra,West,8,Returned,4,Returned
+ORD00343,12-Jun-25,CUST455,Priya,Female,36,Headphones,Electronics,Headphones,Lenovo,1,42523,10,4252.3,6888.73,150,45309.43,Net Banking,Website,Jaipur,Rajasthan,North,9,Returned,2,Cancelled
+ORD00344,06-Apr-26,CUST221,Rahul,Male,45,Keyboard,Electronics,Keyboard,Dell,4,20804,0,0,14978.88,308,98502.88,UPI,Website,Patiala,Punjab,North,4,No Return,1,Returned
+ORD00345,16-Jan-26,CUST568,Sneha,Male,28,Camera,Electronics,Camera,Boat,1,15992,5,799.6,2734.63,229,18156.03,Card,Mobile App,Pune,Maharashtra,West,9,No Return,5,Cancelled
+ORD00346,23-Jan-26,CUST666,Karan,Male,25,Shoes,Fashion,Shoes,Boat,5,11797,0,0,10617.3,45,69647.3,UPI,Mobile App,Mumbai,Maharashtra,West,3,No Return,4,Delivered
+ORD00347,19-Apr-25,CUST269,Riya,Male,27,Backpack,Accessories,Backpack,Adidas,1,46166,15,6924.9,7063.4,461,46765.5,UPI,Website,Pune,Maharashtra,West,10,Returned,5,Returned
+ORD00348,16-Apr-25,CUST911,Arjun,Female,37,Camera,Electronics,Camera,Boat,1,36991,10,3699.1,5992.54,357,39641.44,UPI,Mobile App,Delhi,Delhi,North,1,No Return,3,Delivered
+ORD00349,24-Jul-25,CUST860,Sneha,Female,30,Shoes,Fashion,Shoes,Noise,4,28780,15,17268,17613.36,127,115592.36,Card,Mobile App,Patiala,Punjab,North,6,Returned,3,Delivered
+ORD00350,24-Jun-25,CUST936,Arjun,Female,54,Phone,Electronics,Phone,Lenovo,4,18388,20,14710.4,10591.49,469,69902.09,Card,Mobile App,Mumbai,Maharashtra,West,4,Returned,4,Shipped
+ORD00351,27-Mar-26,CUST213,Riya,Male,50,Keyboard,Electronics,Keyboard,Boat,4,31950,0,0,23004,50,150854,Card,Website,Mumbai,Maharashtra,West,6,No Return,4,Cancelled
+ORD00352,03-Jan-26,CUST200,Riya,Female,38,Keyboard,Electronics,Keyboard,Lenovo,1,35608,20,7121.6,5127.55,412,34025.95,Card,Mobile App,Patiala,Punjab,North,10,Returned,2,Shipped
+ORD00353,10-Sep-25,CUST380,Neha,Female,56,Headphones,Electronics,Headphones,Samsung,5,23093,0,0,20783.7,59,136307.7,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,6,No Return,2,Cancelled
+ORD00354,25-Nov-25,CUST509,Neha,Male,54,Camera,Electronics,Camera,Samsung,4,27882,10,11152.8,18067.54,288,118730.74,Net Banking,Mobile App,Mumbai,Maharashtra,West,7,Returned,1,Returned
+ORD00355,06-Feb-26,CUST408,Priya,Male,39,Tablet,Electronics,Tablet,Noise,2,44930,10,8986,14557.32,262,95693.32,UPI,Website,Pune,Maharashtra,West,4,No Return,1,Shipped
+ORD00356,19-Dec-25,CUST923,Neha,Male,51,Mouse,Electronics,Mouse,Boat,2,32991,5,3299.1,11282.92,307,74272.82,UPI,Mobile App,Mumbai,Maharashtra,West,6,Returned,4,Returned
+ORD00357,29-Jan-26,CUST813,Anjali,Male,41,Keyboard,Electronics,Keyboard,HP,5,45961,15,34470.75,35160.17,329,230823.42,UPI,Website,Bangalore,Karnataka,South,10,Returned,1,Cancelled
+ORD00358,07-Sep-25,CUST792,Rahul,Male,35,Camera,Electronics,Camera,HP,1,31904,5,1595.2,5455.58,374,36138.38,UPI,Mobile App,Bangalore,Karnataka,South,6,Returned,3,Returned
+ORD00359,28-Feb-26,CUST810,Anjali,Male,46,Tablet,Electronics,Tablet,Apple,1,33120,0,0,5961.6,154,39235.6,Card,Mobile App,Bangalore,Karnataka,South,2,Returned,4,Cancelled
+ORD00360,30-Aug-25,CUST364,Priya,Male,47,Keyboard,Electronics,Keyboard,Lenovo,2,39261,0,0,14133.96,437,93092.96,UPI,Mobile App,Bangalore,Karnataka,South,8,Returned,1,Returned
+ORD00361,29-Nov-25,CUST474,Amit,Male,56,Backpack,Accessories,Backpack,Boat,4,20027,10,8010.8,12977.5,0,85074.7,Cash on Delivery,Mobile App,Delhi,Delhi,North,1,No Return,5,Shipped
+ORD00362,08-Aug-25,CUST932,Vikas,Female,33,Mouse,Electronics,Mouse,HP,2,29124,0,0,10484.64,260,68992.64,Net Banking,Mobile App,Delhi,Delhi,North,8,No Return,5,Cancelled
+ORD00363,07-Jan-26,CUST719,Karan,Female,24,Backpack,Accessories,Backpack,Noise,3,34423,10,10326.9,16729.58,223,109894.68,Card,Website,Lucknow,Uttar Pradesh,North,7,Returned,4,Shipped
+ORD00364,05-Jan-26,CUST631,Anjali,Male,36,Laptop,Electronics,Laptop,Adidas,4,33019,20,26415.2,19018.94,47,124726.74,UPI,Mobile App,Mumbai,Maharashtra,West,4,No Return,2,Shipped
+ORD00365,27-Oct-25,CUST721,Anjali,Male,40,Keyboard,Electronics,Keyboard,Lenovo,3,42953,5,6442.95,22034.89,312,144762.94,Net Banking,Mobile App,Delhi,Delhi,North,10,Returned,1,Shipped
+ORD00366,24-Jul-25,CUST980,Riya,Female,34,Watch,Fashion,Watch,Sony,4,20988,10,8395.2,13600.22,300,89457.02,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,3,Shipped
+ORD00367,09-Sep-25,CUST713,Vikas,Female,40,Keyboard,Electronics,Keyboard,Sony,5,29902,0,0,26911.8,252,176673.8,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,4,No Return,2,Shipped
+ORD00368,19-Dec-25,CUST227,Vikas,Male,35,Camera,Electronics,Camera,Sony,5,8265,20,8265,5950.8,487,39497.8,Card,Mobile App,Jaipur,Rajasthan,North,7,Returned,2,Delivered
+ORD00369,06-Apr-26,CUST262,Rahul,Female,31,Mouse,Electronics,Mouse,Boat,1,44313,10,4431.3,7178.71,103,47163.41,Cash on Delivery,Website,Bangalore,Karnataka,South,1,Returned,5,Shipped
+ORD00370,17-Aug-25,CUST356,Karan,Male,35,Camera,Electronics,Camera,Noise,5,30235,20,30235,21769.2,120,142829.2,UPI,Website,Lucknow,Uttar Pradesh,North,4,No Return,1,Cancelled
+ORD00371,12-May-25,CUST878,Priya,Male,40,Phone,Electronics,Phone,Nike,1,47817,20,9563.4,6885.65,434,45573.25,UPI,Website,Mumbai,Maharashtra,West,1,No Return,2,Delivered
+ORD00372,13-Nov-25,CUST118,Riya,Male,18,Shoes,Fashion,Shoes,Samsung,3,3210,0,0,1733.4,177,11540.4,Net Banking,Website,Patiala,Punjab,North,7,No Return,1,Returned
+ORD00373,11-Aug-25,CUST684,Karan,Female,37,Backpack,Accessories,Backpack,Apple,3,9055,0,0,4889.7,444,32498.7,Net Banking,Website,Lucknow,Uttar Pradesh,North,4,No Return,2,Shipped
+ORD00374,09-Aug-25,CUST840,Neha,Female,48,Mouse,Electronics,Mouse,Apple,5,28376,10,14188,22984.56,491,151167.56,UPI,Website,Lucknow,Uttar Pradesh,North,2,Returned,4,Shipped
+ORD00375,17-Sep-25,CUST350,Neha,Male,59,Backpack,Accessories,Backpack,Apple,1,32505,20,6501,4680.72,395,31079.72,Cash on Delivery,Website,Delhi,Delhi,North,3,No Return,1,Returned
+ORD00376,29-Oct-25,CUST824,Priya,Female,37,Mouse,Electronics,Mouse,Dell,4,38052,15,22831.2,23287.82,488,153152.62,Card,Mobile App,Delhi,Delhi,North,7,Returned,2,Delivered
+ORD00377,28-May-25,CUST810,Anjali,Female,50,Phone,Electronics,Phone,Adidas,1,44961,5,2248.05,7688.33,362,50763.28,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,9,No Return,3,Shipped
+ORD00378,24-Dec-25,CUST423,Sneha,Female,30,Phone,Electronics,Phone,Noise,2,33846,0,0,12184.56,189,80065.56,Card,Website,Lucknow,Uttar Pradesh,North,2,Returned,3,Delivered
+ORD00379,04-Feb-26,CUST911,Sneha,Male,43,Camera,Electronics,Camera,Apple,4,10257,15,6154.2,6277.28,295,41446.08,Net Banking,Mobile App,Chandigarh,Punjab,North,7,No Return,3,Returned
+ORD00380,14-Jan-26,CUST362,Riya,Female,26,Mouse,Electronics,Mouse,Dell,5,35399,0,0,31859.1,222,209076.1,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,2,Returned,4,Shipped
+ORD00381,27-Dec-25,CUST618,Riya,Female,48,Backpack,Accessories,Backpack,Apple,3,38354,5,5753.1,19675.6,229,129213.5,Net Banking,Website,Pune,Maharashtra,West,3,Returned,2,Returned
+ORD00382,17-Dec-25,CUST933,Rahul,Female,25,Camera,Electronics,Camera,Nike,3,41789,10,12536.7,20309.45,460,133599.75,Net Banking,Mobile App,Pune,Maharashtra,West,1,Returned,4,Shipped
+ORD00383,25-May-25,CUST842,Karan,Male,50,Watch,Fashion,Watch,Sony,5,40354,15,30265.5,30870.81,5,202380.31,Net Banking,Website,Patiala,Punjab,North,9,No Return,5,Shipped
+ORD00384,16-Dec-25,CUST823,Anjali,Female,57,Camera,Electronics,Camera,Nike,3,44552,20,26731.2,19246.46,222,126393.26,Cash on Delivery,Website,Patiala,Punjab,North,2,Returned,1,Delivered
+ORD00385,26-May-25,CUST259,Neha,Male,57,Laptop,Electronics,Laptop,HP,4,6838,5,1367.6,4677.19,1,30662.59,UPI,Website,Delhi,Delhi,North,1,No Return,3,Shipped
+ORD00386,17-May-25,CUST289,Anjali,Female,50,Shoes,Fashion,Shoes,Apple,5,38147,15,28610.25,29182.45,184,191491.2,UPI,Website,Mumbai,Maharashtra,West,5,Returned,5,Shipped
+ORD00387,16-Sep-25,CUST854,Vikas,Male,37,Keyboard,Electronics,Keyboard,Sony,4,47651,5,9530.2,32593.28,270,213937.08,Net Banking,Website,Bangalore,Karnataka,South,10,Returned,2,Cancelled
+ORD00388,22-May-25,CUST913,Arjun,Female,51,Backpack,Accessories,Backpack,Samsung,1,35776,15,5366.4,5473.73,211,36094.33,UPI,Website,Mumbai,Maharashtra,West,1,Returned,2,Delivered
+ORD00389,15-May-25,CUST779,Karan,Male,48,Mouse,Electronics,Mouse,Boat,5,38786,20,38786,27925.92,346,183415.92,Net Banking,Website,Bangalore,Karnataka,South,10,No Return,2,Delivered
+ORD00390,07-Mar-26,CUST986,Arjun,Male,39,Headphones,Electronics,Headphones,Sony,4,44570,15,26742,27276.84,441,179255.84,Net Banking,Website,Lucknow,Uttar Pradesh,North,5,Returned,5,Returned
+ORD00391,14-Jul-25,CUST595,Anjali,Male,27,Watch,Fashion,Watch,Dell,2,17897,15,5369.1,5476.48,381,36282.38,UPI,Website,Jaipur,Rajasthan,North,2,No Return,3,Delivered
+ORD00392,01-Mar-26,CUST238,Riya,Male,29,Watch,Fashion,Watch,Adidas,2,19659,5,1965.9,6723.38,60,44135.48,UPI,Mobile App,Chandigarh,Punjab,North,8,Returned,2,Delivered
+ORD00393,07-Oct-25,CUST677,Neha,Female,19,Keyboard,Electronics,Keyboard,Adidas,2,5458,10,1091.6,1768.39,260,11852.79,UPI,Mobile App,Lucknow,Uttar Pradesh,North,6,Returned,1,Cancelled
+ORD00394,24-Aug-25,CUST686,Amit,Male,39,Shoes,Fashion,Shoes,Boat,5,11477,20,11477,8263.44,383,54554.44,Card,Website,Delhi,Delhi,North,8,No Return,1,Cancelled
+ORD00395,18-Feb-26,CUST976,Sneha,Male,56,Tablet,Electronics,Tablet,Noise,5,8130,0,0,7317,365,48332,UPI,Website,Jaipur,Rajasthan,North,5,Returned,2,Cancelled
+ORD00396,17-Sep-25,CUST626,Karan,Male,45,Watch,Fashion,Watch,HP,5,49785,10,24892.5,40325.85,307,264665.35,Cash on Delivery,Website,Jaipur,Rajasthan,North,10,Returned,1,Returned
+ORD00397,08-Dec-25,CUST271,Priya,Male,45,Headphones,Electronics,Headphones,Nike,1,45045,10,4504.5,7297.29,227,48064.79,Net Banking,Mobile App,Patiala,Punjab,North,7,Returned,4,Shipped
+ORD00398,14-Sep-25,CUST254,Priya,Female,32,Backpack,Accessories,Backpack,Dell,2,37886,20,15154.4,10911.17,333,71861.77,UPI,Mobile App,Delhi,Delhi,North,5,Returned,1,Delivered
+ORD00399,21-May-25,CUST999,Priya,Female,41,Tablet,Electronics,Tablet,Apple,1,10479,20,2095.8,1508.98,259,10151.18,Card,Website,Jaipur,Rajasthan,North,9,No Return,3,Returned
+ORD00400,18-Jul-25,CUST317,Riya,Female,39,Backpack,Accessories,Backpack,Dell,2,25677,20,10270.8,7394.98,360,48838.18,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,4,Returned,4,Cancelled
+ORD00401,11-Oct-25,CUST465,Arjun,Male,45,Watch,Fashion,Watch,Adidas,1,38257,0,0,6886.26,77,45220.26,UPI,Mobile App,Chandigarh,Punjab,North,5,No Return,1,Shipped
+ORD00402,08-Nov-25,CUST747,Riya,Female,18,Backpack,Accessories,Backpack,Lenovo,3,42836,5,6425.4,21974.87,203,144260.47,UPI,Mobile App,Patiala,Punjab,North,8,No Return,1,Returned
+ORD00403,07-Oct-25,CUST285,Amit,Male,33,Mouse,Electronics,Mouse,Dell,5,6082,10,3041,4926.42,451,32746.42,UPI,Mobile App,Bangalore,Karnataka,South,6,No Return,4,Cancelled
+ORD00404,01-Nov-25,CUST445,Amit,Female,45,Phone,Electronics,Phone,HP,1,31058,20,6211.6,4472.35,107,29425.75,Net Banking,Website,Pune,Maharashtra,West,2,No Return,1,Delivered
+ORD00405,06-Oct-25,CUST598,Arjun,Female,20,Headphones,Electronics,Headphones,HP,5,23952,15,17964,18323.28,235,120354.28,UPI,Website,Pune,Maharashtra,West,8,No Return,3,Cancelled
+ORD00406,22-Apr-25,CUST304,Riya,Female,48,Keyboard,Electronics,Keyboard,Apple,3,38091,20,22854.6,16455.31,45,107918.71,Cash on Delivery,Mobile App,Patiala,Punjab,North,4,No Return,2,Shipped
+ORD00407,05-Aug-25,CUST997,Neha,Male,52,Camera,Electronics,Camera,Apple,3,26216,20,15729.6,11325.31,81,74324.71,Net Banking,Website,Mumbai,Maharashtra,West,10,Returned,2,Cancelled
+ORD00408,05-Jan-26,CUST660,Rahul,Female,27,Mouse,Electronics,Mouse,Adidas,1,39817,0,0,7167.06,338,47322.06,Card,Website,Patiala,Punjab,North,5,No Return,2,Delivered
+ORD00409,08-Jul-25,CUST881,Karan,Male,21,Tablet,Electronics,Tablet,Adidas,2,13948,20,5579.2,4017.02,146,26479.82,UPI,Website,Mumbai,Maharashtra,West,2,Returned,1,Delivered
+ORD00410,05-Jul-25,CUST394,Rahul,Male,26,Backpack,Accessories,Backpack,Adidas,2,23299,10,4659.8,7548.88,416,49903.08,Net Banking,Mobile App,Bangalore,Karnataka,South,1,Returned,2,Cancelled
+ORD00411,26-Aug-25,CUST749,Arjun,Female,32,Camera,Electronics,Camera,Boat,2,32677,10,6535.4,10587.35,159,69564.95,Card,Website,Mumbai,Maharashtra,West,3,Returned,4,Delivered
+ORD00412,21-Apr-25,CUST950,Anjali,Female,21,Shoes,Fashion,Shoes,HP,2,31723,15,9516.9,9707.24,178,63814.34,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,2,No Return,2,Returned
+ORD00413,28-Jun-25,CUST825,Neha,Male,18,Camera,Electronics,Camera,Samsung,3,32699,15,14714.55,15008.84,232,98623.29,Card,Website,Bangalore,Karnataka,South,4,No Return,1,Shipped
+ORD00414,25-Oct-25,CUST144,Sneha,Male,40,Backpack,Accessories,Backpack,Apple,5,13093,15,9819.75,10016.15,119,65780.4,Cash on Delivery,Website,Mumbai,Maharashtra,West,9,Returned,2,Returned
+ORD00415,20-Aug-25,CUST282,Karan,Female,44,Mouse,Electronics,Mouse,HP,1,29058,15,4358.7,4445.87,483,29628.17,Net Banking,Mobile App,Patiala,Punjab,North,4,Returned,2,Cancelled
+ORD00416,04-Mar-26,CUST151,Arjun,Female,34,Camera,Electronics,Camera,Nike,4,893,15,535.8,546.52,235,3817.72,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,3,No Return,5,Cancelled
+ORD00417,21-Dec-25,CUST564,Karan,Female,43,Shoes,Fashion,Shoes,Dell,2,30884,15,9265.2,9450.5,377,62330.3,UPI,Website,Chandigarh,Punjab,North,4,No Return,5,Cancelled
+ORD00418,31-Jan-26,CUST776,Priya,Female,32,Phone,Electronics,Phone,Samsung,1,18649,10,1864.9,3021.14,223,20028.24,Net Banking,Mobile App,Delhi,Delhi,North,2,Returned,2,Cancelled
+ORD00419,11-Apr-25,CUST407,Rahul,Male,57,Headphones,Electronics,Headphones,Lenovo,4,25831,0,0,18598.32,290,122212.32,UPI,Mobile App,Pune,Maharashtra,West,9,No Return,5,Cancelled
+ORD00420,07-Aug-25,CUST173,Riya,Male,22,Watch,Fashion,Watch,Dell,3,5184,10,1555.2,2519.42,384,16900.22,Net Banking,Mobile App,Patiala,Punjab,North,10,Returned,3,Shipped
+ORD00421,27-Mar-26,CUST876,Arjun,Female,30,Shoes,Fashion,Shoes,Samsung,2,6464,5,646.4,2210.69,494,14986.29,Cash on Delivery,Mobile App,Patiala,Punjab,North,2,No Return,1,Shipped
+ORD00422,16-Sep-25,CUST814,Rahul,Male,19,Laptop,Electronics,Laptop,Apple,1,41930,20,8386,6037.92,39,39620.92,Card,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,3,Cancelled
+ORD00423,05-Jan-26,CUST867,Priya,Female,30,Watch,Fashion,Watch,Noise,2,602,5,60.2,205.88,330,1679.68,Net Banking,Mobile App,Pune,Maharashtra,West,4,Returned,3,Delivered
+ORD00424,28-Sep-25,CUST212,Riya,Female,44,Backpack,Accessories,Backpack,Noise,4,32958,15,19774.8,20170.3,359,132586.5,Net Banking,Mobile App,Delhi,Delhi,North,4,No Return,3,Returned
+ORD00425,28-Jun-25,CUST649,Vikas,Female,29,Headphones,Electronics,Headphones,Sony,1,22795,20,4559,3282.48,408,21926.48,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,10,No Return,1,Delivered
+ORD00426,27-Nov-25,CUST119,Arjun,Male,34,Tablet,Electronics,Tablet,HP,2,44955,15,13486.5,13756.23,122,90301.73,Net Banking,Website,Chandigarh,Punjab,North,2,No Return,3,Delivered
+ORD00427,14-Feb-26,CUST108,Sneha,Female,32,Watch,Fashion,Watch,HP,3,29894,5,4484.1,15335.62,374,100907.52,Cash on Delivery,Website,Pune,Maharashtra,West,2,No Return,4,Delivered
+ORD00428,11-Dec-25,CUST739,Rahul,Female,53,Mouse,Electronics,Mouse,Lenovo,1,18999,20,3799.8,2735.86,252,18187.06,UPI,Website,Patiala,Punjab,North,1,Returned,5,Returned
+ORD00429,17-Aug-25,CUST649,Rahul,Female,20,Shoes,Fashion,Shoes,Boat,2,5211,10,1042.2,1688.36,185,11253.16,UPI,Mobile App,Lucknow,Uttar Pradesh,North,2,No Return,3,Shipped
+ORD00430,30-Aug-25,CUST191,Neha,Male,26,Tablet,Electronics,Tablet,Dell,2,35117,20,14046.8,10113.7,188,66488.9,Net Banking,Website,Bangalore,Karnataka,South,8,No Return,5,Returned
+ORD00431,19-Dec-25,CUST850,Rahul,Male,22,Headphones,Electronics,Headphones,Samsung,5,49331,10,24665.5,39958.11,272,262219.61,Cash on Delivery,Mobile App,Delhi,Delhi,North,6,No Return,2,Delivered
+ORD00432,22-Mar-26,CUST746,Priya,Female,22,Mouse,Electronics,Mouse,Nike,4,41823,5,8364.6,28606.93,269,187803.33,Card,Website,Bangalore,Karnataka,South,3,Returned,5,Returned
+ORD00433,18-Dec-25,CUST320,Karan,Male,60,Laptop,Electronics,Laptop,Apple,2,34809,15,10442.7,10651.55,154,69980.85,Net Banking,Mobile App,Patiala,Punjab,North,8,No Return,5,Returned
+ORD00434,07-May-25,CUST277,Amit,Female,50,Laptop,Electronics,Laptop,Samsung,3,4209,10,1262.7,2045.57,362,13771.87,Net Banking,Website,Chandigarh,Punjab,North,9,Returned,4,Shipped
+ORD00435,02-Mar-26,CUST851,Neha,Male,44,Keyboard,Electronics,Keyboard,Lenovo,1,42001,5,2100.05,7182.17,105,47188.12,Net Banking,Website,Bangalore,Karnataka,South,2,No Return,4,Cancelled
+ORD00436,10-Sep-25,CUST914,Priya,Male,18,Phone,Electronics,Phone,Boat,3,49226,20,29535.6,21265.63,215,139623.03,UPI,Mobile App,Chandigarh,Punjab,North,7,Returned,5,Cancelled
+ORD00437,04-Dec-25,CUST567,Amit,Female,21,Camera,Electronics,Camera,HP,1,5104,20,1020.8,734.98,17,4835.18,Net Banking,Website,Chandigarh,Punjab,North,2,Returned,5,Shipped
+ORD00438,03-Nov-25,CUST550,Rahul,Female,38,Mouse,Electronics,Mouse,Dell,5,27737,5,6934.25,23715.13,280,155745.89,Cash on Delivery,Mobile App,Pune,Maharashtra,West,1,Returned,3,Delivered
+ORD00439,31-Oct-25,CUST645,Priya,Male,31,Headphones,Electronics,Headphones,HP,2,2476,5,247.6,846.79,332,5883.19,Card,Website,Chandigarh,Punjab,North,10,No Return,4,Returned
+ORD00440,22-Jan-26,CUST690,Vikas,Male,46,Shoes,Fashion,Shoes,Lenovo,5,41823,10,20911.5,33876.63,228,222308.13,UPI,Website,Jaipur,Rajasthan,North,1,No Return,5,Cancelled
+ORD00441,25-Nov-25,CUST578,Sneha,Female,28,Headphones,Electronics,Headphones,Nike,4,24006,0,0,17284.32,134,113442.32,Cash on Delivery,Website,Pune,Maharashtra,West,2,Returned,5,Delivered
+ORD00442,30-Jul-25,CUST272,Rahul,Male,44,Camera,Electronics,Camera,Sony,5,23260,10,11630,18840.6,403,123913.6,Card,Website,Patiala,Punjab,North,10,Returned,2,Cancelled
+ORD00443,29-Dec-25,CUST109,Neha,Male,36,Keyboard,Electronics,Keyboard,Noise,5,3544,0,0,3189.6,294,21203.6,Net Banking,Mobile App,Bangalore,Karnataka,South,2,Returned,1,Shipped
+ORD00444,01-Jan-26,CUST435,Karan,Male,57,Laptop,Electronics,Laptop,Apple,3,45381,15,20421.45,20829.88,110,136661.43,UPI,Website,Lucknow,Uttar Pradesh,North,6,Returned,3,Returned
+ORD00445,19-Dec-25,CUST772,Rahul,Female,52,Tablet,Electronics,Tablet,Adidas,1,12252,5,612.6,2095.09,379,14113.49,Net Banking,Mobile App,Mumbai,Maharashtra,West,8,No Return,1,Shipped
+ORD00446,14-Sep-25,CUST456,Sneha,Male,47,Backpack,Accessories,Backpack,Apple,4,30619,0,0,22045.68,231,144752.68,Cash on Delivery,Website,Patiala,Punjab,North,4,No Return,2,Returned
+ORD00447,03-Mar-26,CUST907,Neha,Male,20,Headphones,Electronics,Headphones,Boat,1,23553,20,4710.6,3391.63,243,22477.03,Cash on Delivery,Website,Mumbai,Maharashtra,West,8,Returned,4,Shipped
+ORD00448,25-Jul-25,CUST207,Karan,Male,52,Keyboard,Electronics,Keyboard,Boat,2,6603,5,660.3,2258.23,343,15146.93,Cash on Delivery,Website,Pune,Maharashtra,West,7,Returned,3,Returned
+ORD00449,29-Sep-25,CUST934,Arjun,Male,28,Backpack,Accessories,Backpack,Boat,4,22851,20,18280.8,13162.18,359,86644.38,Cash on Delivery,Website,Bangalore,Karnataka,South,7,Returned,3,Returned
+ORD00450,14-Apr-25,CUST764,Rahul,Female,36,Tablet,Electronics,Tablet,HP,1,25609,5,1280.45,4379.14,97,28804.69,UPI,Website,Patiala,Punjab,North,1,No Return,5,Returned
+ORD00451,08-Oct-25,CUST804,Rahul,Male,39,Headphones,Electronics,Headphones,Samsung,2,14636,5,1463.6,5005.51,189,33002.91,Card,Mobile App,Mumbai,Maharashtra,West,2,No Return,4,Returned
+ORD00452,08-Oct-25,CUST633,Vikas,Male,47,Keyboard,Electronics,Keyboard,Dell,2,38206,0,0,13754.16,460,90626.16,Net Banking,Website,Delhi,Delhi,North,7,No Return,5,Returned
+ORD00453,23-Jun-25,CUST838,Arjun,Male,52,Headphones,Electronics,Headphones,Dell,4,16160,20,12928,9308.16,422,61442.16,Net Banking,Mobile App,Bangalore,Karnataka,South,5,No Return,1,Cancelled
+ORD00454,07-Dec-25,CUST448,Anjali,Female,32,Mouse,Electronics,Mouse,Apple,5,31197,15,23397.75,23865.7,389,156841.95,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,6,No Return,2,Delivered
+ORD00455,11-Sep-25,CUST889,Anjali,Female,29,Headphones,Electronics,Headphones,Dell,4,10812,0,0,7784.64,76,51108.64,Net Banking,Website,Delhi,Delhi,North,6,Returned,3,Cancelled
+ORD00456,04-Feb-26,CUST772,Rahul,Female,40,Mouse,Electronics,Mouse,Adidas,1,13238,20,2647.6,1906.27,33,12529.67,Net Banking,Mobile App,Bangalore,Karnataka,South,7,Returned,1,Cancelled
+ORD00457,25-Jan-26,CUST174,Amit,Male,44,Phone,Electronics,Phone,HP,2,19330,5,1933,6610.86,455,43792.86,Card,Website,Lucknow,Uttar Pradesh,North,10,Returned,3,Delivered
+ORD00458,02-Jun-25,CUST208,Karan,Female,26,Laptop,Electronics,Laptop,Boat,5,36209,10,18104.5,29329.29,361,192630.79,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,3,No Return,3,Shipped
+ORD00459,09-Nov-25,CUST503,Rahul,Male,48,Shoes,Fashion,Shoes,Lenovo,1,29971,10,2997.1,4855.3,401,32230.2,Card,Mobile App,Mumbai,Maharashtra,West,3,Returned,5,Shipped
+ORD00460,03-Sep-25,CUST569,Anjali,Male,24,Mouse,Electronics,Mouse,HP,2,32711,10,6542.2,10598.36,374,69852.16,UPI,Mobile App,Lucknow,Uttar Pradesh,North,9,Returned,5,Cancelled
+ORD00461,04-Sep-25,CUST359,Anjali,Female,38,Mouse,Electronics,Mouse,Dell,2,8328,5,832.8,2848.18,251,18922.38,Net Banking,Mobile App,Bangalore,Karnataka,South,3,Returned,3,Shipped
+ORD00462,27-Jan-26,CUST698,Vikas,Female,31,Phone,Electronics,Phone,Adidas,4,35256,10,14102.4,22845.89,104,149871.49,Card,Mobile App,Patiala,Punjab,North,9,Returned,5,Returned
+ORD00463,09-Aug-25,CUST957,Amit,Male,28,Headphones,Electronics,Headphones,HP,2,45154,20,18061.6,13004.35,214,85464.75,Card,Website,Mumbai,Maharashtra,West,6,No Return,3,Delivered
+ORD00464,20-Jun-25,CUST272,Karan,Female,41,Headphones,Electronics,Headphones,Boat,4,12691,5,2538.2,8680.64,366,57272.44,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,3,Returned,4,Shipped
+ORD00465,27-May-25,CUST382,Rahul,Female,57,Shoes,Fashion,Shoes,Noise,1,34542,20,6908.4,4974.05,179,32786.65,Card,Mobile App,Jaipur,Rajasthan,North,8,No Return,2,Cancelled
+ORD00466,26-Dec-25,CUST391,Karan,Male,21,Mouse,Electronics,Mouse,Lenovo,2,43091,5,4309.1,14737.12,410,97020.02,Cash on Delivery,Mobile App,Pune,Maharashtra,West,1,Returned,2,Shipped
+ORD00467,27-Dec-25,CUST932,Rahul,Female,53,Watch,Fashion,Watch,Boat,4,8212,5,1642.4,5617.01,456,37278.61,Card,Website,Patiala,Punjab,North,5,Returned,2,Delivered
+ORD00468,31-Aug-25,CUST150,Priya,Female,41,Watch,Fashion,Watch,Sony,2,20842,5,2084.2,7127.96,476,47203.76,Card,Website,Jaipur,Rajasthan,North,6,No Return,5,Delivered
+ORD00469,29-Dec-25,CUST330,Sneha,Female,24,Keyboard,Electronics,Keyboard,Boat,1,47724,0,0,8590.32,1,56315.32,Net Banking,Mobile App,Delhi,Delhi,North,9,Returned,5,Returned
+ORD00470,24-Sep-25,CUST732,Rahul,Female,40,Camera,Electronics,Camera,Apple,4,10839,0,0,7804.08,263,51423.08,Card,Mobile App,Patiala,Punjab,North,10,Returned,2,Delivered
+ORD00471,10-Oct-25,CUST155,Amit,Female,59,Headphones,Electronics,Headphones,HP,3,26534,20,15920.4,11462.69,204,75348.29,Cash on Delivery,Website,Patiala,Punjab,North,1,No Return,3,Shipped
+ORD00472,18-May-25,CUST813,Amit,Female,30,Tablet,Electronics,Tablet,Dell,4,31580,0,0,22737.6,323,149380.6,Card,Mobile App,Mumbai,Maharashtra,West,9,Returned,4,Returned
+ORD00473,26-Jul-25,CUST586,Priya,Male,42,Keyboard,Electronics,Keyboard,Apple,2,35161,15,10548.3,10759.27,349,70881.97,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,3,No Return,2,Cancelled
+ORD00474,12-Jan-26,CUST156,Anjali,Female,46,Tablet,Electronics,Tablet,Lenovo,3,48636,0,0,26263.44,268,172439.44,UPI,Website,Pune,Maharashtra,West,6,No Return,3,Cancelled
+ORD00475,07-Mar-26,CUST781,Anjali,Male,31,Backpack,Accessories,Backpack,Lenovo,2,31744,20,12697.6,9142.27,209,60141.67,Card,Website,Chandigarh,Punjab,North,7,No Return,5,Shipped
+ORD00476,29-Jan-26,CUST381,Priya,Male,32,Headphones,Electronics,Headphones,Samsung,4,31822,0,0,22911.84,60,150259.84,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,3,Returned
+ORD00477,24-Jun-25,CUST124,Riya,Female,33,Watch,Fashion,Watch,Boat,4,2368,20,1894.4,1363.97,373,9314.57,Cash on Delivery,Website,Jaipur,Rajasthan,North,6,Returned,1,Returned
+ORD00478,28-Mar-26,CUST363,Priya,Female,20,Watch,Fashion,Watch,Sony,5,48760,5,12190,41689.8,420,273719.8,Net Banking,Website,Lucknow,Uttar Pradesh,North,7,Returned,4,Returned
+ORD00479,27-May-25,CUST349,Amit,Male,38,Headphones,Electronics,Headphones,Dell,5,39991,10,19995.5,32392.71,310,212662.21,Net Banking,Website,Pune,Maharashtra,West,8,No Return,5,Returned
+ORD00480,09-Sep-25,CUST970,Vikas,Male,53,Camera,Electronics,Camera,Nike,1,47402,5,2370.1,8105.74,192,53329.64,UPI,Mobile App,Chandigarh,Punjab,North,5,No Return,2,Cancelled
+ORD00481,12-Jan-26,CUST614,Priya,Male,34,Phone,Electronics,Phone,Noise,3,42924,20,25754.4,18543.17,373,121933.77,UPI,Website,Patiala,Punjab,North,2,Returned,4,Shipped
+ORD00482,09-Dec-25,CUST239,Anjali,Male,29,Keyboard,Electronics,Keyboard,Dell,2,43493,5,4349.3,14874.61,499,98010.31,Card,Mobile App,Mumbai,Maharashtra,West,10,Returned,4,Delivered
+ORD00483,06-Mar-26,CUST477,Neha,Female,52,Watch,Fashion,Watch,Lenovo,1,23370,0,0,4206.6,413,27989.6,Card,Mobile App,Bangalore,Karnataka,South,6,No Return,4,Returned
+ORD00484,17-Feb-26,CUST128,Neha,Male,58,Headphones,Electronics,Headphones,Boat,3,47124,10,14137.2,22902.26,40,150177.06,UPI,Mobile App,Delhi,Delhi,North,4,No Return,3,Shipped
+ORD00485,09-Feb-26,CUST113,Karan,Female,30,Mouse,Electronics,Mouse,Adidas,1,27733,5,1386.65,4742.34,481,31569.69,Card,Website,Pune,Maharashtra,West,8,No Return,3,Delivered
+ORD00486,13-Sep-25,CUST364,Neha,Female,26,Laptop,Electronics,Laptop,Adidas,1,16619,5,830.95,2841.85,416,19045.9,UPI,Website,Bangalore,Karnataka,South,4,No Return,1,Returned
+ORD00487,09-Oct-25,CUST930,Rahul,Male,39,Watch,Fashion,Watch,Nike,3,16882,10,5064.6,8204.65,146,53932.05,Net Banking,Mobile App,Delhi,Delhi,North,2,No Return,5,Shipped
+ORD00488,18-Dec-25,CUST494,Amit,Female,52,Laptop,Electronics,Laptop,Apple,3,42848,15,19281.6,19667.23,22,128951.63,UPI,Website,Patiala,Punjab,North,3,No Return,2,Returned
+ORD00489,22-Jul-25,CUST202,Sneha,Male,25,Backpack,Accessories,Backpack,Dell,3,17988,10,5396.4,8742.17,462,57771.77,Card,Website,Jaipur,Rajasthan,North,10,No Return,2,Shipped
+ORD00490,30-May-25,CUST228,Vikas,Male,51,Watch,Fashion,Watch,Samsung,4,20757,0,0,14945.04,65,98038.04,UPI,Website,Patiala,Punjab,North,6,Returned,4,Cancelled
+ORD00491,30-Jul-25,CUST636,Arjun,Male,54,Tablet,Electronics,Tablet,Lenovo,2,36202,10,7240.4,11729.45,49,76942.05,UPI,Mobile App,Delhi,Delhi,North,10,Returned,3,Cancelled
+ORD00492,08-Mar-26,CUST362,Amit,Male,55,Camera,Electronics,Camera,Dell,5,8252,20,8252,5941.44,389,39338.44,UPI,Website,Pune,Maharashtra,West,5,Returned,3,Shipped
+ORD00493,29-Apr-25,CUST228,Amit,Female,50,Backpack,Accessories,Backpack,Dell,1,49467,20,9893.4,7123.25,217,46913.85,UPI,Mobile App,Bangalore,Karnataka,South,5,No Return,3,Cancelled
+ORD00494,11-Oct-25,CUST395,Neha,Female,55,Shoes,Fashion,Shoes,Samsung,4,21774,20,17419.2,12541.82,11,82229.62,UPI,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,1,Shipped
+ORD00495,03-Dec-25,CUST540,Amit,Male,54,Laptop,Electronics,Laptop,Nike,4,47507,5,9501.4,32494.79,181,213202.39,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,7,Returned,2,Shipped
+ORD00496,31-Oct-25,CUST302,Sneha,Male,29,Mouse,Electronics,Mouse,Nike,3,36790,10,11037,17879.94,0,117212.94,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,1,Shipped
+ORD00497,23-Jun-25,CUST549,Vikas,Female,22,Laptop,Electronics,Laptop,Dell,1,29785,20,5957,4289.04,223,28340.04,Net Banking,Mobile App,Pune,Maharashtra,West,1,Returned,1,Shipped
+ORD00498,28-Dec-25,CUST384,Sneha,Female,21,Phone,Electronics,Phone,Lenovo,3,44354,0,0,23951.16,395,157408.16,UPI,Website,Patiala,Punjab,North,4,Returned,3,Returned
+ORD00499,21-Sep-25,CUST559,Amit,Female,26,Backpack,Accessories,Backpack,HP,4,42490,10,16996,27533.52,135,180632.52,UPI,Mobile App,Delhi,Delhi,North,3,No Return,3,Shipped
+ORD00500,23-Dec-25,CUST936,Riya,Male,28,Phone,Electronics,Phone,Noise,1,7815,0,0,1406.7,306,9527.7,Cash on Delivery,Mobile App,Delhi,Delhi,North,7,Returned,1,Delivered
+ORD00501,19-Oct-25,CUST497,Anjali,Female,47,Phone,Electronics,Phone,Nike,1,36934,20,7386.8,5318.5,83,34948.7,UPI,Website,Pune,Maharashtra,West,4,No Return,3,Returned
+ORD00502,14-Dec-25,CUST999,Vikas,Male,25,Camera,Electronics,Camera,Sony,4,22888,0,0,16479.36,377,108408.36,Card,Website,Patiala,Punjab,North,10,No Return,1,Delivered
+ORD00503,17-Dec-25,CUST157,Rahul,Male,27,Watch,Fashion,Watch,Dell,4,36131,0,0,26014.32,402,170940.32,Cash on Delivery,Mobile App,Patiala,Punjab,North,4,No Return,4,Cancelled
+ORD00504,18-Oct-25,CUST469,Vikas,Male,43,Keyboard,Electronics,Keyboard,Boat,2,1030,0,0,370.8,174,2604.8,Cash on Delivery,Website,Mumbai,Maharashtra,West,7,Returned,2,Shipped
+ORD00505,02-Nov-25,CUST453,Sneha,Female,55,Backpack,Accessories,Backpack,Sony,3,22483,15,10117.35,10319.7,275,67926.35,UPI,Website,Pune,Maharashtra,West,7,No Return,5,Cancelled
+ORD00506,08-Aug-25,CUST947,Rahul,Male,26,Camera,Electronics,Camera,Boat,4,7865,0,0,5662.8,311,37433.8,Net Banking,Website,Delhi,Delhi,North,8,No Return,3,Cancelled
+ORD00507,19-Nov-25,CUST523,Vikas,Female,27,Watch,Fashion,Watch,Samsung,5,20520,20,20520,14774.4,70,96924.4,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,5,Shipped
+ORD00508,23-Apr-25,CUST968,Neha,Male,32,Tablet,Electronics,Tablet,HP,3,31680,0,0,17107.2,218,112365.2,Card,Mobile App,Chandigarh,Punjab,North,7,No Return,5,Returned
+ORD00509,07-Aug-25,CUST258,Priya,Female,56,Laptop,Electronics,Laptop,Boat,5,9895,20,9895,7124.4,285,46989.4,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,10,No Return,3,Cancelled
+ORD00510,25-Mar-26,CUST266,Karan,Female,48,Headphones,Electronics,Headphones,Adidas,4,11370,10,4548,7367.76,129,48428.76,Card,Mobile App,Pune,Maharashtra,West,4,Returned,4,Delivered
+ORD00511,03-Jan-26,CUST140,Neha,Male,51,Watch,Fashion,Watch,Noise,1,47284,15,7092.6,7234.45,432,47857.85,Net Banking,Website,Jaipur,Rajasthan,North,9,No Return,4,Shipped
+ORD00512,11-Oct-25,CUST676,Riya,Female,49,Phone,Electronics,Phone,Dell,5,15893,15,11919.75,12158.15,282,79985.4,Net Banking,Website,Bangalore,Karnataka,South,9,Returned,4,Shipped
+ORD00513,09-Oct-25,CUST214,Rahul,Male,24,Laptop,Electronics,Laptop,Nike,5,27748,10,13874,22475.88,237,147578.88,Net Banking,Website,Jaipur,Rajasthan,North,9,Returned,2,Shipped
+ORD00514,01-Mar-26,CUST420,Karan,Male,30,Backpack,Accessories,Backpack,Nike,1,48180,0,0,8672.4,48,56900.4,Net Banking,Mobile App,Pune,Maharashtra,West,7,No Return,3,Delivered
+ORD00515,25-Dec-25,CUST167,Sneha,Female,49,Watch,Fashion,Watch,Adidas,3,13292,15,5981.4,6101.03,233,40228.63,Card,Website,Patiala,Punjab,North,1,No Return,4,Cancelled
+ORD00516,08-Apr-26,CUST735,Vikas,Female,19,Tablet,Electronics,Tablet,Adidas,4,48469,20,38775.2,27918.14,368,183386.94,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,6,No Return,2,Shipped
+ORD00517,29-Nov-25,CUST722,Riya,Male,53,Mouse,Electronics,Mouse,Lenovo,5,31571,5,7892.75,26993.2,388,177343.45,UPI,Mobile App,Delhi,Delhi,North,2,No Return,2,Returned
+ORD00518,22-Jan-26,CUST326,Riya,Male,23,Shoes,Fashion,Shoes,Dell,3,48754,10,14626.2,23694.44,56,155386.24,Card,Mobile App,Delhi,Delhi,North,4,Returned,2,Delivered
+ORD00519,14-Apr-25,CUST528,Arjun,Male,59,Watch,Fashion,Watch,Apple,5,49241,20,49241,35453.52,323,232740.52,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,9,Returned,3,Cancelled
+ORD00520,25-May-25,CUST688,Amit,Male,52,Tablet,Electronics,Tablet,Lenovo,2,17576,10,3515.2,5694.62,234,37565.42,UPI,Website,Chandigarh,Punjab,North,8,Returned,4,Shipped
+ORD00521,12-Jan-26,CUST315,Sneha,Male,48,Watch,Fashion,Watch,Adidas,4,14213,5,2842.6,9721.69,74,63805.09,Cash on Delivery,Website,Mumbai,Maharashtra,West,8,Returned,5,Shipped
+ORD00522,23-Oct-25,CUST118,Riya,Male,35,Backpack,Accessories,Backpack,Adidas,1,43439,0,0,7819.02,403,51661.02,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,3,No Return,1,Cancelled
+ORD00523,05-Nov-25,CUST464,Sneha,Male,42,Shoes,Fashion,Shoes,Nike,1,35941,5,1797.05,6145.91,20,40309.86,Cash on Delivery,Mobile App,Pune,Maharashtra,West,2,No Return,2,Cancelled
+ORD00524,07-Oct-25,CUST436,Rahul,Male,56,Headphones,Electronics,Headphones,Boat,2,6043,15,1812.9,1849.16,480,12602.26,Net Banking,Website,Jaipur,Rajasthan,North,7,Returned,5,Returned
+ORD00525,20-Dec-25,CUST339,Priya,Male,58,Camera,Electronics,Camera,Samsung,3,26460,5,3969,13573.98,340,89324.98,UPI,Mobile App,Chandigarh,Punjab,North,2,No Return,4,Shipped
+ORD00526,27-Sep-25,CUST440,Rahul,Female,51,Headphones,Electronics,Headphones,Noise,5,37592,10,18796,30449.52,380,199993.52,UPI,Mobile App,Jaipur,Rajasthan,North,4,Returned,1,Shipped
+ORD00527,25-Sep-25,CUST543,Karan,Female,57,Laptop,Electronics,Laptop,Sony,1,21149,20,4229.8,3045.46,298,20262.66,Card,Mobile App,Chandigarh,Punjab,North,1,Returned,5,Delivered
+ORD00528,04-Apr-26,CUST497,Neha,Female,29,Mouse,Electronics,Mouse,Apple,2,7542,0,0,2715.12,336,18135.12,Card,Website,Chandigarh,Punjab,North,4,No Return,2,Delivered
+ORD00529,19-May-25,CUST174,Neha,Male,44,Laptop,Electronics,Laptop,Nike,1,13196,15,1979.4,2018.99,439,13674.59,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,8,Returned,2,Delivered
+ORD00530,05-Jul-25,CUST276,Anjali,Female,18,Laptop,Electronics,Laptop,Sony,4,14222,0,0,10239.84,498,67625.84,Card,Website,Lucknow,Uttar Pradesh,North,8,Returned,4,Cancelled
+ORD00531,22-May-25,CUST597,Vikas,Male,33,Keyboard,Electronics,Keyboard,Apple,4,19887,10,7954.8,12886.78,318,84797.98,Net Banking,Mobile App,Mumbai,Maharashtra,West,2,Returned,4,Shipped
+ORD00532,31-May-25,CUST637,Arjun,Female,51,Mouse,Electronics,Mouse,Sony,2,7873,5,787.3,2692.57,155,17806.27,Net Banking,Website,Lucknow,Uttar Pradesh,North,7,Returned,5,Shipped
+ORD00533,24-Jun-25,CUST339,Rahul,Female,46,Keyboard,Electronics,Keyboard,Sony,1,42929,20,8585.8,6181.78,228,40752.98,Card,Website,Delhi,Delhi,North,10,No Return,3,Shipped
+ORD00534,05-Aug-25,CUST694,Karan,Female,43,Camera,Electronics,Camera,Lenovo,1,41961,10,4196.1,6797.68,63,44625.58,UPI,Mobile App,Jaipur,Rajasthan,North,8,Returned,5,Shipped
+ORD00535,10-Aug-25,CUST607,Amit,Female,60,Tablet,Electronics,Tablet,Nike,5,6154,15,4615.5,4707.81,460,31322.31,UPI,Mobile App,Chandigarh,Punjab,North,10,Returned,1,Delivered
+ORD00536,21-Feb-26,CUST156,Amit,Male,44,Backpack,Accessories,Backpack,Noise,2,43139,20,17255.6,12424.03,165,81611.43,UPI,Website,Chandigarh,Punjab,North,1,No Return,5,Returned
+ORD00537,29-Jul-25,CUST871,Amit,Male,26,Shoes,Fashion,Shoes,Dell,4,39551,0,0,28476.72,416,187096.72,Net Banking,Mobile App,Bangalore,Karnataka,South,5,Returned,4,Returned
+ORD00538,31-Dec-25,CUST927,Karan,Female,27,Tablet,Electronics,Tablet,Sony,4,48917,0,0,35220.24,296,231184.24,Card,Mobile App,Patiala,Punjab,North,6,Returned,4,Delivered
+ORD00539,22-Oct-25,CUST185,Rahul,Male,47,Laptop,Electronics,Laptop,Noise,3,40702,20,24421.2,17583.26,193,115461.06,Card,Mobile App,Bangalore,Karnataka,South,5,No Return,2,Delivered
+ORD00540,08-Sep-25,CUST546,Amit,Female,58,Tablet,Electronics,Tablet,Noise,2,4559,0,0,1641.24,387,11146.24,Net Banking,Mobile App,Patiala,Punjab,North,6,Returned,1,Returned
+ORD00541,20-Mar-26,CUST504,Rahul,Male,34,Laptop,Electronics,Laptop,Sony,5,2350,10,1175,1903.5,454,12932.5,Net Banking,Mobile App,Chandigarh,Punjab,North,2,No Return,3,Cancelled
+ORD00542,24-Nov-25,CUST543,Riya,Female,19,Laptop,Electronics,Laptop,HP,2,25923,0,0,9332.28,274,61452.28,Net Banking,Website,Pune,Maharashtra,West,6,Returned,3,Delivered
+ORD00543,25-Jul-25,CUST784,Sneha,Female,41,Shoes,Fashion,Shoes,Adidas,5,27464,20,27464,19774.08,74,129704.08,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,8,Returned,5,Returned
+ORD00544,13-Aug-25,CUST625,Vikas,Female,39,Shoes,Fashion,Shoes,Noise,3,17597,5,2639.55,9027.26,297,59475.71,Card,Mobile App,Bangalore,Karnataka,South,5,Returned,1,Cancelled
+ORD00545,15-Mar-26,CUST722,Neha,Male,44,Headphones,Electronics,Headphones,Nike,5,4399,0,0,3959.1,41,25995.1,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,3,Returned,3,Delivered
+ORD00546,21-Jan-26,CUST499,Amit,Female,46,Headphones,Electronics,Headphones,Dell,4,16338,5,3267.6,11175.19,104,73363.59,Net Banking,Website,Bangalore,Karnataka,South,9,Returned,5,Cancelled
+ORD00547,28-Nov-25,CUST421,Priya,Male,23,Mouse,Electronics,Mouse,Dell,5,41403,5,10350.75,35399.56,376,232439.82,Card,Website,Patiala,Punjab,North,4,Returned,5,Shipped
+ORD00548,31-Oct-25,CUST159,Neha,Female,29,Tablet,Electronics,Tablet,Boat,2,19158,5,1915.8,6552.04,419,43371.24,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,4,Returned,2,Cancelled
+ORD00549,01-Jun-25,CUST754,Anjali,Male,19,Laptop,Electronics,Laptop,Boat,4,9541,20,7632.8,5495.62,462,36488.82,Cash on Delivery,Website,Mumbai,Maharashtra,West,10,Returned,3,Cancelled
+ORD00550,01-Apr-26,CUST731,Rahul,Male,23,Camera,Electronics,Camera,Adidas,2,37411,15,11223.3,11447.77,407,75453.47,Net Banking,Website,Delhi,Delhi,North,1,No Return,3,Delivered
+ORD00551,16-Aug-25,CUST399,Amit,Male,35,Mouse,Electronics,Mouse,Apple,3,20654,10,6196.2,10037.84,467,66270.64,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,2,Returned,4,Shipped
+ORD00552,27-May-25,CUST233,Riya,Male,55,Laptop,Electronics,Laptop,Lenovo,1,20050,5,1002.5,3428.55,205,22681.05,UPI,Website,Jaipur,Rajasthan,North,5,Returned,2,Shipped
+ORD00553,05-Jun-25,CUST112,Sneha,Male,60,Camera,Electronics,Camera,Lenovo,5,26702,0,0,24031.8,215,157756.8,UPI,Mobile App,Mumbai,Maharashtra,West,4,Returned,4,Returned
+ORD00554,21-Jun-25,CUST624,Karan,Male,38,Camera,Electronics,Camera,Boat,1,49429,0,0,8897.22,491,58817.22,UPI,Mobile App,Patiala,Punjab,North,5,Returned,2,Cancelled
+ORD00555,25-Mar-26,CUST410,Anjali,Female,20,Keyboard,Electronics,Keyboard,Apple,5,5569,10,2784.5,4510.89,202,29773.39,UPI,Mobile App,Patiala,Punjab,North,1,Returned,3,Delivered
+ORD00556,18-Dec-25,CUST994,Neha,Female,19,Keyboard,Electronics,Keyboard,Nike,1,4090,0,0,736.2,158,4984.2,Cash on Delivery,Website,Jaipur,Rajasthan,North,1,No Return,2,Shipped
+ORD00557,18-Mar-26,CUST131,Vikas,Female,41,Watch,Fashion,Watch,Dell,2,36676,10,7335.2,11883.02,71,77970.82,Cash on Delivery,Website,Chandigarh,Punjab,North,2,Returned,4,Shipped
+ORD00558,01-Sep-25,CUST503,Vikas,Female,36,Camera,Electronics,Camera,Adidas,3,7820,5,1173,4011.66,161,26459.66,Net Banking,Mobile App,Chandigarh,Punjab,North,7,No Return,5,Returned
+ORD00559,01-May-25,CUST358,Priya,Male,55,Watch,Fashion,Watch,Boat,2,13342,0,0,4803.12,174,31661.12,Cash on Delivery,Website,Bangalore,Karnataka,South,4,No Return,5,Cancelled
+ORD00560,22-Feb-26,CUST936,Rahul,Male,60,Watch,Fashion,Watch,Sony,1,22384,0,0,4029.12,175,26588.12,Net Banking,Mobile App,Delhi,Delhi,North,2,Returned,2,Returned
+ORD00561,07-Oct-25,CUST242,Vikas,Male,45,Keyboard,Electronics,Keyboard,Adidas,2,22350,0,0,8046,119,52865,UPI,Website,Jaipur,Rajasthan,North,9,Returned,3,Cancelled
+ORD00562,22-Jul-25,CUST697,Arjun,Male,36,Keyboard,Electronics,Keyboard,Dell,1,30336,5,1516.8,5187.46,83,34089.66,Net Banking,Website,Delhi,Delhi,North,9,No Return,4,Delivered
+ORD00563,03-Aug-25,CUST246,Arjun,Female,47,Phone,Electronics,Phone,Lenovo,5,14793,10,7396.5,11982.33,384,78934.83,Card,Website,Delhi,Delhi,North,10,Returned,3,Shipped
+ORD00564,14-May-25,CUST316,Neha,Female,33,Laptop,Electronics,Laptop,Nike,3,38101,10,11430.3,18517.09,123,121512.79,Card,Mobile App,Lucknow,Uttar Pradesh,North,4,No Return,1,Shipped
+ORD00565,21-Oct-25,CUST777,Karan,Female,27,Backpack,Accessories,Backpack,Dell,2,20386,20,8154.4,5871.17,48,38536.77,Card,Mobile App,Pune,Maharashtra,West,10,No Return,1,Shipped
+ORD00566,13-Feb-26,CUST689,Sneha,Female,28,Camera,Electronics,Camera,Sony,2,12947,10,2589.4,4194.83,401,27900.43,UPI,Website,Pune,Maharashtra,West,1,Returned,1,Cancelled
+ORD00567,02-Dec-25,CUST990,Rahul,Male,29,Backpack,Accessories,Backpack,Apple,1,45669,20,9133.8,6576.34,84,43195.54,Card,Website,Delhi,Delhi,North,9,Returned,1,Cancelled
+ORD00568,23-Sep-25,CUST662,Vikas,Female,27,Keyboard,Electronics,Keyboard,Noise,5,32363,15,24272.25,24757.69,55,162355.45,Net Banking,Mobile App,Delhi,Delhi,North,4,Returned,3,Delivered
+ORD00569,02-Sep-25,CUST179,Anjali,Female,18,Camera,Electronics,Camera,Adidas,2,26083,5,2608.3,8920.39,148,58626.09,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,4,No Return,2,Delivered
+ORD00570,01-Apr-26,CUST155,Neha,Male,28,Camera,Electronics,Camera,Nike,4,18529,20,14823.2,10672.7,326,70291.5,Net Banking,Mobile App,Bangalore,Karnataka,South,10,No Return,4,Shipped
+ORD00571,16-Jan-26,CUST611,Sneha,Female,22,Keyboard,Electronics,Keyboard,Sony,5,48092,0,0,43282.8,210,283952.8,UPI,Website,Lucknow,Uttar Pradesh,North,3,No Return,1,Returned
+ORD00572,14-Nov-25,CUST436,Riya,Male,28,Shoes,Fashion,Shoes,Samsung,1,46450,10,4645,7524.9,11,49340.9,UPI,Website,Bangalore,Karnataka,South,8,No Return,5,Delivered
+ORD00573,19-Jan-26,CUST934,Anjali,Male,19,Keyboard,Electronics,Keyboard,Boat,2,7461,5,746.1,2551.66,462,17189.56,UPI,Mobile App,Bangalore,Karnataka,South,4,Returned,5,Shipped
+ORD00574,17-Apr-25,CUST596,Karan,Female,26,Phone,Electronics,Phone,Adidas,4,34693,20,27754.4,19983.17,92,131092.77,Card,Website,Mumbai,Maharashtra,West,6,Returned,3,Shipped
+ORD00575,06-Aug-25,CUST732,Arjun,Male,29,Camera,Electronics,Camera,Nike,1,32825,10,3282.5,5317.65,116,34976.15,Cash on Delivery,Mobile App,Delhi,Delhi,North,7,Returned,4,Delivered
+ORD00576,09-May-25,CUST254,Neha,Female,33,Keyboard,Electronics,Keyboard,Nike,3,10600,20,6360,4579.2,129,30148.2,Card,Website,Chandigarh,Punjab,North,10,Returned,2,Shipped
+ORD00577,17-Dec-25,CUST537,Priya,Female,50,Backpack,Accessories,Backpack,Boat,3,36848,5,5527.2,18903.02,368,124287.82,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,3,No Return,1,Cancelled
+ORD00578,06-Oct-25,CUST858,Amit,Male,32,Backpack,Accessories,Backpack,Nike,3,35709,0,0,19282.86,36,126445.86,Net Banking,Website,Delhi,Delhi,North,7,No Return,4,Shipped
+ORD00579,17-Feb-26,CUST272,Priya,Male,27,Camera,Electronics,Camera,Apple,4,20644,5,4128.8,14120.5,344,92911.7,Card,Mobile App,Patiala,Punjab,North,6,No Return,3,Shipped
+ORD00580,14-Dec-25,CUST839,Neha,Male,40,Headphones,Electronics,Headphones,Noise,2,6782,10,1356.4,2197.37,59,14463.97,Card,Website,Lucknow,Uttar Pradesh,North,2,No Return,1,Delivered
+ORD00581,24-Mar-26,CUST585,Neha,Male,33,Watch,Fashion,Watch,Apple,3,30995,5,4649.25,15900.43,207,104443.18,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,6,No Return,5,Shipped
+ORD00582,29-Sep-25,CUST817,Priya,Male,19,Keyboard,Electronics,Keyboard,Samsung,1,31065,20,6213,4473.36,485,29810.36,Cash on Delivery,Mobile App,Patiala,Punjab,North,8,Returned,4,Delivered
+ORD00583,20-May-25,CUST795,Arjun,Male,23,Shoes,Fashion,Shoes,Nike,4,25638,5,5127.6,17536.39,105,115065.79,Net Banking,Mobile App,Patiala,Punjab,North,6,No Return,5,Shipped
+ORD00584,11-Apr-25,CUST363,Neha,Male,44,Shoes,Fashion,Shoes,Adidas,3,36997,20,22198.2,15982.7,276,105051.5,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,7,Returned,2,Returned
+ORD00585,13-Feb-26,CUST689,Priya,Female,57,Watch,Fashion,Watch,Apple,2,22302,0,0,8028.72,137,52769.72,Card,Website,Lucknow,Uttar Pradesh,North,9,Returned,2,Cancelled
+ORD00586,18-Aug-25,CUST137,Rahul,Female,54,Watch,Fashion,Watch,HP,4,27890,5,5578,19076.76,263,125321.76,Card,Mobile App,Jaipur,Rajasthan,North,4,No Return,5,Shipped
+ORD00587,11-Mar-26,CUST910,Arjun,Male,43,Watch,Fashion,Watch,Boat,1,3325,15,498.75,508.72,182,3516.97,Net Banking,Mobile App,Delhi,Delhi,North,6,Returned,5,Returned
+ORD00588,03-Jul-25,CUST874,Sneha,Male,42,Keyboard,Electronics,Keyboard,Adidas,1,46035,0,0,8286.3,39,54360.3,Net Banking,Mobile App,Bangalore,Karnataka,South,2,No Return,2,Returned
+ORD00589,05-Sep-25,CUST536,Karan,Male,26,Keyboard,Electronics,Keyboard,HP,4,43793,0,0,31530.96,187,206889.96,Net Banking,Mobile App,Delhi,Delhi,North,2,No Return,5,Returned
+ORD00590,20-Oct-25,CUST447,Amit,Male,51,Shoes,Fashion,Shoes,Lenovo,1,36558,10,3655.8,5922.4,204,39028.6,Net Banking,Website,Delhi,Delhi,North,10,Returned,2,Delivered
+ORD00591,17-Jan-26,CUST336,Vikas,Female,22,Laptop,Electronics,Laptop,Lenovo,1,11976,10,1197.6,1940.11,188,12906.51,Card,Mobile App,Pune,Maharashtra,West,9,Returned,3,Shipped
+ORD00592,26-Apr-25,CUST759,Priya,Male,33,Laptop,Electronics,Laptop,HP,2,30404,15,9121.2,9303.62,243,61233.42,UPI,Mobile App,Bangalore,Karnataka,South,6,Returned,2,Returned
+ORD00593,16-Dec-25,CUST410,Riya,Male,35,Tablet,Electronics,Tablet,Dell,5,19190,15,14392.5,14680.35,285,96522.85,UPI,Mobile App,Bangalore,Karnataka,South,2,Returned,2,Cancelled
+ORD00594,09-Sep-25,CUST598,Sneha,Male,44,Camera,Electronics,Camera,Noise,2,13865,15,4159.5,4242.69,362,28175.19,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,4,No Return,1,Cancelled
+ORD00595,05-Feb-26,CUST707,Amit,Male,20,Phone,Electronics,Phone,Lenovo,5,45732,20,45732,32927.04,346,216201.04,UPI,Website,Jaipur,Rajasthan,North,6,No Return,5,Cancelled
+ORD00596,19-Jun-25,CUST638,Amit,Female,37,Tablet,Electronics,Tablet,Boat,3,13690,0,0,7392.6,496,48958.6,Net Banking,Website,Chandigarh,Punjab,North,8,No Return,4,Shipped
+ORD00597,10-Feb-26,CUST376,Anjali,Female,47,Phone,Electronics,Phone,Noise,5,35073,5,8768.25,29987.41,32,196616.17,Card,Website,Pune,Maharashtra,West,1,Returned,5,Delivered
+ORD00598,10-Sep-25,CUST497,Arjun,Female,56,Phone,Electronics,Phone,Samsung,2,24176,20,9670.4,6962.69,241,45885.29,Net Banking,Website,Bangalore,Karnataka,South,10,Returned,3,Shipped
+ORD00599,19-Apr-25,CUST439,Anjali,Female,28,Tablet,Electronics,Tablet,Adidas,4,3776,5,755.2,2582.78,358,17289.58,UPI,Website,Bangalore,Karnataka,South,1,Returned,5,Shipped
+ORD00600,23-Aug-25,CUST431,Sneha,Male,48,Camera,Electronics,Camera,HP,2,31074,20,12429.6,8949.31,343,59010.71,UPI,Mobile App,Mumbai,Maharashtra,West,7,Returned,4,Delivered
+ORD00601,13-May-25,CUST143,Anjali,Male,55,Keyboard,Electronics,Keyboard,Adidas,4,34430,20,27544,19831.68,63,130070.68,UPI,Mobile App,Jaipur,Rajasthan,North,1,Returned,2,Cancelled
+ORD00602,02-Jun-25,CUST726,Arjun,Female,56,Mouse,Electronics,Mouse,Lenovo,2,39830,10,7966,12904.92,432,85030.92,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,8,Returned,2,Returned
+ORD00603,18-Aug-25,CUST767,Priya,Female,21,Mouse,Electronics,Mouse,Dell,2,41119,5,4111.9,14062.7,355,92543.8,Net Banking,Website,Delhi,Delhi,North,7,Returned,3,Delivered
+ORD00604,04-Feb-26,CUST364,Amit,Male,27,Camera,Electronics,Camera,Nike,2,35061,5,3506.1,11990.86,303,78909.76,UPI,Website,Chandigarh,Punjab,North,6,No Return,1,Shipped
+ORD00605,06-Nov-25,CUST351,Karan,Male,25,Headphones,Electronics,Headphones,Dell,5,13176,20,13176,9486.72,109,62299.72,Cash on Delivery,Mobile App,Pune,Maharashtra,West,1,Returned,4,Cancelled
+ORD00606,27-Jul-25,CUST699,Karan,Male,42,Watch,Fashion,Watch,Dell,5,38288,10,19144,31013.28,33,203342.28,Net Banking,Mobile App,Chandigarh,Punjab,North,2,Returned,2,Shipped
+ORD00607,21-Jun-25,CUST372,Amit,Female,23,Shoes,Fashion,Shoes,Sony,5,34595,0,0,31135.5,278,204388.5,Cash on Delivery,Website,Chandigarh,Punjab,North,7,Returned,4,Cancelled
+ORD00608,11-Nov-25,CUST786,Vikas,Male,45,Phone,Electronics,Phone,Adidas,4,14803,5,2960.6,10125.25,444,66820.65,Card,Website,Lucknow,Uttar Pradesh,North,1,No Return,4,Delivered
+ORD00609,14-Mar-26,CUST436,Karan,Male,23,Watch,Fashion,Watch,Adidas,4,46728,20,37382.4,26915.33,488,176932.93,Net Banking,Mobile App,Pune,Maharashtra,West,6,No Return,3,Shipped
+ORD00610,10-Feb-26,CUST179,Amit,Male,56,Shoes,Fashion,Shoes,Lenovo,1,27870,10,2787,4514.94,498,30095.94,Net Banking,Mobile App,Delhi,Delhi,North,8,Returned,5,Returned
+ORD00611,24-Oct-25,CUST167,Riya,Male,45,Shoes,Fashion,Shoes,Noise,2,19119,20,7647.6,5506.27,309,36405.67,Net Banking,Mobile App,Jaipur,Rajasthan,North,5,No Return,3,Shipped
+ORD00612,01-Oct-25,CUST760,Rahul,Female,30,Watch,Fashion,Watch,Nike,5,17738,20,17738,12771.36,196,83919.36,Card,Website,Pune,Maharashtra,West,10,No Return,2,Cancelled
+ORD00613,15-Aug-25,CUST673,Anjali,Female,60,Shoes,Fashion,Shoes,Noise,5,43569,20,43569,31369.68,221,205866.68,UPI,Mobile App,Jaipur,Rajasthan,North,10,Returned,2,Returned
+ORD00614,06-Sep-25,CUST132,Anjali,Male,35,Shoes,Fashion,Shoes,Apple,1,30905,15,4635.75,4728.47,324,31321.72,Cash on Delivery,Mobile App,Pune,Maharashtra,West,10,Returned,1,Cancelled
+ORD00615,07-Oct-25,CUST381,Riya,Female,58,Mouse,Electronics,Mouse,Nike,4,41766,0,0,30071.52,436,197571.52,Cash on Delivery,Mobile App,Delhi,Delhi,North,2,Returned,2,Cancelled
+ORD00616,17-Aug-25,CUST751,Priya,Male,42,Laptop,Electronics,Laptop,Apple,2,21383,20,8553.2,6158.3,235,40606.1,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,2,Returned,4,Returned
+ORD00617,02-Mar-26,CUST387,Vikas,Female,42,Mouse,Electronics,Mouse,Lenovo,3,6996,0,0,3777.84,327,25092.84,Net Banking,Website,Chandigarh,Punjab,North,6,No Return,2,Cancelled
+ORD00618,20-Jan-26,CUST120,Sneha,Male,50,Backpack,Accessories,Backpack,Nike,4,47815,10,19126,30984.12,23,203141.12,Card,Website,Pune,Maharashtra,West,2,Returned,4,Delivered
+ORD00619,18-Mar-26,CUST540,Neha,Male,37,Mouse,Electronics,Mouse,Sony,4,16140,20,12912,9296.64,365,61309.64,Net Banking,Website,Mumbai,Maharashtra,West,4,Returned,1,Shipped
+ORD00620,30-Dec-25,CUST394,Sneha,Male,43,Keyboard,Electronics,Keyboard,Nike,2,1150,20,460,331.2,394,2565.2,Card,Mobile App,Jaipur,Rajasthan,North,9,No Return,2,Cancelled
+ORD00621,21-Sep-25,CUST808,Vikas,Female,35,Camera,Electronics,Camera,Adidas,5,4559,20,4559,3282.48,202,21720.48,Cash on Delivery,Website,Chandigarh,Punjab,North,10,No Return,1,Shipped
+ORD00622,03-Mar-26,CUST948,Arjun,Male,51,Keyboard,Electronics,Keyboard,HP,5,40159,5,10039.75,34335.94,207,225298.2,Net Banking,Website,Chandigarh,Punjab,North,8,Returned,3,Cancelled
+ORD00623,05-Oct-25,CUST972,Rahul,Male,25,Backpack,Accessories,Backpack,Apple,2,10985,5,1098.5,3756.87,120,24748.37,Card,Mobile App,Pune,Maharashtra,West,8,No Return,4,Shipped
+ORD00624,06-Nov-25,CUST314,Sneha,Female,29,Camera,Electronics,Camera,Adidas,1,36714,0,0,6608.52,425,43747.52,UPI,Mobile App,Chandigarh,Punjab,North,2,No Return,2,Cancelled
+ORD00625,20-Apr-25,CUST746,Neha,Female,37,Phone,Electronics,Phone,Nike,1,19124,10,1912.4,3098.09,257,20566.69,Card,Mobile App,Chandigarh,Punjab,North,6,Returned,4,Cancelled
+ORD00626,23-Jun-25,CUST682,Neha,Female,54,Mouse,Electronics,Mouse,Nike,1,23713,20,4742.6,3414.67,411,22796.07,Net Banking,Mobile App,Patiala,Punjab,North,10,Returned,5,Delivered
+ORD00627,22-Sep-25,CUST901,Rahul,Male,58,Keyboard,Electronics,Keyboard,Dell,3,34710,20,20826,14994.72,173,98471.72,Cash on Delivery,Mobile App,Patiala,Punjab,North,1,Returned,4,Shipped
+ORD00628,22-Jul-25,CUST367,Riya,Male,51,Laptop,Electronics,Laptop,Adidas,3,7140,0,0,3855.6,484,25759.6,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,3,Returned,3,Shipped
+ORD00629,05-Jul-25,CUST491,Vikas,Male,56,Laptop,Electronics,Laptop,Samsung,2,28239,20,11295.6,8132.83,103,53418.23,UPI,Website,Lucknow,Uttar Pradesh,North,3,Returned,5,Returned
+ORD00630,07-Sep-25,CUST815,Karan,Female,49,Tablet,Electronics,Tablet,HP,4,48282,15,28969.2,29548.58,35,193742.38,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,7,Returned,5,Shipped
+ORD00631,10-Aug-25,CUST824,Sneha,Female,26,Laptop,Electronics,Laptop,Noise,4,32877,10,13150.8,21304.3,68,139729.5,Net Banking,Mobile App,Mumbai,Maharashtra,West,1,Returned,3,Delivered
+ORD00632,16-Dec-25,CUST617,Rahul,Female,23,Shoes,Fashion,Shoes,Adidas,5,6859,20,6859,4938.48,489,32863.48,Card,Website,Mumbai,Maharashtra,West,8,No Return,1,Delivered
+ORD00633,05-Dec-25,CUST306,Karan,Female,56,Laptop,Electronics,Laptop,Boat,5,6880,5,1720,5882.4,355,38917.4,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,8,Returned,4,Delivered
+ORD00634,06-Jun-25,CUST306,Riya,Male,29,Mouse,Electronics,Mouse,Sony,3,44405,20,26643,19182.96,188,125942.96,Cash on Delivery,Website,Bangalore,Karnataka,South,4,Returned,3,Delivered
+ORD00635,12-Sep-25,CUST946,Priya,Male,25,Watch,Fashion,Watch,Dell,5,36886,20,36886,26557.92,302,174403.92,Card,Mobile App,Bangalore,Karnataka,South,2,Returned,3,Shipped
+ORD00636,28-Feb-26,CUST310,Amit,Female,31,Tablet,Electronics,Tablet,Noise,4,42144,0,0,30343.68,24,198943.68,Net Banking,Website,Pune,Maharashtra,West,2,Returned,1,Shipped
+ORD00637,28-Sep-25,CUST101,Vikas,Male,28,Mouse,Electronics,Mouse,Boat,4,48302,5,9660.4,33038.57,179,216765.17,Cash on Delivery,Mobile App,Delhi,Delhi,North,2,Returned,2,Returned
+ORD00638,30-Aug-25,CUST483,Vikas,Male,38,Shoes,Fashion,Shoes,Adidas,2,48941,20,19576.4,14095.01,140,92540.61,Net Banking,Website,Pune,Maharashtra,West,3,Returned,1,Returned
+ORD00639,31-May-25,CUST612,Arjun,Female,60,Keyboard,Electronics,Keyboard,Adidas,3,2310,0,0,1247.4,179,8356.4,UPI,Website,Patiala,Punjab,North,8,Returned,2,Shipped
+ORD00640,17-Oct-25,CUST381,Anjali,Female,51,Shoes,Fashion,Shoes,HP,3,23961,15,10782.45,10998.1,321,72419.65,UPI,Website,Bangalore,Karnataka,South,5,Returned,3,Delivered
+ORD00641,21-May-25,CUST944,Neha,Male,46,Shoes,Fashion,Shoes,Sony,1,4128,15,619.2,631.58,70,4210.38,Net Banking,Website,Lucknow,Uttar Pradesh,North,6,No Return,4,Cancelled
+ORD00642,24-Aug-25,CUST997,Riya,Female,51,Shoes,Fashion,Shoes,HP,3,11238,10,3371.4,5461.67,201,36005.27,Card,Mobile App,Mumbai,Maharashtra,West,5,No Return,1,Cancelled
+ORD00643,23-Dec-25,CUST687,Amit,Female,38,Headphones,Electronics,Headphones,HP,2,46694,10,9338.8,15128.86,86,99264.06,Card,Website,Jaipur,Rajasthan,North,6,No Return,4,Shipped
+ORD00644,27-Jan-26,CUST461,Priya,Female,35,Phone,Electronics,Phone,Dell,5,34344,20,34344,24727.68,473,162576.68,Net Banking,Mobile App,Delhi,Delhi,North,5,Returned,5,Cancelled
+ORD00645,26-Mar-26,CUST121,Neha,Male,22,Tablet,Electronics,Tablet,Lenovo,2,36921,20,14768.4,10633.25,288,69994.85,UPI,Mobile App,Chandigarh,Punjab,North,7,Returned,5,Cancelled
+ORD00646,22-Jun-25,CUST299,Priya,Female,34,Headphones,Electronics,Headphones,Nike,3,4374,20,2624.4,1889.57,36,12423.17,Card,Mobile App,Chandigarh,Punjab,North,9,Returned,1,Shipped
+ORD00647,18-Oct-25,CUST751,Amit,Female,24,Laptop,Electronics,Laptop,Samsung,5,31044,20,31044,22351.68,403,146930.68,Card,Website,Jaipur,Rajasthan,North,5,Returned,2,Returned
+ORD00648,09-May-25,CUST434,Riya,Male,57,Backpack,Accessories,Backpack,HP,3,43444,0,0,23459.76,238,154029.76,Net Banking,Website,Pune,Maharashtra,West,10,No Return,4,Shipped
+ORD00649,06-Feb-26,CUST302,Vikas,Female,41,Keyboard,Electronics,Keyboard,Sony,2,38898,10,7779.6,12602.95,277,82896.35,Net Banking,Website,Chandigarh,Punjab,North,10,No Return,1,Shipped
+ORD00650,26-Apr-25,CUST858,Neha,Male,51,Camera,Electronics,Camera,Sony,3,25634,20,15380.4,11073.89,490,73085.49,Net Banking,Website,Patiala,Punjab,North,10,No Return,1,Returned
+ORD00651,03-Aug-25,CUST659,Anjali,Male,36,Laptop,Electronics,Laptop,HP,1,18070,5,903.5,3089.97,495,20751.47,Card,Website,Patiala,Punjab,North,6,No Return,4,Delivered
+ORD00652,09-Mar-26,CUST265,Priya,Male,56,Keyboard,Electronics,Keyboard,Dell,1,25503,15,3825.45,3901.96,372,25951.51,Card,Mobile App,Patiala,Punjab,North,1,Returned,2,Returned
+ORD00653,30-Jun-25,CUST130,Priya,Female,48,Camera,Electronics,Camera,Boat,3,23347,20,14008.2,10085.9,18,66136.7,Card,Website,Jaipur,Rajasthan,North,4,No Return,2,Shipped
+ORD00654,29-Apr-25,CUST198,Sneha,Male,37,Mouse,Electronics,Mouse,Adidas,3,34998,0,0,18898.92,218,124110.92,Card,Website,Chandigarh,Punjab,North,3,Returned,5,Returned
+ORD00655,21-Apr-25,CUST387,Sneha,Male,60,Watch,Fashion,Watch,Nike,2,20237,20,8094.8,5828.26,329,38536.46,UPI,Website,Jaipur,Rajasthan,North,3,Returned,4,Shipped
+ORD00656,03-Oct-25,CUST478,Rahul,Female,30,Tablet,Electronics,Tablet,Sony,5,48600,15,36450,37179,201,243930,Card,Mobile App,Pune,Maharashtra,West,8,No Return,1,Delivered
+ORD00657,11-Oct-25,CUST328,Karan,Female,32,Headphones,Electronics,Headphones,HP,5,22607,15,16955.25,17294.35,90,113464.1,UPI,Website,Mumbai,Maharashtra,West,6,No Return,5,Shipped
+ORD00658,05-Oct-25,CUST412,Priya,Male,19,Phone,Electronics,Phone,HP,3,35119,10,10535.7,17067.83,267,112156.13,Cash on Delivery,Website,Jaipur,Rajasthan,North,5,Returned,2,Shipped
+ORD00659,07-Apr-26,CUST559,Rahul,Female,49,Camera,Electronics,Camera,Dell,1,23303,10,2330.3,3775.09,211,24958.79,UPI,Website,Delhi,Delhi,North,10,Returned,5,Delivered
+ORD00660,01-Jul-25,CUST210,Priya,Male,47,Camera,Electronics,Camera,Noise,2,47952,20,19180.8,13810.18,396,90929.38,Card,Website,Pune,Maharashtra,West,6,No Return,4,Shipped
+ORD00661,15-Oct-25,CUST370,Vikas,Male,56,Headphones,Electronics,Headphones,Samsung,5,32236,0,0,29012.4,327,190519.4,UPI,Website,Chandigarh,Punjab,North,6,No Return,4,Returned
+ORD00662,03-Oct-25,CUST631,Amit,Male,29,Camera,Electronics,Camera,Adidas,1,35972,5,1798.6,6151.21,96,40420.61,UPI,Website,Bangalore,Karnataka,South,10,No Return,4,Returned
+ORD00663,21-Feb-26,CUST604,Arjun,Female,34,Tablet,Electronics,Tablet,Sony,3,43548,10,13064.4,21164.33,336,139079.93,UPI,Website,Patiala,Punjab,North,8,No Return,4,Returned
+ORD00664,09-Mar-26,CUST334,Anjali,Female,54,Laptop,Electronics,Laptop,Lenovo,4,7915,10,3166,5128.92,361,33983.92,Net Banking,Website,Bangalore,Karnataka,South,5,Returned,1,Returned
+ORD00665,05-Sep-25,CUST718,Karan,Male,45,Mouse,Electronics,Mouse,Samsung,3,3759,0,0,2029.86,446,13752.86,Cash on Delivery,Website,Jaipur,Rajasthan,North,4,No Return,4,Delivered
+ORD00666,20-Mar-26,CUST246,Neha,Male,18,Watch,Fashion,Watch,Apple,1,17726,10,1772.6,2871.61,165,18990.01,Net Banking,Website,Chandigarh,Punjab,North,8,Returned,5,Returned
+ORD00667,01-Oct-25,CUST424,Priya,Female,56,Watch,Fashion,Watch,Boat,3,13518,0,0,7299.72,220,48073.72,Net Banking,Mobile App,Patiala,Punjab,North,9,No Return,4,Returned
+ORD00668,28-Mar-26,CUST826,Karan,Female,43,Headphones,Electronics,Headphones,Noise,5,48662,0,0,43795.8,270,287375.8,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,10,No Return,5,Delivered
+ORD00669,07-Dec-25,CUST867,Sneha,Male,32,Keyboard,Electronics,Keyboard,Nike,4,48803,0,0,35138.16,191,230541.16,Card,Website,Mumbai,Maharashtra,West,2,No Return,2,Returned
+ORD00670,19-Feb-26,CUST802,Priya,Female,33,Laptop,Electronics,Laptop,Dell,1,20388,0,0,3669.84,118,24175.84,UPI,Website,Chandigarh,Punjab,North,2,Returned,2,Shipped
+ORD00671,04-Mar-26,CUST272,Karan,Female,54,Shoes,Fashion,Shoes,HP,1,38234,15,5735.1,5849.8,117,38465.7,Net Banking,Website,Pune,Maharashtra,West,6,Returned,3,Cancelled
+ORD00672,29-Aug-25,CUST650,Arjun,Male,26,Tablet,Electronics,Tablet,Apple,3,36323,10,10896.9,17652.98,446,116171.08,Card,Website,Pune,Maharashtra,West,3,No Return,2,Delivered
+ORD00673,12-May-25,CUST513,Riya,Female,28,Headphones,Electronics,Headphones,Lenovo,1,37469,10,3746.9,6069.98,343,40135.08,Cash on Delivery,Mobile App,Pune,Maharashtra,West,8,Returned,3,Shipped
+ORD00674,17-Oct-25,CUST838,Amit,Female,40,Backpack,Accessories,Backpack,HP,2,8036,15,2410.8,2459.02,129,16249.22,Net Banking,Mobile App,Jaipur,Rajasthan,North,8,Returned,5,Returned
+ORD00675,10-Oct-25,CUST753,Rahul,Male,34,Shoes,Fashion,Shoes,Adidas,1,7033,0,0,1265.94,330,8628.94,UPI,Mobile App,Delhi,Delhi,North,9,No Return,5,Returned
+ORD00676,25-Jan-26,CUST296,Rahul,Male,54,Backpack,Accessories,Backpack,Apple,3,21275,10,6382.5,10339.65,126,67908.15,Card,Website,Jaipur,Rajasthan,North,7,Returned,5,Returned
+ORD00677,21-Jan-26,CUST344,Neha,Female,26,Keyboard,Electronics,Keyboard,Sony,1,30273,0,0,5449.14,128,35850.14,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,3,Returned,2,Shipped
+ORD00678,26-Apr-25,CUST121,Karan,Female,46,Keyboard,Electronics,Keyboard,Lenovo,5,35557,20,35557,25601.04,86,167915.04,UPI,Website,Mumbai,Maharashtra,West,9,Returned,1,Returned
+ORD00679,20-Jul-25,CUST683,Sneha,Male,43,Camera,Electronics,Camera,Apple,4,43332,20,34665.6,24959.23,354,163975.63,UPI,Mobile App,Lucknow,Uttar Pradesh,North,1,Returned,4,Delivered
+ORD00680,17-May-25,CUST101,Arjun,Male,41,Tablet,Electronics,Tablet,Apple,5,10495,10,5247.5,8500.95,92,55820.45,Card,Mobile App,Patiala,Punjab,North,8,No Return,4,Delivered
+ORD00681,29-Oct-25,CUST731,Arjun,Female,19,Phone,Electronics,Phone,Samsung,4,8623,5,1724.6,5898.13,358,39023.53,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,9,Returned,2,Returned
+ORD00682,21-May-25,CUST427,Rahul,Male,33,Camera,Electronics,Camera,Noise,1,12855,0,0,2313.9,289,15457.9,Card,Mobile App,Chandigarh,Punjab,North,1,Returned,2,Delivered
+ORD00683,07-Jul-25,CUST996,Arjun,Female,38,Watch,Fashion,Watch,Noise,5,7313,10,3656.5,5923.53,78,38910.03,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,1,Returned,3,Shipped
+ORD00684,06-May-25,CUST667,Karan,Female,29,Camera,Electronics,Camera,Samsung,1,19819,0,0,3567.42,273,23659.42,Net Banking,Mobile App,Mumbai,Maharashtra,West,3,Returned,2,Delivered
+ORD00685,17-Sep-25,CUST835,Karan,Male,30,Headphones,Electronics,Headphones,Apple,5,49125,0,0,44212.5,132,289969.5,UPI,Mobile App,Lucknow,Uttar Pradesh,North,2,No Return,1,Cancelled
+ORD00686,09-Mar-26,CUST384,Priya,Female,56,Backpack,Accessories,Backpack,HP,3,40023,5,6003.45,20531.8,233,134830.35,Net Banking,Mobile App,Jaipur,Rajasthan,North,1,No Return,2,Delivered
+ORD00687,11-Jul-25,CUST408,Sneha,Female,56,Headphones,Electronics,Headphones,Lenovo,1,11177,20,2235.4,1609.49,174,10725.09,UPI,Mobile App,Jaipur,Rajasthan,North,10,No Return,5,Returned
+ORD00688,06-May-25,CUST737,Priya,Female,44,Laptop,Electronics,Laptop,HP,4,43124,15,25874.4,26391.89,187,173200.49,Net Banking,Mobile App,Delhi,Delhi,North,8,Returned,3,Shipped
+ORD00689,11-Jan-26,CUST700,Anjali,Female,51,Laptop,Electronics,Laptop,Adidas,1,1063,5,53.15,181.77,2,1193.62,Net Banking,Website,Delhi,Delhi,North,6,Returned,5,Delivered
+ORD00690,17-Jan-26,CUST234,Amit,Male,34,Laptop,Electronics,Laptop,Samsung,2,862,0,0,310.32,38,2072.32,UPI,Mobile App,Patiala,Punjab,North,4,Returned,5,Returned
+ORD00691,22-Mar-26,CUST195,Karan,Female,18,Watch,Fashion,Watch,Noise,3,48398,0,0,26134.92,450,171778.92,Card,Website,Pune,Maharashtra,West,1,Returned,5,Shipped
+ORD00692,20-Nov-25,CUST176,Riya,Male,57,Tablet,Electronics,Tablet,Samsung,4,39778,10,15911.2,25776.14,252,169228.94,Net Banking,Website,Patiala,Punjab,North,6,Returned,5,Delivered
+ORD00693,21-Jul-25,CUST511,Neha,Female,42,Watch,Fashion,Watch,Apple,2,25407,0,0,9146.52,193,60153.52,Card,Website,Chandigarh,Punjab,North,5,No Return,3,Shipped
+ORD00694,14-Apr-25,CUST471,Priya,Male,33,Backpack,Accessories,Backpack,Dell,1,34030,5,1701.5,5819.13,148,38295.63,Net Banking,Website,Patiala,Punjab,North,5,Returned,5,Delivered
+ORD00695,14-Apr-25,CUST451,Rahul,Female,55,Keyboard,Electronics,Keyboard,Apple,2,27846,20,11138.4,8019.65,421,52994.25,Card,Mobile App,Delhi,Delhi,North,4,Returned,5,Shipped
+ORD00696,24-Oct-25,CUST876,Vikas,Male,52,Tablet,Electronics,Tablet,Lenovo,1,38289,15,5743.35,5858.22,315,38718.87,Net Banking,Mobile App,Bangalore,Karnataka,South,3,Returned,2,Cancelled
+ORD00697,01-Oct-25,CUST104,Sneha,Female,46,Keyboard,Electronics,Keyboard,Lenovo,3,40712,0,0,21984.48,238,144358.48,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,5,No Return,5,Cancelled
+ORD00698,27-Apr-25,CUST663,Amit,Female,23,Keyboard,Electronics,Keyboard,Apple,1,38286,5,1914.3,6546.91,264,43182.61,UPI,Mobile App,Mumbai,Maharashtra,West,4,Returned,4,Shipped
+ORD00699,26-Sep-25,CUST149,Arjun,Male,21,Backpack,Accessories,Backpack,Noise,3,38505,10,11551.5,18713.43,469,123145.93,Card,Website,Lucknow,Uttar Pradesh,North,7,No Return,1,Delivered
+ORD00700,27-Jun-25,CUST208,Arjun,Female,41,Mouse,Electronics,Mouse,Lenovo,1,37853,20,7570.6,5450.83,363,36096.23,UPI,Website,Bangalore,Karnataka,South,3,No Return,1,Cancelled
+ORD00701,10-Jul-25,CUST724,Riya,Female,46,Mouse,Electronics,Mouse,Boat,1,23378,5,1168.9,3997.64,1,26207.74,Net Banking,Website,Pune,Maharashtra,West,5,No Return,3,Shipped
+ORD00702,31-Jul-25,CUST758,Rahul,Male,48,Watch,Fashion,Watch,Boat,2,34921,5,3492.1,11942.98,248,78540.88,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,2,Delivered
+ORD00703,13-May-25,CUST573,Priya,Male,39,Camera,Electronics,Camera,Dell,4,17871,5,3574.2,12223.76,178,80311.56,UPI,Mobile App,Patiala,Punjab,North,8,No Return,5,Returned
+ORD00704,12-Dec-25,CUST950,Amit,Female,46,Phone,Electronics,Phone,Boat,4,45708,20,36566.4,26327.81,230,172823.41,Net Banking,Website,Delhi,Delhi,North,10,Returned,4,Returned
+ORD00705,29-Jul-25,CUST915,Priya,Female,45,Shoes,Fashion,Shoes,Samsung,4,30414,5,6082.8,20803.18,367,136743.38,Net Banking,Mobile App,Jaipur,Rajasthan,North,8,No Return,4,Shipped
+ORD00706,02-Nov-25,CUST482,Amit,Male,28,Camera,Electronics,Camera,Sony,3,20894,15,9402.3,9590.35,68,62938.05,UPI,Mobile App,Mumbai,Maharashtra,West,1,Returned,5,Cancelled
+ORD00707,10-Dec-25,CUST346,Vikas,Female,35,Watch,Fashion,Watch,Noise,1,9009,15,1351.35,1378.38,466,9502.03,UPI,Mobile App,Jaipur,Rajasthan,North,7,Returned,3,Delivered
+ORD00708,07-Aug-25,CUST301,Neha,Female,36,Headphones,Electronics,Headphones,Lenovo,4,40980,20,32784,23604.48,302,155042.48,UPI,Mobile App,Lucknow,Uttar Pradesh,North,10,Returned,3,Delivered
+ORD00709,30-Apr-25,CUST682,Karan,Male,53,Mouse,Electronics,Mouse,Apple,4,17805,5,3561,12178.62,278,80115.62,Net Banking,Mobile App,Chandigarh,Punjab,North,2,Returned,4,Cancelled
+ORD00710,29-Jan-26,CUST202,Arjun,Female,56,Tablet,Electronics,Tablet,Noise,3,27997,10,8399.1,13606.54,430,89628.44,Cash on Delivery,Website,Bangalore,Karnataka,South,7,Returned,1,Delivered
+ORD00711,16-Jul-25,CUST256,Vikas,Female,58,Headphones,Electronics,Headphones,Apple,3,16676,5,2501.4,8554.79,328,56409.39,UPI,Mobile App,Pune,Maharashtra,West,1,No Return,1,Delivered
+ORD00712,24-Jan-26,CUST690,Amit,Male,50,Laptop,Electronics,Laptop,Sony,1,29242,20,5848.4,4210.85,375,27979.45,UPI,Mobile App,Bangalore,Karnataka,South,3,No Return,4,Cancelled
+ORD00713,20-Jul-25,CUST382,Arjun,Female,41,Phone,Electronics,Phone,Sony,4,11472,5,2294.4,7846.85,166,51606.45,Net Banking,Mobile App,Pune,Maharashtra,West,7,Returned,2,Cancelled
+ORD00714,10-Jun-25,CUST834,Arjun,Female,59,Camera,Electronics,Camera,Boat,1,47287,0,0,8511.66,494,56292.66,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,6,No Return,1,Cancelled
+ORD00715,15-Aug-25,CUST908,Sneha,Female,54,Backpack,Accessories,Backpack,Dell,1,27319,20,5463.8,3933.94,240,26029.14,UPI,Mobile App,Jaipur,Rajasthan,North,3,No Return,2,Cancelled
+ORD00716,18-Apr-25,CUST170,Priya,Male,23,Tablet,Electronics,Tablet,Noise,2,23777,5,2377.7,8131.73,196,53504.03,Card,Website,Bangalore,Karnataka,South,10,Returned,2,Returned
+ORD00717,15-Jul-25,CUST898,Amit,Male,49,Backpack,Accessories,Backpack,Sony,2,47273,15,14181.9,14465.54,460,95289.64,Cash on Delivery,Website,Jaipur,Rajasthan,North,2,Returned,5,Shipped
+ORD00718,18-Oct-25,CUST442,Arjun,Female,55,Mouse,Electronics,Mouse,HP,4,5695,5,1139,3895.38,183,25719.38,Cash on Delivery,Mobile App,Patiala,Punjab,North,9,No Return,4,Shipped
+ORD00719,10-Jan-26,CUST189,Rahul,Female,33,Headphones,Electronics,Headphones,Dell,4,25749,0,0,18539.28,488,122023.28,Cash on Delivery,Mobile App,Pune,Maharashtra,West,6,Returned,1,Returned
+ORD00720,13-Mar-26,CUST759,Sneha,Male,48,Backpack,Accessories,Backpack,Boat,3,20383,20,12229.8,8805.46,320,58044.66,Card,Mobile App,Mumbai,Maharashtra,West,1,Returned,2,Delivered
+ORD00721,01-Jun-25,CUST565,Arjun,Male,34,Keyboard,Electronics,Keyboard,Sony,4,44550,10,17820,28868.4,449,189697.4,Net Banking,Mobile App,Mumbai,Maharashtra,West,7,No Return,3,Returned
+ORD00722,27-Nov-25,CUST711,Priya,Male,35,Mouse,Electronics,Mouse,Nike,3,17487,20,10492.2,7554.38,447,49970.18,Card,Website,Patiala,Punjab,North,10,No Return,5,Delivered
+ORD00723,26-Dec-25,CUST513,Sneha,Female,20,Keyboard,Electronics,Keyboard,Lenovo,3,32893,5,4933.95,16874.11,386,111005.16,UPI,Mobile App,Mumbai,Maharashtra,West,7,No Return,4,Returned
+ORD00724,29-Aug-25,CUST682,Amit,Male,33,Watch,Fashion,Watch,Nike,2,48999,10,9799.8,15875.68,136,104209.88,UPI,Mobile App,Mumbai,Maharashtra,West,7,No Return,1,Delivered
+ORD00725,11-May-25,CUST628,Amit,Male,54,Mouse,Electronics,Mouse,Adidas,5,21651,15,16238.25,16563.01,226,108805.76,UPI,Website,Patiala,Punjab,North,2,No Return,3,Delivered
+ORD00726,31-Mar-26,CUST112,Anjali,Male,21,Tablet,Electronics,Tablet,Lenovo,3,33508,10,10052.4,16284.89,103,106859.49,Net Banking,Mobile App,Pune,Maharashtra,West,5,Returned,1,Returned
+ORD00727,24-Sep-25,CUST889,Neha,Female,41,Mouse,Electronics,Mouse,Noise,2,43281,5,4328.1,14802.1,87,97123,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,7,Returned,1,Returned
+ORD00728,14-Jul-25,CUST867,Vikas,Female,30,Headphones,Electronics,Headphones,Nike,2,41547,10,8309.4,13461.23,154,88399.83,Cash on Delivery,Mobile App,Patiala,Punjab,North,4,No Return,3,Cancelled
+ORD00729,13-Nov-25,CUST403,Priya,Female,26,Laptop,Electronics,Laptop,Apple,3,27978,5,4196.7,14352.71,109,94199.01,UPI,Mobile App,Mumbai,Maharashtra,West,7,No Return,2,Returned
+ORD00730,01-Nov-25,CUST369,Priya,Male,28,Tablet,Electronics,Tablet,Adidas,1,45792,20,9158.4,6594.05,224,43451.65,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,6,Returned,3,Cancelled
+ORD00731,08-Jan-26,CUST307,Priya,Female,46,Watch,Fashion,Watch,Sony,3,42112,10,12633.6,20466.43,357,134525.83,UPI,Website,Lucknow,Uttar Pradesh,North,8,No Return,5,Shipped
+ORD00732,02-Nov-25,CUST157,Karan,Male,42,Watch,Fashion,Watch,Noise,1,9485,15,1422.75,1451.2,167,9680.45,Net Banking,Website,Bangalore,Karnataka,South,1,No Return,1,Cancelled
+ORD00733,22-Aug-25,CUST192,Rahul,Male,53,Headphones,Electronics,Headphones,Samsung,3,3588,15,1614.6,1646.89,206,11002.29,UPI,Website,Delhi,Delhi,North,10,No Return,4,Returned
+ORD00734,10-Jul-25,CUST304,Priya,Male,56,Shoes,Fashion,Shoes,Boat,1,44046,20,8809.2,6342.62,311,41890.42,UPI,Website,Delhi,Delhi,North,5,Returned,4,Shipped
+ORD00735,09-Nov-25,CUST693,Karan,Male,25,Shoes,Fashion,Shoes,Noise,5,6165,20,6165,4438.8,424,29522.8,Card,Website,Delhi,Delhi,North,8,No Return,5,Cancelled
+ORD00736,09-Oct-25,CUST614,Amit,Female,59,Camera,Electronics,Camera,Dell,4,2086,20,1668.8,1201.54,360,8236.74,Cash on Delivery,Mobile App,Delhi,Delhi,North,2,Returned,4,Shipped
+ORD00737,21-Jul-25,CUST932,Riya,Male,47,Shoes,Fashion,Shoes,Nike,1,1296,15,194.4,198.29,410,1709.89,UPI,Website,Bangalore,Karnataka,South,5,No Return,3,Cancelled
+ORD00738,24-Feb-26,CUST986,Anjali,Female,26,Headphones,Electronics,Headphones,Boat,1,43602,15,6540.3,6671.11,396,44128.81,Card,Website,Mumbai,Maharashtra,West,1,Returned,5,Returned
+ORD00739,18-May-25,CUST426,Riya,Female,25,Backpack,Accessories,Backpack,Lenovo,3,8837,20,5302.2,3817.58,344,25370.38,UPI,Website,Delhi,Delhi,North,8,Returned,3,Returned
+ORD00740,17-Aug-25,CUST339,Amit,Female,23,Laptop,Electronics,Laptop,Samsung,5,10552,0,0,9496.8,290,62546.8,Card,Website,Bangalore,Karnataka,South,8,No Return,3,Cancelled
+ORD00741,22-Sep-25,CUST625,Anjali,Female,52,Keyboard,Electronics,Keyboard,Nike,3,31793,10,9537.9,15451.4,433,101725.5,UPI,Website,Delhi,Delhi,North,7,No Return,2,Returned
+ORD00742,09-Jan-26,CUST950,Rahul,Female,24,Phone,Electronics,Phone,Boat,4,49840,10,19936,32296.32,58,211778.32,Cash on Delivery,Mobile App,Delhi,Delhi,North,6,Returned,2,Delivered
+ORD00743,02-Jul-25,CUST930,Priya,Male,53,Watch,Fashion,Watch,Lenovo,4,5564,20,4451.2,3204.86,166,21175.66,UPI,Website,Lucknow,Uttar Pradesh,North,10,Returned,4,Cancelled
+ORD00744,18-Feb-26,CUST615,Neha,Female,35,Phone,Electronics,Phone,Lenovo,2,8094,5,809.4,2768.15,400,18546.75,Net Banking,Website,Jaipur,Rajasthan,North,9,Returned,5,Returned
+ORD00745,31-Mar-26,CUST327,Anjali,Male,41,Mouse,Electronics,Mouse,HP,1,32513,5,1625.65,5559.72,141,36588.07,Net Banking,Mobile App,Mumbai,Maharashtra,West,8,No Return,5,Cancelled
+ORD00746,25-Feb-26,CUST679,Neha,Male,30,Laptop,Electronics,Laptop,Boat,3,21815,0,0,11780.1,171,77396.1,UPI,Website,Lucknow,Uttar Pradesh,North,1,No Return,4,Delivered
+ORD00747,28-Apr-25,CUST265,Arjun,Female,22,Mouse,Electronics,Mouse,HP,5,35936,0,0,32342.4,301,212323.4,Net Banking,Website,Pune,Maharashtra,West,2,Returned,3,Returned
+ORD00748,07-Jan-26,CUST889,Vikas,Female,24,Watch,Fashion,Watch,Nike,2,44948,20,17979.2,12945.02,53,84914.82,Net Banking,Mobile App,Jaipur,Rajasthan,North,5,No Return,1,Returned
+ORD00749,28-Sep-25,CUST323,Neha,Female,38,Phone,Electronics,Phone,Lenovo,1,34893,20,6978.6,5024.59,137,33075.99,UPI,Website,Mumbai,Maharashtra,West,2,No Return,2,Returned
+ORD00750,23-Mar-26,CUST630,Anjali,Male,54,Watch,Fashion,Watch,Noise,5,37161,15,27870.75,28428.16,83,186445.42,UPI,Website,Delhi,Delhi,North,8,No Return,5,Cancelled
+ORD00751,05-Apr-26,CUST875,Priya,Female,43,Shoes,Fashion,Shoes,HP,3,30146,10,9043.8,14650.96,175,96220.16,Card,Mobile App,Chandigarh,Punjab,North,1,No Return,4,Cancelled
+ORD00752,12-Apr-25,CUST735,Vikas,Female,55,Headphones,Electronics,Headphones,Apple,5,22055,0,0,19849.5,490,130614.5,UPI,Website,Mumbai,Maharashtra,West,1,No Return,3,Shipped
+ORD00753,18-Dec-25,CUST840,Rahul,Male,31,Watch,Fashion,Watch,Lenovo,1,43437,5,2171.85,7427.73,286,48978.88,UPI,Website,Chandigarh,Punjab,North,9,No Return,3,Cancelled
+ORD00754,03-Sep-25,CUST631,Amit,Female,18,Shoes,Fashion,Shoes,Adidas,1,16469,20,3293.8,2371.54,266,15812.74,UPI,Website,Delhi,Delhi,North,7,No Return,4,Returned
+ORD00755,17-Feb-26,CUST701,Riya,Female,48,Shoes,Fashion,Shoes,Noise,1,44498,10,4449.8,7208.68,101,47357.88,Cash on Delivery,Website,Jaipur,Rajasthan,North,7,No Return,2,Returned
+ORD00756,07-Nov-25,CUST101,Rahul,Female,33,Tablet,Electronics,Tablet,Samsung,5,31205,10,15602.5,25276.05,301,165999.55,UPI,Mobile App,Chandigarh,Punjab,North,5,No Return,3,Delivered
+ORD00757,23-Aug-25,CUST371,Priya,Male,41,Shoes,Fashion,Shoes,Nike,2,48901,0,0,17604.36,80,115486.36,Card,Mobile App,Chandigarh,Punjab,North,8,Returned,4,Cancelled
+ORD00758,26-Feb-26,CUST113,Rahul,Female,27,Keyboard,Electronics,Keyboard,Apple,3,2214,20,1328.4,956.45,182,6452.05,Card,Website,Mumbai,Maharashtra,West,4,Returned,2,Shipped
+ORD00759,06-Nov-25,CUST518,Karan,Male,59,Headphones,Electronics,Headphones,Boat,5,37151,5,9287.75,31764.1,164,208395.36,Net Banking,Website,Jaipur,Rajasthan,North,4,Returned,2,Shipped
+ORD00760,24-Aug-25,CUST559,Vikas,Male,37,Laptop,Electronics,Laptop,Lenovo,3,37260,0,0,20120.4,17,131917.4,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,2,No Return,3,Cancelled
+ORD00761,09-Jul-25,CUST831,Karan,Female,19,Mouse,Electronics,Mouse,Samsung,1,47891,0,0,8620.38,382,56893.38,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,3,No Return,2,Shipped
+ORD00762,17-Feb-26,CUST715,Amit,Female,55,Laptop,Electronics,Laptop,Boat,5,16719,5,4179.75,14294.74,308,94017.99,Cash on Delivery,Website,Patiala,Punjab,North,10,No Return,2,Returned
+ORD00763,24-Apr-25,CUST836,Karan,Male,29,Shoes,Fashion,Shoes,Samsung,2,35205,0,0,12673.8,27,83110.8,UPI,Website,Mumbai,Maharashtra,West,7,No Return,1,Returned
+ORD00764,05-May-25,CUST299,Neha,Female,56,Keyboard,Electronics,Keyboard,Noise,5,1924,10,962,1558.44,474,10690.44,Card,Mobile App,Patiala,Punjab,North,1,Returned,3,Returned
+ORD00765,19-Oct-25,CUST438,Arjun,Female,40,Camera,Electronics,Camera,Samsung,5,1111,10,555.5,899.91,32,5931.41,UPI,Website,Chandigarh,Punjab,North,2,No Return,4,Returned
+ORD00766,01-Mar-26,CUST287,Sneha,Female,55,Tablet,Electronics,Tablet,Sony,3,4451,10,1335.3,2163.19,484,14664.89,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,1,Shipped
+ORD00767,19-Feb-26,CUST579,Amit,Female,51,Camera,Electronics,Camera,Noise,1,44909,20,8981.8,6466.9,384,42778.1,Cash on Delivery,Website,Delhi,Delhi,North,9,Returned,1,Shipped
+ORD00768,03-Jul-25,CUST989,Vikas,Male,29,Camera,Electronics,Camera,Nike,4,43820,10,17528,28395.36,157,186304.36,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,10,Returned,4,Shipped
+ORD00769,24-Jul-25,CUST849,Neha,Female,40,Shoes,Fashion,Shoes,Adidas,3,13810,10,4143,6711.66,258,44256.66,UPI,Website,Lucknow,Uttar Pradesh,North,9,No Return,1,Delivered
+ORD00770,25-Jan-26,CUST972,Priya,Male,40,Keyboard,Electronics,Keyboard,Sony,2,46551,15,13965.3,14244.61,269,93650.31,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,3,Cancelled
+ORD00771,02-Jan-26,CUST280,Karan,Female,51,Headphones,Electronics,Headphones,Dell,1,39927,20,7985.4,5749.49,5,37696.09,Cash on Delivery,Website,Jaipur,Rajasthan,North,1,No Return,5,Shipped
+ORD00772,05-Nov-25,CUST492,Karan,Female,24,Watch,Fashion,Watch,Boat,4,26531,15,15918.6,16236.97,424,106866.37,Card,Website,Chandigarh,Punjab,North,4,No Return,4,Shipped
+ORD00773,05-Aug-25,CUST934,Neha,Female,50,Backpack,Accessories,Backpack,Boat,3,17924,5,2688.6,9195.01,37,60315.41,Cash on Delivery,Mobile App,Pune,Maharashtra,West,8,Returned,1,Cancelled
+ORD00774,21-Sep-25,CUST936,Rahul,Female,26,Tablet,Electronics,Tablet,Dell,5,14793,0,0,13313.7,61,87339.7,Card,Mobile App,Chandigarh,Punjab,North,4,No Return,5,Delivered
+ORD00775,28-Jul-25,CUST269,Riya,Male,26,Keyboard,Electronics,Keyboard,Dell,5,47888,10,23944,38789.28,381,254666.28,UPI,Mobile App,Pune,Maharashtra,West,1,No Return,3,Cancelled
+ORD00776,27-Apr-25,CUST354,Rahul,Male,42,Mouse,Electronics,Mouse,Samsung,4,9646,5,1929.2,6597.86,331,43583.66,UPI,Mobile App,Lucknow,Uttar Pradesh,North,8,Returned,5,Returned
+ORD00777,28-May-25,CUST912,Priya,Female,38,Laptop,Electronics,Laptop,Samsung,4,4941,20,3952.8,2846.02,305,18962.22,Net Banking,Mobile App,Mumbai,Maharashtra,West,9,No Return,1,Delivered
+ORD00778,11-Jul-25,CUST650,Rahul,Female,52,Watch,Fashion,Watch,Dell,3,39057,10,11717.1,18981.7,493,124928.6,UPI,Mobile App,Bangalore,Karnataka,South,1,No Return,3,Cancelled
+ORD00779,02-Jul-25,CUST465,Rahul,Female,49,Headphones,Electronics,Headphones,Apple,3,1818,10,545.4,883.55,304,6096.15,UPI,Mobile App,Patiala,Punjab,North,2,No Return,4,Shipped
+ORD00780,27-Mar-26,CUST357,Vikas,Male,18,Camera,Electronics,Camera,Samsung,2,18717,10,3743.4,6064.31,4,39758.91,Card,Website,Pune,Maharashtra,West,3,Returned,1,Shipped
+ORD00781,01-Feb-26,CUST221,Karan,Male,21,Shoes,Fashion,Shoes,HP,4,14573,0,0,10492.56,385,69169.56,UPI,Mobile App,Lucknow,Uttar Pradesh,North,10,No Return,3,Shipped
+ORD00782,26-Oct-25,CUST249,Arjun,Male,54,Tablet,Electronics,Tablet,Samsung,4,11813,10,4725.2,7654.82,205,50386.62,Card,Mobile App,Jaipur,Rajasthan,North,9,No Return,2,Returned
+ORD00783,16-Jul-25,CUST417,Anjali,Male,32,Headphones,Electronics,Headphones,Dell,1,8738,5,436.9,1494.2,184,9979.3,Card,Mobile App,Delhi,Delhi,North,7,No Return,4,Shipped
+ORD00784,02-Nov-25,CUST978,Riya,Male,29,Headphones,Electronics,Headphones,Sony,4,1489,20,1191.2,857.66,442,6064.46,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,5,Returned,5,Delivered
+ORD00785,02-Mar-26,CUST624,Karan,Male,29,Watch,Fashion,Watch,Dell,1,9101,5,455.05,1556.27,408,10610.22,Card,Mobile App,Bangalore,Karnataka,South,2,Returned,3,Shipped
+ORD00786,24-Mar-26,CUST907,Neha,Male,58,Shoes,Fashion,Shoes,Nike,3,28364,20,17018.4,12253.25,411,80737.85,Card,Website,Jaipur,Rajasthan,North,7,Returned,4,Returned
+ORD00787,07-Jan-26,CUST942,Neha,Male,25,Laptop,Electronics,Laptop,Dell,3,26567,20,15940.2,11476.94,289,75526.74,UPI,Mobile App,Delhi,Delhi,North,8,Returned,2,Returned
+ORD00788,04-Jan-26,CUST538,Arjun,Male,40,Laptop,Electronics,Laptop,Sony,4,36398,20,29118.4,20965.25,62,137500.85,Net Banking,Mobile App,Delhi,Delhi,North,8,No Return,2,Returned
+ORD00789,20-Jul-25,CUST882,Neha,Female,26,Mouse,Electronics,Mouse,Apple,3,5708,10,1712.4,2774.09,270,18455.69,Card,Website,Chandigarh,Punjab,North,2,Returned,1,Shipped
+ORD00790,10-Apr-25,CUST800,Arjun,Male,34,Keyboard,Electronics,Keyboard,Nike,5,41929,10,20964.5,33962.49,167,222809.99,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,3,Cancelled
+ORD00791,28-Feb-26,CUST545,Riya,Male,43,Mouse,Electronics,Mouse,Dell,4,28575,15,17145,17487.9,226,114868.9,Cash on Delivery,Mobile App,Jaipur,Rajasthan,North,1,No Return,5,Delivered
+ORD00792,30-Jan-26,CUST426,Vikas,Male,55,Keyboard,Electronics,Keyboard,Lenovo,3,13660,20,8196,5901.12,12,38697.12,UPI,Mobile App,Bangalore,Karnataka,South,6,Returned,1,Returned
+ORD00793,19-Nov-25,CUST641,Arjun,Female,23,Shoes,Fashion,Shoes,Nike,2,24228,10,4845.6,7849.87,308,51768.27,Cash on Delivery,Website,Bangalore,Karnataka,South,10,Returned,5,Cancelled
+ORD00794,25-Apr-25,CUST120,Anjali,Female,47,Keyboard,Electronics,Keyboard,Dell,3,39349,20,23609.4,16998.77,228,111664.37,Net Banking,Website,Pune,Maharashtra,West,2,Returned,2,Shipped
+ORD00795,21-Sep-25,CUST861,Karan,Female,37,Mouse,Electronics,Mouse,Sony,5,10892,20,10892,7842.24,420,51830.24,Net Banking,Mobile App,Mumbai,Maharashtra,West,7,No Return,1,Cancelled
+ORD00796,16-Aug-25,CUST414,Priya,Male,37,Camera,Electronics,Camera,Sony,1,22810,10,2281,3695.22,477,24701.22,UPI,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,4,Shipped
+ORD00797,21-Jun-25,CUST487,Arjun,Female,57,Laptop,Electronics,Laptop,Boat,2,14573,20,5829.2,4197.02,237,27750.82,Net Banking,Mobile App,Bangalore,Karnataka,South,4,Returned,2,Cancelled
+ORD00798,07-Mar-26,CUST633,Priya,Male,31,Backpack,Accessories,Backpack,Lenovo,5,24050,15,18037.5,18398.25,437,121047.75,Net Banking,Mobile App,Chandigarh,Punjab,North,4,No Return,4,Returned
+ORD00799,18-Mar-26,CUST552,Karan,Female,47,Keyboard,Electronics,Keyboard,Nike,5,48099,5,12024.75,41124.64,491,270085.9,Cash on Delivery,Mobile App,Lucknow,Uttar Pradesh,North,2,Returned,5,Cancelled
+ORD00800,06-Aug-25,CUST327,Amit,Male,18,Headphones,Electronics,Headphones,Nike,5,37475,10,18737.5,30354.75,279,199271.25,Card,Mobile App,Patiala,Punjab,North,6,Returned,4,Shipped
+ORD00801,02-Jul-25,CUST179,Vikas,Female,58,Camera,Electronics,Camera,HP,2,36204,0,0,13033.44,133,85574.44,Cash on Delivery,Mobile App,Pune,Maharashtra,West,6,No Return,3,Cancelled
+ORD00802,17-Dec-25,CUST712,Sneha,Female,26,Tablet,Electronics,Tablet,Boat,4,38685,0,0,27853.2,454,183047.2,Net Banking,Website,Chandigarh,Punjab,North,7,No Return,3,Returned
+ORD00803,19-Aug-25,CUST818,Amit,Female,52,Laptop,Electronics,Laptop,Apple,3,14708,10,4412.4,7148.09,196,47055.69,UPI,Website,Mumbai,Maharashtra,West,8,Returned,3,Returned
+ORD00804,29-Nov-25,CUST846,Rahul,Male,24,Watch,Fashion,Watch,Sony,3,14838,10,4451.4,7211.27,147,47420.87,UPI,Website,Mumbai,Maharashtra,West,10,Returned,2,Returned
+ORD00805,24-Apr-25,CUST747,Vikas,Female,26,Headphones,Electronics,Headphones,Samsung,4,34698,10,13879.2,22484.3,304,147701.1,UPI,Website,Bangalore,Karnataka,South,1,Returned,2,Cancelled
+ORD00806,02-Nov-25,CUST568,Vikas,Female,47,Laptop,Electronics,Laptop,Boat,5,46766,10,23383,37880.46,163,248490.46,Card,Website,Pune,Maharashtra,West,4,No Return,3,Returned
+ORD00807,09-May-25,CUST827,Neha,Female,30,Laptop,Electronics,Laptop,Samsung,3,644,5,96.6,330.37,253,2418.77,Net Banking,Mobile App,Jaipur,Rajasthan,North,10,No Return,1,Cancelled
+ORD00808,05-Nov-25,CUST654,Neha,Female,49,Tablet,Electronics,Tablet,Samsung,1,7604,10,760.4,1231.85,405,8480.45,UPI,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,2,Cancelled
+ORD00809,02-Dec-25,CUST664,Amit,Female,25,Watch,Fashion,Watch,Nike,5,19653,0,0,17687.7,309,116261.7,Cash on Delivery,Website,Pune,Maharashtra,West,4,Returned,3,Returned
+ORD00810,13-Jan-26,CUST917,Vikas,Female,37,Laptop,Electronics,Laptop,Apple,2,42230,10,8446,13682.52,156,89852.52,Card,Mobile App,Jaipur,Rajasthan,North,1,Returned,2,Delivered
+ORD00811,09-Jul-25,CUST745,Arjun,Female,23,Watch,Fashion,Watch,Boat,2,29934,20,11973.6,8620.99,362,56877.39,Net Banking,Mobile App,Mumbai,Maharashtra,West,6,No Return,5,Cancelled
+ORD00812,09-Jun-25,CUST253,Riya,Female,27,Backpack,Accessories,Backpack,Dell,1,28168,10,2816.8,4563.22,158,30072.42,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,2,Returned
+ORD00813,16-Nov-25,CUST765,Arjun,Male,36,Headphones,Electronics,Headphones,Noise,4,35314,5,7062.8,24154.78,456,158803.98,UPI,Website,Patiala,Punjab,North,2,No Return,5,Shipped
+ORD00814,19-Oct-25,CUST537,Arjun,Male,55,Phone,Electronics,Phone,Lenovo,1,27249,20,5449.8,3923.86,475,26198.06,Net Banking,Mobile App,Delhi,Delhi,North,5,No Return,1,Delivered
+ORD00815,14-Apr-25,CUST323,Priya,Male,29,Shoes,Fashion,Shoes,Noise,3,49236,10,14770.8,23928.7,256,157121.9,UPI,Website,Chandigarh,Punjab,North,3,No Return,3,Shipped
+ORD00816,12-Dec-25,CUST259,Priya,Male,26,Backpack,Accessories,Backpack,Apple,1,30859,5,1542.95,5276.89,480,35072.94,UPI,Mobile App,Mumbai,Maharashtra,West,4,No Return,4,Cancelled
+ORD00817,17-Jun-25,CUST957,Karan,Male,44,Watch,Fashion,Watch,Lenovo,4,37642,15,22585.2,23036.9,32,151051.7,Cash on Delivery,Website,Patiala,Punjab,North,1,No Return,5,Delivered
+ORD00818,19-Jul-25,CUST514,Anjali,Female,23,Phone,Electronics,Phone,Samsung,5,48628,15,36471,37200.42,224,244093.42,UPI,Website,Chandigarh,Punjab,North,9,Returned,2,Delivered
+ORD00819,09-May-25,CUST387,Riya,Female,49,Mouse,Electronics,Mouse,Sony,5,16368,15,12276,12521.52,443,82528.52,Cash on Delivery,Mobile App,Patiala,Punjab,North,8,Returned,2,Returned
+ORD00820,13-Sep-25,CUST306,Rahul,Female,37,Keyboard,Electronics,Keyboard,Nike,2,31757,0,0,11432.52,191,75137.52,Cash on Delivery,Website,Chandigarh,Punjab,North,3,No Return,3,Returned
+ORD00821,15-Jul-25,CUST190,Sneha,Male,29,Camera,Electronics,Camera,Lenovo,4,37757,10,15102.8,24466.54,430,160821.74,Card,Mobile App,Patiala,Punjab,North,3,Returned,4,Returned
+ORD00822,29-Dec-25,CUST551,Arjun,Male,55,Mouse,Electronics,Mouse,Noise,2,42743,5,4274.3,14618.11,473,96302.81,UPI,Mobile App,Patiala,Punjab,North,9,Returned,4,Shipped
+ORD00823,11-Jul-25,CUST705,Priya,Female,58,Laptop,Electronics,Laptop,Samsung,3,20225,10,6067.5,9829.35,463,64899.85,Cash on Delivery,Mobile App,Patiala,Punjab,North,9,Returned,1,Cancelled
+ORD00824,10-Feb-26,CUST362,Rahul,Male,49,Shoes,Fashion,Shoes,Nike,2,8375,15,2512.5,2562.75,470,17270.25,Cash on Delivery,Website,Bangalore,Karnataka,South,1,No Return,3,Shipped
+ORD00825,26-May-25,CUST869,Sneha,Male,58,Camera,Electronics,Camera,Boat,1,5347,10,534.7,866.21,428,6106.51,Card,Mobile App,Lucknow,Uttar Pradesh,North,2,No Return,4,Shipped
+ORD00826,11-Mar-26,CUST730,Sneha,Male,19,Watch,Fashion,Watch,Samsung,2,24967,10,4993.4,8089.31,104,53133.91,UPI,Website,Jaipur,Rajasthan,North,1,No Return,4,Cancelled
+ORD00827,21-Jan-26,CUST914,Amit,Male,38,Shoes,Fashion,Shoes,Boat,4,33363,0,0,24021.36,353,157826.36,Card,Mobile App,Patiala,Punjab,North,1,No Return,2,Shipped
+ORD00828,18-Aug-25,CUST158,Neha,Male,38,Shoes,Fashion,Shoes,Adidas,3,11118,15,5003.1,5103.16,443,33897.06,Card,Mobile App,Bangalore,Karnataka,South,8,No Return,3,Shipped
+ORD00829,16-Apr-25,CUST773,Vikas,Male,59,Watch,Fashion,Watch,Sony,1,34518,0,0,6213.24,91,40822.24,UPI,Mobile App,Jaipur,Rajasthan,North,8,Returned,5,Shipped
+ORD00830,12-Oct-25,CUST325,Riya,Female,56,Headphones,Electronics,Headphones,Boat,3,30273,10,9081.9,14712.68,294,96743.78,Net Banking,Mobile App,Pune,Maharashtra,West,8,Returned,5,Returned
+ORD00831,27-Jan-26,CUST421,Sneha,Female,42,Laptop,Electronics,Laptop,Nike,2,11342,10,2268.4,3674.81,459,24549.41,Net Banking,Website,Lucknow,Uttar Pradesh,North,7,No Return,1,Cancelled
+ORD00832,23-Aug-25,CUST690,Arjun,Male,58,Phone,Electronics,Phone,Lenovo,1,48064,20,9612.8,6921.22,115,45487.42,Net Banking,Website,Delhi,Delhi,North,1,Returned,3,Delivered
+ORD00833,23-Dec-25,CUST330,Karan,Male,35,Camera,Electronics,Camera,Adidas,5,32836,15,24627,25119.54,464,165136.54,Net Banking,Mobile App,Mumbai,Maharashtra,West,3,No Return,2,Returned
+ORD00834,13-Mar-26,CUST934,Sneha,Male,40,Keyboard,Electronics,Keyboard,Boat,5,43163,10,21581.5,34962.03,202,229397.53,UPI,Mobile App,Pune,Maharashtra,West,1,No Return,5,Shipped
+ORD00835,15-May-25,CUST594,Anjali,Female,29,Phone,Electronics,Phone,Lenovo,1,31573,10,3157.3,5114.83,152,33682.53,UPI,Website,Chandigarh,Punjab,North,4,Returned,1,Delivered
+ORD00836,26-Oct-25,CUST305,Karan,Male,29,Backpack,Accessories,Backpack,Noise,1,48245,20,9649,6947.28,5,45548.28,Cash on Delivery,Website,Patiala,Punjab,North,6,No Return,3,Shipped
+ORD00837,07-Nov-25,CUST586,Vikas,Male,27,Tablet,Electronics,Tablet,HP,4,47145,20,37716,27155.52,457,178476.52,UPI,Mobile App,Delhi,Delhi,North,1,Returned,5,Returned
+ORD00838,21-Nov-25,CUST266,Vikas,Male,56,Shoes,Fashion,Shoes,Apple,5,25380,0,0,22842,309,150051,Cash on Delivery,Website,Pune,Maharashtra,West,1,Returned,2,Cancelled
+ORD00839,11-Sep-25,CUST636,Rahul,Female,22,Tablet,Electronics,Tablet,Sony,1,40566,10,4056.6,6571.69,112,43193.09,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,8,Returned,2,Returned
+ORD00840,08-Nov-25,CUST260,Vikas,Male,37,Headphones,Electronics,Headphones,Adidas,1,6815,20,1363,981.36,338,6771.36,Net Banking,Website,Lucknow,Uttar Pradesh,North,8,Returned,5,Returned
+ORD00841,01-Oct-25,CUST397,Rahul,Female,51,Headphones,Electronics,Headphones,HP,3,49678,15,22355.1,22802.2,277,149758.1,Cash on Delivery,Website,Chandigarh,Punjab,North,8,No Return,5,Returned
+ORD00842,10-Oct-25,CUST288,Anjali,Male,46,Mouse,Electronics,Mouse,Dell,4,21247,5,4249.4,14532.95,439,95710.55,Card,Mobile App,Patiala,Punjab,North,5,No Return,2,Returned
+ORD00843,28-Aug-25,CUST836,Riya,Male,31,Shoes,Fashion,Shoes,Nike,2,10921,5,1092.1,3734.98,395,24879.88,Card,Website,Patiala,Punjab,North,6,No Return,2,Cancelled
+ORD00844,10-Aug-25,CUST523,Arjun,Male,20,Backpack,Accessories,Backpack,Sony,2,41264,5,4126.4,14112.29,7,92520.89,UPI,Website,Delhi,Delhi,North,6,Returned,5,Shipped
+ORD00845,15-Dec-25,CUST162,Anjali,Male,37,Mouse,Electronics,Mouse,Nike,5,15722,20,15722,11319.84,333,74540.84,Card,Website,Bangalore,Karnataka,South,7,No Return,3,Delivered
+ORD00846,11-Jun-25,CUST459,Sneha,Female,26,Headphones,Electronics,Headphones,Adidas,4,48345,5,9669,33067.98,107,216885.98,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,9,No Return,3,Returned
+ORD00847,22-Aug-25,CUST499,Amit,Male,59,Laptop,Electronics,Laptop,Adidas,2,32961,0,0,11865.96,103,77890.96,Card,Website,Delhi,Delhi,North,8,No Return,1,Returned
+ORD00848,04-Nov-25,CUST891,Arjun,Male,36,Watch,Fashion,Watch,Sony,3,20711,20,12426.6,8947.15,216,58869.55,Net Banking,Mobile App,Mumbai,Maharashtra,West,5,Returned,5,Shipped
+ORD00849,04-Nov-25,CUST681,Priya,Female,49,Tablet,Electronics,Tablet,Dell,5,19707,10,9853.5,15962.67,346,104990.17,Card,Mobile App,Jaipur,Rajasthan,North,4,Returned,1,Returned
+ORD00850,07-Jan-26,CUST201,Sneha,Male,45,Backpack,Accessories,Backpack,Adidas,1,37289,20,7457.8,5369.62,297,35497.82,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,6,No Return,2,Delivered
+ORD00851,13-Feb-26,CUST356,Rahul,Female,53,Backpack,Accessories,Backpack,Adidas,5,35009,0,0,31508.1,316,206869.1,Cash on Delivery,Website,Pune,Maharashtra,West,1,Returned,3,Cancelled
+ORD00852,25-Aug-25,CUST495,Amit,Female,30,Tablet,Electronics,Tablet,Noise,3,26210,20,15726,11322.72,459,74685.72,Card,Website,Mumbai,Maharashtra,West,2,No Return,1,Returned
+ORD00853,08-Aug-25,CUST310,Vikas,Female,49,Shoes,Fashion,Shoes,Sony,4,13804,5,2760.8,9441.94,349,62246.14,Net Banking,Website,Patiala,Punjab,North,7,Returned,5,Returned
+ORD00854,28-Oct-25,CUST117,Karan,Male,59,Keyboard,Electronics,Keyboard,Nike,2,20640,0,0,7430.4,97,48807.4,Cash on Delivery,Website,Mumbai,Maharashtra,West,6,Returned,1,Returned
+ORD00855,04-Mar-26,CUST177,Rahul,Male,47,Backpack,Accessories,Backpack,Sony,4,32637,15,19582.2,19973.84,162,131101.64,Cash on Delivery,Mobile App,Patiala,Punjab,North,3,No Return,4,Shipped
+ORD00856,24-Mar-26,CUST219,Anjali,Female,18,Backpack,Accessories,Backpack,Lenovo,5,30196,5,7549,25817.58,472,169720.58,UPI,Mobile App,Patiala,Punjab,North,6,No Return,1,Returned
+ORD00857,06-Jul-25,CUST763,Anjali,Male,21,Phone,Electronics,Phone,Noise,2,22407,5,2240.7,7663.19,46,50282.49,UPI,Website,Lucknow,Uttar Pradesh,North,4,No Return,1,Returned
+ORD00858,20-Apr-25,CUST418,Rahul,Male,25,Tablet,Electronics,Tablet,Apple,4,21850,15,13110,13372.2,303,87965.2,Cash on Delivery,Website,Lucknow,Uttar Pradesh,North,9,Returned,3,Shipped
+ORD00859,27-Sep-25,CUST830,Riya,Female,31,Camera,Electronics,Camera,HP,1,24965,20,4993,3594.96,431,23997.96,Net Banking,Website,Patiala,Punjab,North,1,Returned,1,Delivered
+ORD00860,02-Dec-25,CUST564,Sneha,Male,24,Tablet,Electronics,Tablet,Noise,2,44956,15,13486.8,13756.54,136,90317.74,UPI,Mobile App,Mumbai,Maharashtra,West,1,No Return,2,Delivered
+ORD00861,15-May-25,CUST312,Riya,Female,57,Camera,Electronics,Camera,Sony,3,42360,15,19062,19443.24,46,127507.24,Cash on Delivery,Website,Patiala,Punjab,North,6,Returned,1,Shipped
+ORD00862,12-Feb-26,CUST246,Priya,Male,39,Watch,Fashion,Watch,Dell,2,26834,20,10733.6,7728.19,488,51150.59,UPI,Website,Mumbai,Maharashtra,West,8,Returned,4,Shipped
+ORD00863,24-May-25,CUST635,Riya,Male,52,Keyboard,Electronics,Keyboard,Sony,4,43417,20,34733.6,25008.19,360,164302.59,Net Banking,Mobile App,Mumbai,Maharashtra,West,5,No Return,1,Shipped
+ORD00864,25-Feb-26,CUST293,Anjali,Female,33,Backpack,Accessories,Backpack,Lenovo,5,36728,10,18364,29749.68,119,195144.68,UPI,Mobile App,Delhi,Delhi,North,1,Returned,4,Delivered
+ORD00865,15-May-25,CUST482,Anjali,Female,25,Phone,Electronics,Phone,Apple,1,41533,0,0,7475.94,229,49237.94,Card,Website,Pune,Maharashtra,West,2,Returned,5,Shipped
+ORD00866,04-Apr-26,CUST379,Rahul,Female,55,Camera,Electronics,Camera,Nike,5,30419,10,15209.5,24639.39,45,161569.89,Cash on Delivery,Website,Pune,Maharashtra,West,3,No Return,4,Shipped
+ORD00867,27-Apr-25,CUST366,Sneha,Male,24,Laptop,Electronics,Laptop,Samsung,3,41505,20,24903,17930.16,297,117839.16,Net Banking,Mobile App,Mumbai,Maharashtra,West,1,No Return,3,Delivered
+ORD00868,12-Apr-25,CUST770,Neha,Female,49,Shoes,Fashion,Shoes,Sony,3,5310,10,1593,2580.66,400,17317.66,Net Banking,Mobile App,Delhi,Delhi,North,6,No Return,5,Returned
+ORD00869,21-Dec-25,CUST580,Anjali,Male,32,Tablet,Electronics,Tablet,Noise,4,14528,20,11622.4,8368.13,121,54978.73,Cash on Delivery,Website,Chandigarh,Punjab,North,7,No Return,5,Cancelled
+ORD00870,21-Aug-25,CUST103,Priya,Male,34,Watch,Fashion,Watch,Noise,4,29992,5,5998.4,20514.53,338,134822.13,Card,Mobile App,Patiala,Punjab,North,4,Returned,2,Cancelled
+ORD00871,18-Dec-25,CUST210,Arjun,Female,28,Keyboard,Electronics,Keyboard,Noise,4,29117,15,17470.2,17819.6,300,117117.4,Cash on Delivery,Website,Pune,Maharashtra,West,9,No Return,5,Cancelled
+ORD00872,22-Nov-25,CUST685,Rahul,Female,32,Keyboard,Electronics,Keyboard,Sony,1,6441,20,1288.2,927.5,124,6204.3,Cash on Delivery,Website,Jaipur,Rajasthan,North,7,No Return,3,Shipped
+ORD00873,06-Jul-25,CUST376,Vikas,Female,25,Backpack,Accessories,Backpack,Nike,3,23228,15,10452.6,10661.65,74,69967.05,UPI,Mobile App,Bangalore,Karnataka,South,4,Returned,2,Returned
+ORD00874,09-Mar-26,CUST528,Karan,Female,53,Headphones,Electronics,Headphones,Dell,5,13705,20,13705,9867.6,26,64713.6,Net Banking,Website,Jaipur,Rajasthan,North,4,Returned,3,Shipped
+ORD00875,02-Feb-26,CUST894,Neha,Female,38,Backpack,Accessories,Backpack,Dell,2,48561,20,19424.4,13985.57,179,91862.17,Cash on Delivery,Website,Bangalore,Karnataka,South,1,Returned,2,Cancelled
+ORD00876,01-Jul-25,CUST458,Anjali,Male,28,Shoes,Fashion,Shoes,Apple,2,17048,10,3409.6,5523.55,126,36335.95,Net Banking,Mobile App,Jaipur,Rajasthan,North,6,No Return,2,Delivered
+ORD00877,11-Mar-26,CUST929,Priya,Female,55,Keyboard,Electronics,Keyboard,Apple,2,46981,0,0,16913.16,252,111127.16,Card,Website,Mumbai,Maharashtra,West,4,Returned,1,Delivered
+ORD00878,23-Aug-25,CUST537,Sneha,Female,59,Laptop,Electronics,Laptop,Apple,3,42665,10,12799.5,20735.19,452,136382.69,Net Banking,Mobile App,Delhi,Delhi,North,1,No Return,3,Cancelled
+ORD00879,23-Jan-26,CUST419,Sneha,Female,42,Laptop,Electronics,Laptop,Noise,3,33362,0,0,18015.48,429,118530.48,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,1,No Return,2,Returned
+ORD00880,24-Aug-25,CUST510,Riya,Female,45,Tablet,Electronics,Tablet,Lenovo,1,4860,10,486,787.32,245,5406.32,Net Banking,Mobile App,Delhi,Delhi,North,9,Returned,5,Cancelled
+ORD00881,14-May-25,CUST979,Rahul,Male,34,Headphones,Electronics,Headphones,Adidas,3,39078,15,17585.1,17936.8,64,117649.7,UPI,Mobile App,Pune,Maharashtra,West,7,No Return,1,Shipped
+ORD00882,24-Mar-26,CUST999,Neha,Male,47,Watch,Fashion,Watch,Boat,5,5258,15,3943.5,4022.37,359,26727.87,Net Banking,Mobile App,Patiala,Punjab,North,10,No Return,2,Cancelled
+ORD00883,05-May-25,CUST321,Priya,Female,31,Keyboard,Electronics,Keyboard,Sony,5,13845,15,10383.75,10591.42,169,69601.68,UPI,Mobile App,Pune,Maharashtra,West,10,No Return,5,Returned
+ORD00884,12-Jan-26,CUST575,Karan,Female,19,Headphones,Electronics,Headphones,Nike,3,39216,20,23529.6,16941.31,13,111072.71,Net Banking,Mobile App,Delhi,Delhi,North,1,Returned,4,Delivered
+ORD00885,20-Mar-26,CUST250,Neha,Male,40,Shoes,Fashion,Shoes,HP,5,21764,20,21764,15670.08,260,102986.08,UPI,Website,Patiala,Punjab,North,2,Returned,4,Delivered
+ORD00886,18-Apr-25,CUST916,Priya,Female,21,Mouse,Electronics,Mouse,Dell,1,35662,20,7132.4,5135.33,390,34054.93,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,5,Returned,3,Returned
+ORD00887,26-Feb-26,CUST553,Anjali,Female,26,Mouse,Electronics,Mouse,Apple,2,32832,10,6566.4,10637.57,492,70227.17,Cash on Delivery,Mobile App,Delhi,Delhi,North,3,Returned,4,Delivered
+ORD00888,21-Jan-26,CUST957,Anjali,Male,51,Mouse,Electronics,Mouse,Dell,5,42505,15,31878.75,32516.32,414,213576.58,Cash on Delivery,Website,Mumbai,Maharashtra,West,7,No Return,2,Returned
+ORD00889,06-Jun-25,CUST179,Neha,Female,60,Headphones,Electronics,Headphones,Samsung,4,42685,20,34148,24586.56,281,161459.56,UPI,Website,Patiala,Punjab,North,4,Returned,4,Delivered
+ORD00890,08-Nov-25,CUST935,Rahul,Female,42,Phone,Electronics,Phone,Noise,4,38588,5,7717.6,26394.19,304,173332.59,Cash on Delivery,Website,Jaipur,Rajasthan,North,10,Returned,3,Cancelled
+ORD00891,19-Aug-25,CUST512,Priya,Male,27,Keyboard,Electronics,Keyboard,Dell,4,13547,15,8128.2,8290.76,303,54653.56,Net Banking,Website,Delhi,Delhi,North,3,Returned,4,Delivered
+ORD00892,17-Aug-25,CUST271,Rahul,Male,53,Watch,Fashion,Watch,Dell,3,21239,0,0,11469.06,442,75628.06,Cash on Delivery,Website,Jaipur,Rajasthan,North,2,Returned,3,Shipped
+ORD00893,17-May-25,CUST485,Riya,Male,31,Keyboard,Electronics,Keyboard,Boat,5,29270,5,7317.5,25025.85,96,164154.35,Net Banking,Website,Chandigarh,Punjab,North,3,Returned,5,Cancelled
+ORD00894,08-Mar-26,CUST325,Neha,Female,50,Tablet,Electronics,Tablet,Nike,2,21419,5,2141.9,7325.3,117,48138.4,Cash on Delivery,Website,Patiala,Punjab,North,4,No Return,5,Cancelled
+ORD00895,03-Jan-26,CUST900,Rahul,Male,32,Shoes,Fashion,Shoes,Lenovo,1,49049,0,0,8828.82,224,58101.82,Cash on Delivery,Mobile App,Chandigarh,Punjab,North,5,Returned,1,Delivered
+ORD00896,20-Dec-25,CUST908,Anjali,Male,19,Camera,Electronics,Camera,Samsung,3,49307,5,7396.05,25294.49,113,165932.44,UPI,Website,Jaipur,Rajasthan,North,8,No Return,3,Delivered
+ORD00897,26-Jul-25,CUST694,Neha,Male,50,Headphones,Electronics,Headphones,Boat,1,16899,15,2534.85,2585.55,2,16951.7,UPI,Website,Patiala,Punjab,North,10,No Return,4,Delivered
+ORD00898,04-Jul-25,CUST546,Priya,Male,30,Watch,Fashion,Watch,Dell,3,48086,5,7212.9,24668.12,82,161795.22,Card,Mobile App,Pune,Maharashtra,West,6,Returned,1,Shipped
+ORD00899,21-Jul-25,CUST804,Amit,Male,59,Phone,Electronics,Phone,Nike,2,39784,10,7956.8,12890.02,184,84685.22,Cash on Delivery,Mobile App,Pune,Maharashtra,West,6,No Return,3,Shipped
+ORD00900,14-May-25,CUST294,Neha,Female,58,Tablet,Electronics,Tablet,Apple,1,17849,15,2677.35,2730.9,268,18170.55,Card,Mobile App,Pune,Maharashtra,West,3,No Return,4,Shipped
+ORD00901,15-Jan-26,CUST345,Neha,Female,18,Shoes,Fashion,Shoes,Samsung,4,22659,15,13595.4,13867.31,374,91281.91,Net Banking,Website,Chandigarh,Punjab,North,6,Returned,5,Shipped
+ORD00902,19-Dec-25,CUST943,Amit,Female,32,Camera,Electronics,Camera,Sony,4,34273,0,0,24676.56,420,162188.56,Card,Mobile App,Bangalore,Karnataka,South,10,Returned,2,Returned
+ORD00903,22-Jan-26,CUST120,Riya,Male,26,Shoes,Fashion,Shoes,Sony,1,5894,20,1178.8,848.74,203,5766.94,UPI,Mobile App,Delhi,Delhi,North,10,No Return,2,Delivered
+ORD00904,24-Mar-26,CUST702,Amit,Male,53,Keyboard,Electronics,Keyboard,Boat,5,31840,20,31840,22924.8,434,150718.8,UPI,Website,Jaipur,Rajasthan,North,7,No Return,1,Returned
+ORD00905,31-Oct-25,CUST703,Amit,Male,44,Backpack,Accessories,Backpack,Sony,1,3751,10,375.1,607.66,21,4004.56,UPI,Mobile App,Lucknow,Uttar Pradesh,North,6,Returned,5,Delivered
+ORD00906,24-Jun-25,CUST344,Neha,Female,43,Headphones,Electronics,Headphones,Dell,1,9225,5,461.25,1577.47,455,10796.23,Net Banking,Website,Lucknow,Uttar Pradesh,North,1,Returned,3,Shipped
+ORD00907,15-Oct-25,CUST917,Riya,Male,44,Tablet,Electronics,Tablet,Samsung,1,6372,0,0,1146.96,422,7940.96,UPI,Website,Pune,Maharashtra,West,8,No Return,1,Shipped
+ORD00908,23-Nov-25,CUST853,Sneha,Female,24,Shoes,Fashion,Shoes,Sony,5,49982,10,24991,40485.42,205,265609.42,Cash on Delivery,Mobile App,Delhi,Delhi,North,1,Returned,1,Shipped
+ORD00909,12-May-25,CUST948,Rahul,Female,44,Backpack,Accessories,Backpack,Sony,5,35237,10,17618.5,28541.97,14,187122.47,Cash on Delivery,Mobile App,Pune,Maharashtra,West,1,Returned,4,Returned
+ORD00910,25-Apr-25,CUST763,Arjun,Male,47,Shoes,Fashion,Shoes,Apple,4,26654,15,15992.4,16312.25,222,107157.85,Net Banking,Mobile App,Mumbai,Maharashtra,West,3,No Return,2,Delivered
+ORD00911,26-Jun-25,CUST287,Amit,Female,25,Tablet,Electronics,Tablet,Samsung,3,12886,5,1932.9,6610.52,485,43820.62,Card,Website,Chandigarh,Punjab,North,2,Returned,3,Cancelled
+ORD00912,30-Aug-25,CUST164,Riya,Male,28,Shoes,Fashion,Shoes,HP,4,35630,15,21378,21805.56,107,143054.56,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,3,No Return,1,Returned
+ORD00913,27-May-25,CUST107,Neha,Male,59,Mouse,Electronics,Mouse,Noise,2,36760,20,14704,10586.88,454,69856.88,UPI,Website,Chandigarh,Punjab,North,8,Returned,2,Shipped
+ORD00914,26-May-25,CUST344,Riya,Male,49,Tablet,Electronics,Tablet,Samsung,1,18286,20,3657.2,2633.18,99,17360.98,UPI,Website,Patiala,Punjab,North,3,Returned,3,Returned
+ORD00915,17-May-25,CUST605,Karan,Female,52,Shoes,Fashion,Shoes,Sony,2,25487,20,10194.8,7340.26,126,48245.46,Net Banking,Mobile App,Delhi,Delhi,North,4,Returned,5,Returned
+ORD00916,11-Nov-25,CUST763,Riya,Male,51,Laptop,Electronics,Laptop,HP,3,3238,0,0,1748.52,121,11583.52,UPI,Website,Delhi,Delhi,North,3,No Return,3,Shipped
+ORD00917,09-May-25,CUST223,Rahul,Male,59,Watch,Fashion,Watch,Noise,4,9369,5,1873.8,6408.4,483,42493.6,Net Banking,Website,Bangalore,Karnataka,South,2,No Return,2,Cancelled
+ORD00918,11-Jan-26,CUST283,Sneha,Male,20,Backpack,Accessories,Backpack,Boat,5,7487,20,7487,5390.64,492,35830.64,Card,Website,Chandigarh,Punjab,North,4,No Return,4,Returned
+ORD00919,10-Aug-25,CUST652,Anjali,Female,42,Camera,Electronics,Camera,Lenovo,5,8615,5,2153.75,7365.82,143,48430.07,UPI,Website,Mumbai,Maharashtra,West,7,No Return,5,Delivered
+ORD00920,15-Oct-25,CUST688,Amit,Female,47,Headphones,Electronics,Headphones,Lenovo,1,17074,15,2561.1,2612.32,197,17322.22,Card,Mobile App,Delhi,Delhi,North,10,Returned,2,Delivered
+ORD00921,20-Jun-25,CUST454,Karan,Female,22,Phone,Electronics,Phone,Lenovo,5,31555,0,0,28399.5,290,186464.5,Card,Website,Jaipur,Rajasthan,North,5,Returned,2,Delivered
+ORD00922,04-Nov-25,CUST251,Sneha,Male,42,Camera,Electronics,Camera,Noise,2,36468,10,7293.6,11815.63,106,77564.03,Net Banking,Mobile App,Lucknow,Uttar Pradesh,North,7,No Return,1,Delivered
+ORD00923,28-Mar-26,CUST613,Neha,Female,19,Watch,Fashion,Watch,Apple,1,17001,20,3400.2,2448.14,72,16120.94,UPI,Website,Patiala,Punjab,North,3,No Return,4,Delivered
+ORD00924,15-Jun-25,CUST764,Vikas,Male,24,Watch,Fashion,Watch,Dell,1,2091,10,209.1,338.74,95,2315.64,Cash on Delivery,Mobile App,Pune,Maharashtra,West,4,Returned,4,Cancelled
+ORD00925,20-Apr-25,CUST685,Riya,Female,24,Laptop,Electronics,Laptop,Adidas,5,27061,15,20295.75,20701.67,389,136099.92,UPI,Mobile App,Jaipur,Rajasthan,North,4,No Return,2,Cancelled
+ORD00926,09-Dec-25,CUST300,Priya,Female,35,Laptop,Electronics,Laptop,Samsung,3,9812,20,5887.2,4238.78,136,27923.58,Cash on Delivery,Website,Delhi,Delhi,North,5,Returned,5,Cancelled
+ORD00927,07-Sep-25,CUST542,Arjun,Female,48,Tablet,Electronics,Tablet,Boat,2,42773,0,0,15398.28,254,101198.28,Cash on Delivery,Website,Pune,Maharashtra,West,3,Returned,2,Cancelled
+ORD00928,07-Apr-26,CUST512,Priya,Male,42,Camera,Electronics,Camera,Apple,1,14852,15,2227.8,2272.36,109,15005.56,Card,Mobile App,Delhi,Delhi,North,5,No Return,5,Returned
+ORD00929,06-Sep-25,CUST876,Anjali,Male,58,Mouse,Electronics,Mouse,HP,3,8496,15,3823.2,3899.66,138,25702.46,Net Banking,Website,Delhi,Delhi,North,9,No Return,3,Shipped
+ORD00930,25-Oct-25,CUST222,Anjali,Male,49,Mouse,Electronics,Mouse,Dell,3,8963,20,5377.8,3872.02,168,25551.22,Cash on Delivery,Website,Delhi,Delhi,North,8,Returned,1,Shipped
+ORD00931,19-Oct-25,CUST108,Sneha,Male,41,Laptop,Electronics,Laptop,HP,5,13929,0,0,12536.1,429,82610.1,Card,Website,Mumbai,Maharashtra,West,1,No Return,2,Delivered
+ORD00932,11-Mar-26,CUST917,Rahul,Male,20,Phone,Electronics,Phone,Lenovo,3,5257,0,0,2838.78,305,18914.78,Cash on Delivery,Mobile App,Pune,Maharashtra,West,8,Returned,1,Cancelled
+ORD00933,03-Dec-25,CUST730,Neha,Female,34,Backpack,Accessories,Backpack,Lenovo,5,38726,10,19363,31368.06,69,205704.06,Cash on Delivery,Website,Bangalore,Karnataka,South,5,No Return,3,Shipped
+ORD00934,05-May-25,CUST802,Rahul,Female,37,Mouse,Electronics,Mouse,HP,3,36827,20,22096.2,15909.26,406,104700.06,Card,Mobile App,Jaipur,Rajasthan,North,2,No Return,1,Cancelled
+ORD00935,14-Mar-26,CUST176,Neha,Male,41,Laptop,Electronics,Laptop,Lenovo,5,41450,15,31087.5,31709.25,432,208303.75,Card,Mobile App,Lucknow,Uttar Pradesh,North,10,Returned,3,Shipped
+ORD00936,20-Oct-25,CUST368,Anjali,Female,49,Watch,Fashion,Watch,Boat,4,26576,5,5315.2,18177.98,152,119318.78,Cash on Delivery,Mobile App,Delhi,Delhi,North,9,Returned,4,Shipped
+ORD00937,23-May-25,CUST910,Arjun,Male,29,Headphones,Electronics,Headphones,Samsung,1,24845,5,1242.25,4248.49,17,27868.24,Cash on Delivery,Website,Mumbai,Maharashtra,West,9,Returned,4,Delivered
+ORD00938,03-Apr-26,CUST635,Riya,Male,55,Headphones,Electronics,Headphones,Boat,2,49886,15,14965.8,15265.12,266,100337.32,UPI,Website,Chandigarh,Punjab,North,1,No Return,5,Shipped
+ORD00939,16-Oct-25,CUST755,Anjali,Female,52,Phone,Electronics,Phone,Sony,5,31838,15,23878.5,24356.07,154,159821.57,Net Banking,Website,Jaipur,Rajasthan,North,4,No Return,1,Shipped
+ORD00940,21-Jun-25,CUST232,Riya,Female,43,Shoes,Fashion,Shoes,Adidas,5,41624,5,10406,35588.52,290,233592.52,Net Banking,Website,Bangalore,Karnataka,South,3,No Return,2,Shipped
+ORD00941,13-Oct-25,CUST928,Karan,Female,40,Shoes,Fashion,Shoes,Adidas,5,7734,0,0,6960.6,264,45894.6,UPI,Mobile App,Mumbai,Maharashtra,West,5,No Return,5,Delivered
+ORD00942,10-Dec-25,CUST468,Priya,Female,46,Backpack,Accessories,Backpack,Adidas,1,13846,5,692.3,2367.67,300,15821.37,UPI,Mobile App,Chandigarh,Punjab,North,6,Returned,5,Cancelled
+ORD00943,20-Feb-26,CUST272,Neha,Male,51,Backpack,Accessories,Backpack,Adidas,3,7577,10,2273.1,3682.42,242,24382.32,Net Banking,Website,Patiala,Punjab,North,1,No Return,2,Returned
+ORD00944,07-Apr-26,CUST621,Priya,Female,20,Keyboard,Electronics,Keyboard,Boat,5,32146,10,16073,26038.26,38,170733.26,Net Banking,Mobile App,Patiala,Punjab,North,3,Returned,1,Returned
+ORD00945,15-Nov-25,CUST101,Priya,Female,37,Tablet,Electronics,Tablet,Sony,2,36331,15,10899.3,11117.29,386,73265.99,Cash on Delivery,Website,Mumbai,Maharashtra,West,3,Returned,5,Shipped
+ORD00946,09-Nov-25,CUST501,Priya,Male,54,Backpack,Accessories,Backpack,Dell,3,30863,0,0,16666.02,493,109748.02,Card,Mobile App,Patiala,Punjab,North,10,No Return,3,Cancelled
+ORD00947,14-Mar-26,CUST195,Neha,Male,18,Tablet,Electronics,Tablet,HP,1,14652,0,0,2637.36,24,17313.36,Card,Mobile App,Chandigarh,Punjab,North,4,No Return,4,Returned
+ORD00948,06-Apr-26,CUST810,Amit,Male,21,Headphones,Electronics,Headphones,Adidas,5,1032,10,516,835.92,234,5713.92,Card,Website,Mumbai,Maharashtra,West,4,No Return,3,Delivered
+ORD00949,19-Apr-25,CUST787,Karan,Female,42,Camera,Electronics,Camera,Dell,5,4697,0,0,4227.3,377,28089.3,Card,Mobile App,Pune,Maharashtra,West,7,No Return,3,Delivered
+ORD00950,26-Feb-26,CUST171,Sneha,Male,44,Mouse,Electronics,Mouse,Lenovo,1,5912,10,591.2,957.74,45,6323.54,Net Banking,Website,Mumbai,Maharashtra,West,2,Returned,2,Delivered
+ORD00951,12-Nov-25,CUST398,Amit,Female,39,Shoes,Fashion,Shoes,Boat,2,43132,0,0,15527.52,296,102087.52,Cash on Delivery,Website,Chandigarh,Punjab,North,7,Returned,1,Delivered
+ORD00952,25-Apr-25,CUST858,Vikas,Male,23,Mouse,Electronics,Mouse,HP,1,47653,5,2382.65,8148.66,319,53738.01,Net Banking,Website,Bangalore,Karnataka,South,9,Returned,3,Delivered
+ORD00953,10-Feb-26,CUST827,Anjali,Male,49,Mouse,Electronics,Mouse,Lenovo,5,34519,10,17259.5,27960.39,202,183497.89,Net Banking,Website,Pune,Maharashtra,West,4,No Return,1,Cancelled
+ORD00954,10-Nov-25,CUST761,Amit,Female,23,Watch,Fashion,Watch,Noise,3,39182,15,17631.9,17984.54,76,117974.64,UPI,Website,Jaipur,Rajasthan,North,6,No Return,5,Delivered
+ORD00955,16-May-25,CUST420,Arjun,Female,51,Mouse,Electronics,Mouse,Sony,4,34291,20,27432.8,19751.62,458,129940.82,Card,Mobile App,Mumbai,Maharashtra,West,7,Returned,4,Delivered
+ORD00956,13-May-25,CUST382,Priya,Male,44,Watch,Fashion,Watch,Dell,4,30226,0,0,21762.72,174,142840.72,Net Banking,Mobile App,Jaipur,Rajasthan,North,7,No Return,3,Returned
+ORD00957,10-Mar-26,CUST302,Anjali,Female,54,Camera,Electronics,Camera,Noise,3,3452,20,2071.2,1491.26,219,9995.06,Cash on Delivery,Website,Jaipur,Rajasthan,North,5,Returned,3,Shipped
+ORD00958,11-Dec-25,CUST170,Neha,Male,24,Phone,Electronics,Phone,HP,4,29812,5,5962.4,20391.41,257,133934.01,Card,Website,Bangalore,Karnataka,South,7,Returned,3,Delivered
+ORD00959,10-Apr-25,CUST305,Anjali,Female,33,Phone,Electronics,Phone,Apple,4,12665,10,5066,8206.92,304,54104.92,Net Banking,Website,Jaipur,Rajasthan,North,9,Returned,3,Returned
+ORD00960,28-Nov-25,CUST108,Sneha,Male,34,Headphones,Electronics,Headphones,HP,2,19888,5,1988.8,6801.7,174,44762.9,Cash on Delivery,Mobile App,Delhi,Delhi,North,7,Returned,3,Shipped
+ORD00961,21-Nov-25,CUST808,Priya,Male,58,Keyboard,Electronics,Keyboard,Adidas,5,24187,20,24187,17414.64,271,114433.64,Net Banking,Mobile App,Delhi,Delhi,North,9,Returned,2,Delivered
+ORD00962,22-Jul-25,CUST203,Sneha,Male,21,Shoes,Fashion,Shoes,Lenovo,1,27343,5,1367.15,4675.65,427,31078.5,Card,Website,Chandigarh,Punjab,North,6,No Return,1,Shipped
+ORD00963,23-Oct-25,CUST992,Priya,Female,23,Laptop,Electronics,Laptop,Dell,1,36253,0,0,6525.54,493,43271.54,UPI,Website,Patiala,Punjab,North,7,No Return,2,Delivered
+ORD00964,14-Sep-25,CUST363,Sneha,Male,47,Phone,Electronics,Phone,HP,2,6461,0,0,2325.96,137,15384.96,Net Banking,Mobile App,Mumbai,Maharashtra,West,4,Returned,2,Cancelled
+ORD00965,07-Oct-25,CUST175,Neha,Female,26,Headphones,Electronics,Headphones,Sony,5,34990,20,34990,25192.8,340,165492.8,Card,Website,Lucknow,Uttar Pradesh,North,2,Returned,1,Shipped
+ORD00966,27-Feb-26,CUST509,Arjun,Male,33,Keyboard,Electronics,Keyboard,Boat,3,6736,15,3031.2,3091.82,130,20398.62,UPI,Website,Delhi,Delhi,North,8,Returned,3,Cancelled
+ORD00967,09-Feb-26,CUST151,Amit,Female,27,Headphones,Electronics,Headphones,Nike,1,24799,0,0,4463.82,488,29750.82,Card,Mobile App,Chandigarh,Punjab,North,1,Returned,4,Shipped
+ORD00968,13-May-25,CUST611,Rahul,Male,47,Mouse,Electronics,Mouse,Nike,1,9195,20,1839,1324.08,174,8854.08,UPI,Website,Delhi,Delhi,North,2,Returned,5,Returned
+ORD00969,07-Apr-26,CUST466,Riya,Female,41,Keyboard,Electronics,Keyboard,Adidas,3,46281,5,6942.15,23742.15,54,155697,UPI,Mobile App,Mumbai,Maharashtra,West,8,Returned,2,Cancelled
+ORD00970,09-Dec-25,CUST886,Sneha,Male,47,Keyboard,Electronics,Keyboard,Noise,3,11665,15,5249.25,5354.23,392,35491.99,Card,Mobile App,Jaipur,Rajasthan,North,6,No Return,5,Returned
+ORD00971,01-May-25,CUST692,Neha,Female,23,Keyboard,Electronics,Keyboard,Sony,2,41905,20,16762,12068.64,427,79543.64,UPI,Mobile App,Patiala,Punjab,North,5,No Return,1,Cancelled
+ORD00972,27-Aug-25,CUST251,Arjun,Male,38,Keyboard,Electronics,Keyboard,Lenovo,1,13855,15,2078.25,2119.82,127,14023.57,Cash on Delivery,Website,Jaipur,Rajasthan,North,7,Returned,5,Delivered
+ORD00973,24-Feb-26,CUST798,Sneha,Male,51,Shoes,Fashion,Shoes,Sony,4,29217,0,0,21036.24,188,138092.24,UPI,Mobile App,Mumbai,Maharashtra,West,10,No Return,1,Delivered
+ORD00974,08-Jun-25,CUST431,Priya,Female,19,Backpack,Accessories,Backpack,Nike,3,34047,0,0,18385.38,42,120568.38,UPI,Mobile App,Delhi,Delhi,North,3,No Return,5,Delivered
+ORD00975,17-Jul-25,CUST242,Riya,Male,47,Watch,Fashion,Watch,Boat,4,40544,5,8108.8,27732.1,384,182183.3,Cash on Delivery,Website,Delhi,Delhi,North,10,Returned,1,Cancelled
+ORD00976,27-Sep-25,CUST276,Rahul,Male,23,Headphones,Electronics,Headphones,Nike,1,34177,15,5126.55,5229.08,114,34393.53,Card,Website,Bangalore,Karnataka,South,7,No Return,5,Cancelled
+ORD00977,10-Sep-25,CUST137,Neha,Male,35,Watch,Fashion,Watch,Sony,4,32481,20,25984.8,18709.06,431,123079.26,UPI,Mobile App,Mumbai,Maharashtra,West,5,Returned,3,Cancelled
+ORD00978,30-Sep-25,CUST947,Anjali,Male,45,Camera,Electronics,Camera,Dell,4,26540,10,10616,17197.92,448,113189.92,Net Banking,Mobile App,Bangalore,Karnataka,South,8,Returned,5,Shipped
+ORD00979,20-Aug-25,CUST468,Neha,Female,57,Keyboard,Electronics,Keyboard,Boat,2,7396,20,2958.4,2130.05,160,14123.65,Net Banking,Mobile App,Chandigarh,Punjab,North,2,Returned,4,Returned
+ORD00980,14-Mar-26,CUST944,Riya,Male,19,Laptop,Electronics,Laptop,Samsung,4,12010,5,2402,8214.84,40,53892.84,Cash on Delivery,Mobile App,Mumbai,Maharashtra,West,2,Returned,1,Returned
+ORD00981,17-Jun-25,CUST139,Riya,Male,26,Tablet,Electronics,Tablet,Noise,2,2315,20,926,666.72,203,4573.72,UPI,Mobile App,Pune,Maharashtra,West,10,No Return,4,Returned
+ORD00982,05-Oct-25,CUST106,Sneha,Male,59,Laptop,Electronics,Laptop,Apple,2,14022,20,5608.8,4038.34,455,26928.54,Card,Website,Delhi,Delhi,North,1,No Return,3,Returned
+ORD00983,25-Mar-26,CUST518,Rahul,Male,58,Backpack,Accessories,Backpack,Sony,3,31885,5,4782.75,16357,220,107449.26,Net Banking,Website,Jaipur,Rajasthan,North,8,No Return,1,Returned
+ORD00984,08-Nov-25,CUST396,Rahul,Male,32,Backpack,Accessories,Backpack,HP,2,12286,20,4914.4,3538.37,422,23617.97,Card,Mobile App,Patiala,Punjab,North,4,No Return,3,Cancelled
+ORD00985,18-Apr-25,CUST376,Riya,Female,23,Tablet,Electronics,Tablet,Nike,3,49317,20,29590.2,21304.94,76,139741.74,Cash on Delivery,Website,Pune,Maharashtra,West,7,No Return,4,Shipped
+ORD00986,13-Feb-26,CUST180,Rahul,Male,59,Phone,Electronics,Phone,HP,1,2308,20,461.6,332.35,445,2623.75,Cash on Delivery,Mobile App,Bangalore,Karnataka,South,6,No Return,5,Shipped
+ORD00987,07-Apr-26,CUST544,Sneha,Male,49,Shoes,Fashion,Shoes,Noise,2,12242,5,1224.2,4186.76,314,27760.56,Net Banking,Website,Delhi,Delhi,North,10,Returned,4,Returned
+ORD00988,16-Jul-25,CUST865,Vikas,Male,54,Mouse,Electronics,Mouse,Sony,4,2691,15,1614.6,1646.89,248,11044.29,Net Banking,Mobile App,Chandigarh,Punjab,North,9,No Return,1,Returned
+ORD00989,06-Aug-25,CUST852,Anjali,Male,52,Laptop,Electronics,Laptop,Noise,1,3151,15,472.65,482.1,224,3384.45,UPI,Mobile App,Bangalore,Karnataka,South,6,No Return,2,Delivered
+ORD00990,13-Nov-25,CUST213,Riya,Male,52,Mouse,Electronics,Mouse,Nike,5,31839,15,23879.25,24356.83,295,159967.58,Net Banking,Website,Pune,Maharashtra,West,3,Returned,4,Returned
+ORD00991,24-Oct-25,CUST982,Vikas,Male,54,Backpack,Accessories,Backpack,Boat,1,18336,0,0,3300.48,116,21752.48,Card,Mobile App,Lucknow,Uttar Pradesh,North,8,No Return,2,Returned
+ORD00992,31-Jan-26,CUST283,Karan,Female,57,Shoes,Fashion,Shoes,Nike,5,39114,20,39114,28162.08,411,185029.08,Net Banking,Mobile App,Mumbai,Maharashtra,West,8,Returned,2,Delivered
+ORD00993,30-Aug-25,CUST225,Karan,Male,27,Backpack,Accessories,Backpack,Samsung,1,17294,15,2594.1,2645.98,210,17555.88,Cash on Delivery,Website,Jaipur,Rajasthan,North,3,Returned,2,Shipped
+ORD00994,02-Mar-26,CUST442,Sneha,Female,48,Watch,Fashion,Watch,Noise,1,24272,20,4854.4,3495.17,462,23374.77,Card,Website,Bangalore,Karnataka,South,7,Returned,4,Cancelled
+ORD00995,10-Jul-25,CUST205,Vikas,Male,50,Laptop,Electronics,Laptop,HP,2,39387,15,11816.1,12052.42,127,79137.32,UPI,Mobile App,Delhi,Delhi,North,5,No Return,5,Delivered
+ORD00996,09-May-25,CUST724,Karan,Male,30,Mouse,Electronics,Mouse,Lenovo,4,1783,5,356.6,1219.57,382,8376.97,UPI,Mobile App,Chandigarh,Punjab,North,6,Returned,5,Delivered
+ORD00997,23-Jun-25,CUST522,Rahul,Male,34,Mouse,Electronics,Mouse,Nike,2,9037,20,3614.8,2602.66,427,17488.86,Card,Mobile App,Mumbai,Maharashtra,West,8,No Return,4,Shipped
+ORD00998,16-Oct-25,CUST640,Amit,Female,28,Watch,Fashion,Watch,Boat,4,4700,10,1880,3045.6,112,20077.6,UPI,Website,Lucknow,Uttar Pradesh,North,2,No Return,3,Cancelled
+ORD00999,02-Feb-26,CUST947,Priya,Male,27,Headphones,Electronics,Headphones,Noise,3,3766,0,0,2033.64,38,13369.64,Card,Mobile App,Chandigarh,Punjab,North,2,Returned,5,Cancelled
+ORD01000,15-Dec-25,CUST131,Sneha,Female,39,Headphones,Electronics,Headphones,Adidas,3,26044,20,15626.4,11251.01,346,74102.61,Net Banking,Website,Patiala,Punjab,North,9,Returned,3,Shipped
